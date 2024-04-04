@@ -5,42 +5,156 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: Hong Kong 01, server: q8at0puf.jogiyw.sbs, port: 15003, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Hong Kong 02, server: q8at0puf.jogiyw.sbs, port: 15006, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Hong Kong 03, server: q8at0puf.jogiyw.sbs, port: 15009, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Hong Kong 04, server: q8at0puf.jogiyw.sbs, port: 15013, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Hong Kong 05, server: q8at0puf.jogiyw.sbs, port: 15016, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Hong Kong 06, server: q8at0puf.jogiyw.sbs, port: 15019, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Hong Kong 07, server: q8at0puf.jogiyw.sbs, port: 15023, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Hong Kong 08, server: q8at0puf.jogiyw.sbs, port: 15026, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Hong Kong 09, server: q8at0puf.jogiyw.sbs, port: 15029, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Hong Kong 10, server: q8at0puf.jogiyw.sbs, port: 15033, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Singapore 01, server: q8at0puf.jogiyw.sbs, port: 18803, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Singapore 02, server: q8at0puf.jogiyw.sbs, port: 18806, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Singapore 03, server: q8at0puf.jogiyw.sbs, port: 18809, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Singapore 04, server: q8at0puf.jogiyw.sbs, port: 18813, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Singapore 05, server: q8at0puf.jogiyw.sbs, port: 18816, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Japan 01, server: hwxi4weq.jogiyw.sbs, port: 17003, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Japan 02, server: hwxi4weq.jogiyw.sbs, port: 17006, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Japan 03, server: hwxi4weq.jogiyw.sbs, port: 17009, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Japan 04, server: hwxi4weq.jogiyw.sbs, port: 17013, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Japan 05, server: hwxi4weq.jogiyw.sbs, port: 17016, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: United States 01, server: hwxi4weq.jogiyw.sbs, port: 16003, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: United States 02, server: hwxi4weq.jogiyw.sbs, port: 16006, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: United States 03, server: hwxi4weq.jogiyw.sbs, port: 16009, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: United States 04, server: hwxi4weq.jogiyw.sbs, port: 16013, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: United States 05, server: hwxi4weq.jogiyw.sbs, port: 16016, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Taiwan 01, server: q8at0puf.jogiyw.sbs, port: 19003, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Taiwan 02, server: q8at0puf.jogiyw.sbs, port: 19006, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Taiwan 03, server: q8at0puf.jogiyw.sbs, port: 19009, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Taiwan 04, server: q8at0puf.jogiyw.sbs, port: 19013, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Taiwan 05, server: q8at0puf.jogiyw.sbs, port: 19016, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Germany 01, server: q8at0puf.jogiyw.sbs, port: 21003, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Germany 02, server: q8at0puf.jogiyw.sbs, port: 21006, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: Germany 03, server: q8at0puf.jogiyw.sbs, port: 21009, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: United Kingdom 01, server: q8at0puf.jogiyw.sbs, port: 22003, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: United Kingdom 02, server: q8at0puf.jogiyw.sbs, port: 22006, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
-  - {name: United Kingdom 03, server: q8at0puf.jogiyw.sbs, port: 22009, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, udp: true}
+  - {"name":"🇭🇰 Hong Kong 01","type":"trojan","server":"cff2699.xabsqj.xyz","port":19178,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 02","type":"trojan","server":"cff2699.xabsqj.xyz","port":23569,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 03","type":"trojan","server":"cff2699.xabsqj.xyz","port":21585,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 04","type":"trojan","server":"cff2699.xabsqj.xyz","port":20411,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 05","type":"trojan","server":"cff2699.xabsqj.xyz","port":16873,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 06","type":"trojan","server":"cff2699.xabsqj.xyz","port":20130,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 07","type":"trojan","server":"cff2699.xabsqj.xyz","port":16850,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 08","type":"trojan","server":"cff2699.xabsqj.xyz","port":17561,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 09","type":"trojan","server":"cff2699.xabsqj.xyz","port":24250,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 10","type":"trojan","server":"cff2699.xabsqj.xyz","port":22475,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 11","type":"trojan","server":"cff2699.xabsqj.xyz","port":22186,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 12","type":"trojan","server":"cff2699.xabsqj.xyz","port":23545,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 13","type":"trojan","server":"cff2699.xabsqj.xyz","port":18274,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 14","type":"trojan","server":"cff2699.xabsqj.xyz","port":23214,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 15","type":"trojan","server":"cff2699.xabsqj.xyz","port":19605,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 16","type":"trojan","server":"cff2699.xabsqj.xyz","port":16597,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 17","type":"trojan","server":"cff2699.xabsqj.xyz","port":20928,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 18","type":"trojan","server":"cff2699.xabsqj.xyz","port":17156,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 19","type":"trojan","server":"cff2699.xabsqj.xyz","port":21789,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 20","type":"trojan","server":"cff2699.xabsqj.xyz","port":20930,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 21","type":"trojan","server":"728b7b7.hfdpho.lol","port":20432,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 22","type":"trojan","server":"728b7b7.hfdpho.lol","port":22270,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 23","type":"trojan","server":"728b7b7.hfdpho.lol","port":20911,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 24","type":"trojan","server":"728b7b7.hfdpho.lol","port":20064,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 25","type":"trojan","server":"728b7b7.hfdpho.lol","port":19856,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 26","type":"trojan","server":"728b7b7.hfdpho.lol","port":21189,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 27","type":"trojan","server":"728b7b7.hfdpho.lol","port":20357,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 28","type":"trojan","server":"728b7b7.hfdpho.lol","port":16875,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 29","type":"trojan","server":"728b7b7.hfdpho.lol","port":23802,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 30","type":"trojan","server":"728b7b7.hfdpho.lol","port":19595,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 31","type":"trojan","server":"728b7b7.hfdpho.lol","port":23611,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 32","type":"trojan","server":"728b7b7.hfdpho.lol","port":23918,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 33","type":"trojan","server":"728b7b7.hfdpho.lol","port":17011,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 34","type":"trojan","server":"728b7b7.hfdpho.lol","port":16927,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 35","type":"trojan","server":"728b7b7.hfdpho.lol","port":17566,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 36","type":"trojan","server":"728b7b7.hfdpho.lol","port":18600,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 37","type":"trojan","server":"728b7b7.hfdpho.lol","port":20915,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 38","type":"trojan","server":"728b7b7.hfdpho.lol","port":17444,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 39","type":"trojan","server":"728b7b7.hfdpho.lol","port":20409,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰 Hong Kong 40","type":"trojan","server":"728b7b7.hfdpho.lol","port":20516,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸 USA Seattle 01","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":20476,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸 USA Seattle 02","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":17427,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸 USA Seattle 03","type":"trojan","server":"9.9.9.9","port":22579,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸 USA Seattle 04","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":17651,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸 USA Seattle 05","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":20154,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸 USA Seattle 06","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":18964,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸 USA Seattle 07","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":19412,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸 USA Seattle 08","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":19014,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸 USA Seattle 09","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":18918,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸 USA Seattle 10","type":"trojan","server":"eccb170.lmoicb.xyz","port":20435,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸 USA Seattle 11","type":"trojan","server":"eccb170.lmoicb.xyz","port":17231,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸 USA Seattle 12","type":"trojan","server":"eccb170.lmoicb.xyz","port":20116,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸 USA Seattle 13","type":"trojan","server":"eccb170.lmoicb.xyz","port":19913,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸 USA Seattle 14","type":"trojan","server":"eccb170.lmoicb.xyz","port":20044,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸 USA Seattle 15","type":"trojan","server":"eccb170.lmoicb.xyz","port":17166,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸 USA Seattle 16","type":"trojan","server":"eccb170.lmoicb.xyz","port":23062,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸 USA Seattle 17","type":"trojan","server":"eccb170.lmoicb.xyz","port":17526,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇺🇸 USA Seattle 18","type":"trojan","server":"eccb170.lmoicb.xyz","port":24025,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 01","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":17756,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 02","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":22989,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 03","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":18083,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 04","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":23868,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 05","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":20255,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 06","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":18465,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 07","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":23617,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 08","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":20861,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 09","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":19101,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 10","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":19693,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 11","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":18334,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 12","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":18327,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 13","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":23922,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 14","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":18623,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 15","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":21257,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 16","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":21718,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 17","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":22030,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 18","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":20824,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 19","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":19039,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 20","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":19070,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 21","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":18687,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 22","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":21881,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 23","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":21238,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 24","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":17831,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 25","type":"trojan","server":"4b21f07.sxmjxs.xyz","port":19161,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 26","type":"trojan","server":"eccb170.lmoicb.xyz","port":23262,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 27","type":"trojan","server":"eccb170.lmoicb.xyz","port":23502,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 28","type":"trojan","server":"eccb170.lmoicb.xyz","port":18525,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 29","type":"trojan","server":"eccb170.lmoicb.xyz","port":23964,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 30","type":"trojan","server":"eccb170.lmoicb.xyz","port":18026,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 31","type":"trojan","server":"eccb170.lmoicb.xyz","port":24021,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 32","type":"trojan","server":"eccb170.lmoicb.xyz","port":20495,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 33","type":"trojan","server":"eccb170.lmoicb.xyz","port":21392,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 34","type":"trojan","server":"eccb170.lmoicb.xyz","port":20310,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 35","type":"trojan","server":"eccb170.lmoicb.xyz","port":21640,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 36","type":"trojan","server":"eccb170.lmoicb.xyz","port":23492,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 37","type":"trojan","server":"eccb170.lmoicb.xyz","port":23675,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 38","type":"trojan","server":"eccb170.lmoicb.xyz","port":21874,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 39","type":"trojan","server":"eccb170.lmoicb.xyz","port":22849,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 40","type":"trojan","server":"eccb170.lmoicb.xyz","port":21695,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 41","type":"trojan","server":"eccb170.lmoicb.xyz","port":18089,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 42","type":"trojan","server":"eccb170.lmoicb.xyz","port":18781,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 43","type":"trojan","server":"eccb170.lmoicb.xyz","port":17809,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 44","type":"trojan","server":"eccb170.lmoicb.xyz","port":22309,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 45","type":"trojan","server":"eccb170.lmoicb.xyz","port":18109,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 46","type":"trojan","server":"eccb170.lmoicb.xyz","port":22836,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 47","type":"trojan","server":"eccb170.lmoicb.xyz","port":22036,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 48","type":"trojan","server":"eccb170.lmoicb.xyz","port":23751,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 49","type":"trojan","server":"eccb170.lmoicb.xyz","port":24121,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇯🇵 Japan 50","type":"trojan","server":"eccb170.lmoicb.xyz","port":22326,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 01","type":"trojan","server":"cff2699.xabsqj.xyz","port":20710,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 02","type":"trojan","server":"cff2699.xabsqj.xyz","port":22048,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 03","type":"trojan","server":"cff2699.xabsqj.xyz","port":24090,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 04","type":"trojan","server":"cff2699.xabsqj.xyz","port":18594,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 05","type":"trojan","server":"cff2699.xabsqj.xyz","port":20161,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 06","type":"trojan","server":"cff2699.xabsqj.xyz","port":17632,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 07","type":"trojan","server":"cff2699.xabsqj.xyz","port":21137,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 08","type":"trojan","server":"cff2699.xabsqj.xyz","port":24208,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 09","type":"trojan","server":"cff2699.xabsqj.xyz","port":17266,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 10","type":"trojan","server":"cff2699.xabsqj.xyz","port":22329,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 11","type":"trojan","server":"728b7b7.hfdpho.lol","port":22568,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 12","type":"trojan","server":"728b7b7.hfdpho.lol","port":18993,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 13","type":"trojan","server":"728b7b7.hfdpho.lol","port":22715,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 14","type":"trojan","server":"728b7b7.hfdpho.lol","port":21140,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 15","type":"trojan","server":"728b7b7.hfdpho.lol","port":20470,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 16","type":"trojan","server":"728b7b7.hfdpho.lol","port":20910,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 17","type":"trojan","server":"728b7b7.hfdpho.lol","port":21971,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 18","type":"trojan","server":"728b7b7.hfdpho.lol","port":22389,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 19","type":"trojan","server":"728b7b7.hfdpho.lol","port":17485,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇨🇳 Taiwan 20","type":"trojan","server":"728b7b7.hfdpho.lol","port":23047,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 01","type":"trojan","server":"cff2699.xabsqj.xyz","port":21926,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 02","type":"trojan","server":"cff2699.xabsqj.xyz","port":23750,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 03","type":"trojan","server":"cff2699.xabsqj.xyz","port":20808,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 04","type":"trojan","server":"cff2699.xabsqj.xyz","port":23821,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 05","type":"trojan","server":"cff2699.xabsqj.xyz","port":24114,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 06","type":"trojan","server":"cff2699.xabsqj.xyz","port":18464,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 07","type":"trojan","server":"cff2699.xabsqj.xyz","port":19442,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 08","type":"trojan","server":"cff2699.xabsqj.xyz","port":20340,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 09","type":"trojan","server":"cff2699.xabsqj.xyz","port":16647,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 10","type":"trojan","server":"cff2699.xabsqj.xyz","port":17504,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 11","type":"trojan","server":"cff2699.xabsqj.xyz","port":21777,"password":"e092e586-4495-4d78-b42f-f08db627b2cd","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 12","type":"trojan","server":"728b7b7.hfdpho.lol","port":19990,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 13","type":"trojan","server":"728b7b7.hfdpho.lol","port":23312,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 14","type":"trojan","server":"728b7b7.hfdpho.lol","port":22129,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 15","type":"trojan","server":"728b7b7.hfdpho.lol","port":23483,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 16","type":"trojan","server":"728b7b7.hfdpho.lol","port":23362,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 17","type":"trojan","server":"728b7b7.hfdpho.lol","port":20626,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 18","type":"trojan","server":"728b7b7.hfdpho.lol","port":20836,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 19","type":"trojan","server":"728b7b7.hfdpho.lol","port":18224,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 20","type":"trojan","server":"728b7b7.hfdpho.lol","port":17549,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 21","type":"trojan","server":"728b7b7.hfdpho.lol","port":19056,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬 Singapore 22","type":"trojan","server":"728b7b7.hfdpho.lol","port":20673,"password":"3f726ced-b0c2-42dd-8f6b-b0af12218c98","sni":"v1-dy.ixigua.com","skip-cert-verify":true,"udp":true}
 proxy-groups:
   - name: 🚀 全局设置
     type: select
@@ -58,83 +172,311 @@ proxy-groups:
   - name: 🚀 手动选择
     type: select
     proxies:
-      - Hong Kong 01
-      - Hong Kong 02
-      - Hong Kong 03
-      - Hong Kong 04
-      - Hong Kong 05
-      - Hong Kong 06
-      - Hong Kong 07
-      - Hong Kong 08
-      - Hong Kong 09
-      - Hong Kong 10
-      - Singapore 01
-      - Singapore 02
-      - Singapore 03
-      - Singapore 04
-      - Singapore 05
-      - Japan 01
-      - Japan 02
-      - Japan 03
-      - Japan 04
-      - Japan 05
-      - United States 01
-      - United States 02
-      - United States 03
-      - United States 04
-      - United States 05
-      - Taiwan 01
-      - Taiwan 02
-      - Taiwan 03
-      - Taiwan 04
-      - Taiwan 05
-      - Germany 01
-      - Germany 02
-      - Germany 03
-      - United Kingdom 01
-      - United Kingdom 02
-      - United Kingdom 03
+      - 🇭🇰 Hong Kong 01
+      - 🇭🇰 Hong Kong 02
+      - 🇭🇰 Hong Kong 03
+      - 🇭🇰 Hong Kong 04
+      - 🇭🇰 Hong Kong 05
+      - 🇭🇰 Hong Kong 06
+      - 🇭🇰 Hong Kong 07
+      - 🇭🇰 Hong Kong 08
+      - 🇭🇰 Hong Kong 09
+      - 🇭🇰 Hong Kong 10
+      - 🇭🇰 Hong Kong 11
+      - 🇭🇰 Hong Kong 12
+      - 🇭🇰 Hong Kong 13
+      - 🇭🇰 Hong Kong 14
+      - 🇭🇰 Hong Kong 15
+      - 🇭🇰 Hong Kong 16
+      - 🇭🇰 Hong Kong 17
+      - 🇭🇰 Hong Kong 18
+      - 🇭🇰 Hong Kong 19
+      - 🇭🇰 Hong Kong 20
+      - 🇭🇰 Hong Kong 21
+      - 🇭🇰 Hong Kong 22
+      - 🇭🇰 Hong Kong 23
+      - 🇭🇰 Hong Kong 24
+      - 🇭🇰 Hong Kong 25
+      - 🇭🇰 Hong Kong 26
+      - 🇭🇰 Hong Kong 27
+      - 🇭🇰 Hong Kong 28
+      - 🇭🇰 Hong Kong 29
+      - 🇭🇰 Hong Kong 30
+      - 🇭🇰 Hong Kong 31
+      - 🇭🇰 Hong Kong 32
+      - 🇭🇰 Hong Kong 33
+      - 🇭🇰 Hong Kong 34
+      - 🇭🇰 Hong Kong 35
+      - 🇭🇰 Hong Kong 36
+      - 🇭🇰 Hong Kong 37
+      - 🇭🇰 Hong Kong 38
+      - 🇭🇰 Hong Kong 39
+      - 🇭🇰 Hong Kong 40
+      - 🇺🇸 USA Seattle 01
+      - 🇺🇸 USA Seattle 02
+      - 🇺🇸 USA Seattle 03
+      - 🇺🇸 USA Seattle 04
+      - 🇺🇸 USA Seattle 05
+      - 🇺🇸 USA Seattle 06
+      - 🇺🇸 USA Seattle 07
+      - 🇺🇸 USA Seattle 08
+      - 🇺🇸 USA Seattle 09
+      - 🇺🇸 USA Seattle 10
+      - 🇺🇸 USA Seattle 11
+      - 🇺🇸 USA Seattle 12
+      - 🇺🇸 USA Seattle 13
+      - 🇺🇸 USA Seattle 14
+      - 🇺🇸 USA Seattle 15
+      - 🇺🇸 USA Seattle 16
+      - 🇺🇸 USA Seattle 17
+      - 🇺🇸 USA Seattle 18
+      - 🇯🇵 Japan 01
+      - 🇯🇵 Japan 02
+      - 🇯🇵 Japan 03
+      - 🇯🇵 Japan 04
+      - 🇯🇵 Japan 05
+      - 🇯🇵 Japan 06
+      - 🇯🇵 Japan 07
+      - 🇯🇵 Japan 08
+      - 🇯🇵 Japan 09
+      - 🇯🇵 Japan 10
+      - 🇯🇵 Japan 11
+      - 🇯🇵 Japan 12
+      - 🇯🇵 Japan 13
+      - 🇯🇵 Japan 14
+      - 🇯🇵 Japan 15
+      - 🇯🇵 Japan 16
+      - 🇯🇵 Japan 17
+      - 🇯🇵 Japan 18
+      - 🇯🇵 Japan 19
+      - 🇯🇵 Japan 20
+      - 🇯🇵 Japan 21
+      - 🇯🇵 Japan 22
+      - 🇯🇵 Japan 23
+      - 🇯🇵 Japan 24
+      - 🇯🇵 Japan 25
+      - 🇯🇵 Japan 26
+      - 🇯🇵 Japan 27
+      - 🇯🇵 Japan 28
+      - 🇯🇵 Japan 29
+      - 🇯🇵 Japan 30
+      - 🇯🇵 Japan 31
+      - 🇯🇵 Japan 32
+      - 🇯🇵 Japan 33
+      - 🇯🇵 Japan 34
+      - 🇯🇵 Japan 35
+      - 🇯🇵 Japan 36
+      - 🇯🇵 Japan 37
+      - 🇯🇵 Japan 38
+      - 🇯🇵 Japan 39
+      - 🇯🇵 Japan 40
+      - 🇯🇵 Japan 41
+      - 🇯🇵 Japan 42
+      - 🇯🇵 Japan 43
+      - 🇯🇵 Japan 44
+      - 🇯🇵 Japan 45
+      - 🇯🇵 Japan 46
+      - 🇯🇵 Japan 47
+      - 🇯🇵 Japan 48
+      - 🇯🇵 Japan 49
+      - 🇯🇵 Japan 50
+      - 🇨🇳 Taiwan 01
+      - 🇨🇳 Taiwan 02
+      - 🇨🇳 Taiwan 03
+      - 🇨🇳 Taiwan 04
+      - 🇨🇳 Taiwan 05
+      - 🇨🇳 Taiwan 06
+      - 🇨🇳 Taiwan 07
+      - 🇨🇳 Taiwan 08
+      - 🇨🇳 Taiwan 09
+      - 🇨🇳 Taiwan 10
+      - 🇨🇳 Taiwan 11
+      - 🇨🇳 Taiwan 12
+      - 🇨🇳 Taiwan 13
+      - 🇨🇳 Taiwan 14
+      - 🇨🇳 Taiwan 15
+      - 🇨🇳 Taiwan 16
+      - 🇨🇳 Taiwan 17
+      - 🇨🇳 Taiwan 18
+      - 🇨🇳 Taiwan 19
+      - 🇨🇳 Taiwan 20
+      - 🇸🇬 Singapore 01
+      - 🇸🇬 Singapore 02
+      - 🇸🇬 Singapore 03
+      - 🇸🇬 Singapore 04
+      - 🇸🇬 Singapore 05
+      - 🇸🇬 Singapore 06
+      - 🇸🇬 Singapore 07
+      - 🇸🇬 Singapore 08
+      - 🇸🇬 Singapore 09
+      - 🇸🇬 Singapore 10
+      - 🇸🇬 Singapore 11
+      - 🇸🇬 Singapore 12
+      - 🇸🇬 Singapore 13
+      - 🇸🇬 Singapore 14
+      - 🇸🇬 Singapore 15
+      - 🇸🇬 Singapore 16
+      - 🇸🇬 Singapore 17
+      - 🇸🇬 Singapore 18
+      - 🇸🇬 Singapore 19
+      - 🇸🇬 Singapore 20
+      - 🇸🇬 Singapore 21
+      - 🇸🇬 Singapore 22
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - Hong Kong 01
-      - Hong Kong 02
-      - Hong Kong 03
-      - Hong Kong 04
-      - Hong Kong 05
-      - Hong Kong 06
-      - Hong Kong 07
-      - Hong Kong 08
-      - Hong Kong 09
-      - Hong Kong 10
-      - Singapore 01
-      - Singapore 02
-      - Singapore 03
-      - Singapore 04
-      - Singapore 05
-      - Japan 01
-      - Japan 02
-      - Japan 03
-      - Japan 04
-      - Japan 05
-      - United States 01
-      - United States 02
-      - United States 03
-      - United States 04
-      - United States 05
-      - Taiwan 01
-      - Taiwan 02
-      - Taiwan 03
-      - Taiwan 04
-      - Taiwan 05
-      - Germany 01
-      - Germany 02
-      - Germany 03
-      - United Kingdom 01
-      - United Kingdom 02
-      - United Kingdom 03
+      - 🇭🇰 Hong Kong 01
+      - 🇭🇰 Hong Kong 02
+      - 🇭🇰 Hong Kong 03
+      - 🇭🇰 Hong Kong 04
+      - 🇭🇰 Hong Kong 05
+      - 🇭🇰 Hong Kong 06
+      - 🇭🇰 Hong Kong 07
+      - 🇭🇰 Hong Kong 08
+      - 🇭🇰 Hong Kong 09
+      - 🇭🇰 Hong Kong 10
+      - 🇭🇰 Hong Kong 11
+      - 🇭🇰 Hong Kong 12
+      - 🇭🇰 Hong Kong 13
+      - 🇭🇰 Hong Kong 14
+      - 🇭🇰 Hong Kong 15
+      - 🇭🇰 Hong Kong 16
+      - 🇭🇰 Hong Kong 17
+      - 🇭🇰 Hong Kong 18
+      - 🇭🇰 Hong Kong 19
+      - 🇭🇰 Hong Kong 20
+      - 🇭🇰 Hong Kong 21
+      - 🇭🇰 Hong Kong 22
+      - 🇭🇰 Hong Kong 23
+      - 🇭🇰 Hong Kong 24
+      - 🇭🇰 Hong Kong 25
+      - 🇭🇰 Hong Kong 26
+      - 🇭🇰 Hong Kong 27
+      - 🇭🇰 Hong Kong 28
+      - 🇭🇰 Hong Kong 29
+      - 🇭🇰 Hong Kong 30
+      - 🇭🇰 Hong Kong 31
+      - 🇭🇰 Hong Kong 32
+      - 🇭🇰 Hong Kong 33
+      - 🇭🇰 Hong Kong 34
+      - 🇭🇰 Hong Kong 35
+      - 🇭🇰 Hong Kong 36
+      - 🇭🇰 Hong Kong 37
+      - 🇭🇰 Hong Kong 38
+      - 🇭🇰 Hong Kong 39
+      - 🇭🇰 Hong Kong 40
+      - 🇺🇸 USA Seattle 01
+      - 🇺🇸 USA Seattle 02
+      - 🇺🇸 USA Seattle 03
+      - 🇺🇸 USA Seattle 04
+      - 🇺🇸 USA Seattle 05
+      - 🇺🇸 USA Seattle 06
+      - 🇺🇸 USA Seattle 07
+      - 🇺🇸 USA Seattle 08
+      - 🇺🇸 USA Seattle 09
+      - 🇺🇸 USA Seattle 10
+      - 🇺🇸 USA Seattle 11
+      - 🇺🇸 USA Seattle 12
+      - 🇺🇸 USA Seattle 13
+      - 🇺🇸 USA Seattle 14
+      - 🇺🇸 USA Seattle 15
+      - 🇺🇸 USA Seattle 16
+      - 🇺🇸 USA Seattle 17
+      - 🇺🇸 USA Seattle 18
+      - 🇯🇵 Japan 01
+      - 🇯🇵 Japan 02
+      - 🇯🇵 Japan 03
+      - 🇯🇵 Japan 04
+      - 🇯🇵 Japan 05
+      - 🇯🇵 Japan 06
+      - 🇯🇵 Japan 07
+      - 🇯🇵 Japan 08
+      - 🇯🇵 Japan 09
+      - 🇯🇵 Japan 10
+      - 🇯🇵 Japan 11
+      - 🇯🇵 Japan 12
+      - 🇯🇵 Japan 13
+      - 🇯🇵 Japan 14
+      - 🇯🇵 Japan 15
+      - 🇯🇵 Japan 16
+      - 🇯🇵 Japan 17
+      - 🇯🇵 Japan 18
+      - 🇯🇵 Japan 19
+      - 🇯🇵 Japan 20
+      - 🇯🇵 Japan 21
+      - 🇯🇵 Japan 22
+      - 🇯🇵 Japan 23
+      - 🇯🇵 Japan 24
+      - 🇯🇵 Japan 25
+      - 🇯🇵 Japan 26
+      - 🇯🇵 Japan 27
+      - 🇯🇵 Japan 28
+      - 🇯🇵 Japan 29
+      - 🇯🇵 Japan 30
+      - 🇯🇵 Japan 31
+      - 🇯🇵 Japan 32
+      - 🇯🇵 Japan 33
+      - 🇯🇵 Japan 34
+      - 🇯🇵 Japan 35
+      - 🇯🇵 Japan 36
+      - 🇯🇵 Japan 37
+      - 🇯🇵 Japan 38
+      - 🇯🇵 Japan 39
+      - 🇯🇵 Japan 40
+      - 🇯🇵 Japan 41
+      - 🇯🇵 Japan 42
+      - 🇯🇵 Japan 43
+      - 🇯🇵 Japan 44
+      - 🇯🇵 Japan 45
+      - 🇯🇵 Japan 46
+      - 🇯🇵 Japan 47
+      - 🇯🇵 Japan 48
+      - 🇯🇵 Japan 49
+      - 🇯🇵 Japan 50
+      - 🇨🇳 Taiwan 01
+      - 🇨🇳 Taiwan 02
+      - 🇨🇳 Taiwan 03
+      - 🇨🇳 Taiwan 04
+      - 🇨🇳 Taiwan 05
+      - 🇨🇳 Taiwan 06
+      - 🇨🇳 Taiwan 07
+      - 🇨🇳 Taiwan 08
+      - 🇨🇳 Taiwan 09
+      - 🇨🇳 Taiwan 10
+      - 🇨🇳 Taiwan 11
+      - 🇨🇳 Taiwan 12
+      - 🇨🇳 Taiwan 13
+      - 🇨🇳 Taiwan 14
+      - 🇨🇳 Taiwan 15
+      - 🇨🇳 Taiwan 16
+      - 🇨🇳 Taiwan 17
+      - 🇨🇳 Taiwan 18
+      - 🇨🇳 Taiwan 19
+      - 🇨🇳 Taiwan 20
+      - 🇸🇬 Singapore 01
+      - 🇸🇬 Singapore 02
+      - 🇸🇬 Singapore 03
+      - 🇸🇬 Singapore 04
+      - 🇸🇬 Singapore 05
+      - 🇸🇬 Singapore 06
+      - 🇸🇬 Singapore 07
+      - 🇸🇬 Singapore 08
+      - 🇸🇬 Singapore 09
+      - 🇸🇬 Singapore 10
+      - 🇸🇬 Singapore 11
+      - 🇸🇬 Singapore 12
+      - 🇸🇬 Singapore 13
+      - 🇸🇬 Singapore 14
+      - 🇸🇬 Singapore 15
+      - 🇸🇬 Singapore 16
+      - 🇸🇬 Singapore 17
+      - 🇸🇬 Singapore 18
+      - 🇸🇬 Singapore 19
+      - 🇸🇬 Singapore 20
+      - 🇸🇬 Singapore 21
+      - 🇸🇬 Singapore 22
   - name: 🎯 国内网络
     type: select
     proxies:
@@ -402,60 +744,179 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - Hong Kong 01
-      - Hong Kong 02
-      - Hong Kong 03
-      - Hong Kong 04
-      - Hong Kong 05
-      - Hong Kong 06
-      - Hong Kong 07
-      - Hong Kong 08
-      - Hong Kong 09
-      - Hong Kong 10
+      - 🇭🇰 Hong Kong 01
+      - 🇭🇰 Hong Kong 02
+      - 🇭🇰 Hong Kong 03
+      - 🇭🇰 Hong Kong 04
+      - 🇭🇰 Hong Kong 05
+      - 🇭🇰 Hong Kong 06
+      - 🇭🇰 Hong Kong 07
+      - 🇭🇰 Hong Kong 08
+      - 🇭🇰 Hong Kong 09
+      - 🇭🇰 Hong Kong 10
+      - 🇭🇰 Hong Kong 11
+      - 🇭🇰 Hong Kong 12
+      - 🇭🇰 Hong Kong 13
+      - 🇭🇰 Hong Kong 14
+      - 🇭🇰 Hong Kong 15
+      - 🇭🇰 Hong Kong 16
+      - 🇭🇰 Hong Kong 17
+      - 🇭🇰 Hong Kong 18
+      - 🇭🇰 Hong Kong 19
+      - 🇭🇰 Hong Kong 20
+      - 🇭🇰 Hong Kong 21
+      - 🇭🇰 Hong Kong 22
+      - 🇭🇰 Hong Kong 23
+      - 🇭🇰 Hong Kong 24
+      - 🇭🇰 Hong Kong 25
+      - 🇭🇰 Hong Kong 26
+      - 🇭🇰 Hong Kong 27
+      - 🇭🇰 Hong Kong 28
+      - 🇭🇰 Hong Kong 29
+      - 🇭🇰 Hong Kong 30
+      - 🇭🇰 Hong Kong 31
+      - 🇭🇰 Hong Kong 32
+      - 🇭🇰 Hong Kong 33
+      - 🇭🇰 Hong Kong 34
+      - 🇭🇰 Hong Kong 35
+      - 🇭🇰 Hong Kong 36
+      - 🇭🇰 Hong Kong 37
+      - 🇭🇰 Hong Kong 38
+      - 🇭🇰 Hong Kong 39
+      - 🇭🇰 Hong Kong 40
   - name: 🇯🇵 日本节点
     type: url-test
     url: http://www.apple.com/library/test/success.html
     interval: 300
     tolerance: 50
     proxies:
-      - Japan 01
-      - Japan 02
-      - Japan 03
-      - Japan 04
-      - Japan 05
+      - 🇯🇵 Japan 01
+      - 🇯🇵 Japan 02
+      - 🇯🇵 Japan 03
+      - 🇯🇵 Japan 04
+      - 🇯🇵 Japan 05
+      - 🇯🇵 Japan 06
+      - 🇯🇵 Japan 07
+      - 🇯🇵 Japan 08
+      - 🇯🇵 Japan 09
+      - 🇯🇵 Japan 10
+      - 🇯🇵 Japan 11
+      - 🇯🇵 Japan 12
+      - 🇯🇵 Japan 13
+      - 🇯🇵 Japan 14
+      - 🇯🇵 Japan 15
+      - 🇯🇵 Japan 16
+      - 🇯🇵 Japan 17
+      - 🇯🇵 Japan 18
+      - 🇯🇵 Japan 19
+      - 🇯🇵 Japan 20
+      - 🇯🇵 Japan 21
+      - 🇯🇵 Japan 22
+      - 🇯🇵 Japan 23
+      - 🇯🇵 Japan 24
+      - 🇯🇵 Japan 25
+      - 🇯🇵 Japan 26
+      - 🇯🇵 Japan 27
+      - 🇯🇵 Japan 28
+      - 🇯🇵 Japan 29
+      - 🇯🇵 Japan 30
+      - 🇯🇵 Japan 31
+      - 🇯🇵 Japan 32
+      - 🇯🇵 Japan 33
+      - 🇯🇵 Japan 34
+      - 🇯🇵 Japan 35
+      - 🇯🇵 Japan 36
+      - 🇯🇵 Japan 37
+      - 🇯🇵 Japan 38
+      - 🇯🇵 Japan 39
+      - 🇯🇵 Japan 40
+      - 🇯🇵 Japan 41
+      - 🇯🇵 Japan 42
+      - 🇯🇵 Japan 43
+      - 🇯🇵 Japan 44
+      - 🇯🇵 Japan 45
+      - 🇯🇵 Japan 46
+      - 🇯🇵 Japan 47
+      - 🇯🇵 Japan 48
+      - 🇯🇵 Japan 49
+      - 🇯🇵 Japan 50
   - name: 🇺🇲 美国节点
     type: url-test
     url: http://www.apple.com/library/test/success.html
     interval: 300
     tolerance: 50
     proxies:
-      - United States 01
-      - United States 02
-      - United States 03
-      - United States 04
-      - United States 05
+      - 🇺🇸 USA Seattle 01
+      - 🇺🇸 USA Seattle 02
+      - 🇺🇸 USA Seattle 03
+      - 🇺🇸 USA Seattle 04
+      - 🇺🇸 USA Seattle 05
+      - 🇺🇸 USA Seattle 06
+      - 🇺🇸 USA Seattle 07
+      - 🇺🇸 USA Seattle 08
+      - 🇺🇸 USA Seattle 09
+      - 🇺🇸 USA Seattle 10
+      - 🇺🇸 USA Seattle 11
+      - 🇺🇸 USA Seattle 12
+      - 🇺🇸 USA Seattle 13
+      - 🇺🇸 USA Seattle 14
+      - 🇺🇸 USA Seattle 15
+      - 🇺🇸 USA Seattle 16
+      - 🇺🇸 USA Seattle 17
+      - 🇺🇸 USA Seattle 18
   - name: 🇸🇬 新加坡节点
     type: url-test
     url: http://www.apple.com/library/test/success.html
     interval: 300
     tolerance: 50
     proxies:
-      - Singapore 01
-      - Singapore 02
-      - Singapore 03
-      - Singapore 04
-      - Singapore 05
+      - 🇸🇬 Singapore 01
+      - 🇸🇬 Singapore 02
+      - 🇸🇬 Singapore 03
+      - 🇸🇬 Singapore 04
+      - 🇸🇬 Singapore 05
+      - 🇸🇬 Singapore 06
+      - 🇸🇬 Singapore 07
+      - 🇸🇬 Singapore 08
+      - 🇸🇬 Singapore 09
+      - 🇸🇬 Singapore 10
+      - 🇸🇬 Singapore 11
+      - 🇸🇬 Singapore 12
+      - 🇸🇬 Singapore 13
+      - 🇸🇬 Singapore 14
+      - 🇸🇬 Singapore 15
+      - 🇸🇬 Singapore 16
+      - 🇸🇬 Singapore 17
+      - 🇸🇬 Singapore 18
+      - 🇸🇬 Singapore 19
+      - 🇸🇬 Singapore 20
+      - 🇸🇬 Singapore 21
   - name: 🇨🇳 台湾节点
     type: url-test
     url: http://www.apple.com/library/test/success.html
     interval: 300
     tolerance: 50
     proxies:
-      - Taiwan 01
-      - Taiwan 02
-      - Taiwan 03
-      - Taiwan 04
-      - Taiwan 05
+      - 🇨🇳 Taiwan 01
+      - 🇨🇳 Taiwan 02
+      - 🇨🇳 Taiwan 03
+      - 🇨🇳 Taiwan 04
+      - 🇨🇳 Taiwan 05
+      - 🇨🇳 Taiwan 06
+      - 🇨🇳 Taiwan 07
+      - 🇨🇳 Taiwan 08
+      - 🇨🇳 Taiwan 09
+      - 🇨🇳 Taiwan 10
+      - 🇨🇳 Taiwan 11
+      - 🇨🇳 Taiwan 12
+      - 🇨🇳 Taiwan 13
+      - 🇨🇳 Taiwan 14
+      - 🇨🇳 Taiwan 15
+      - 🇨🇳 Taiwan 16
+      - 🇨🇳 Taiwan 17
+      - 🇨🇳 Taiwan 18
+      - 🇨🇳 Taiwan 19
+      - 🇨🇳 Taiwan 20
   - name: 🇰🇷 韩国节点
     type: url-test
     url: http://www.apple.com/library/test/success.html
@@ -466,20 +927,50 @@ proxy-groups:
   - name: 🎥 奈飞节点
     type: select
     proxies:
-      - Taiwan 01
-      - Taiwan 02
-      - Taiwan 03
-      - Taiwan 04
-      - Taiwan 05
+      - 🇨🇳 Taiwan 01
+      - 🇨🇳 Taiwan 02
+      - 🇨🇳 Taiwan 03
+      - 🇨🇳 Taiwan 04
+      - 🇨🇳 Taiwan 05
+      - 🇨🇳 Taiwan 06
+      - 🇨🇳 Taiwan 07
+      - 🇨🇳 Taiwan 08
+      - 🇨🇳 Taiwan 09
+      - 🇨🇳 Taiwan 10
+      - 🇨🇳 Taiwan 11
+      - 🇨🇳 Taiwan 12
+      - 🇨🇳 Taiwan 13
+      - 🇨🇳 Taiwan 14
+      - 🇨🇳 Taiwan 15
+      - 🇨🇳 Taiwan 16
+      - 🇨🇳 Taiwan 17
+      - 🇨🇳 Taiwan 18
+      - 🇨🇳 Taiwan 19
+      - 🇨🇳 Taiwan 20
       - DIRECT
   - name: 🎥 Disney节点
     type: select
     proxies:
-      - Taiwan 01
-      - Taiwan 02
-      - Taiwan 03
-      - Taiwan 04
-      - Taiwan 05
+      - 🇨🇳 Taiwan 01
+      - 🇨🇳 Taiwan 02
+      - 🇨🇳 Taiwan 03
+      - 🇨🇳 Taiwan 04
+      - 🇨🇳 Taiwan 05
+      - 🇨🇳 Taiwan 06
+      - 🇨🇳 Taiwan 07
+      - 🇨🇳 Taiwan 08
+      - 🇨🇳 Taiwan 09
+      - 🇨🇳 Taiwan 10
+      - 🇨🇳 Taiwan 11
+      - 🇨🇳 Taiwan 12
+      - 🇨🇳 Taiwan 13
+      - 🇨🇳 Taiwan 14
+      - 🇨🇳 Taiwan 15
+      - 🇨🇳 Taiwan 16
+      - 🇨🇳 Taiwan 17
+      - 🇨🇳 Taiwan 18
+      - 🇨🇳 Taiwan 19
+      - 🇨🇳 Taiwan 20
       - DIRECT
   - name: 🎥 泥巴节点
     type: url-test
@@ -487,16 +978,32 @@ proxy-groups:
     interval: 300
     tolerance: 150
     proxies:
-      - Taiwan 01
-      - Taiwan 02
-      - Taiwan 03
-      - Taiwan 04
-      - Taiwan 05
+      - 🇨🇳 Taiwan 01
+      - 🇨🇳 Taiwan 02
+      - 🇨🇳 Taiwan 03
+      - 🇨🇳 Taiwan 04
+      - 🇨🇳 Taiwan 05
+      - 🇨🇳 Taiwan 06
+      - 🇨🇳 Taiwan 07
+      - 🇨🇳 Taiwan 08
+      - 🇨🇳 Taiwan 09
+      - 🇨🇳 Taiwan 10
+      - 🇨🇳 Taiwan 11
+      - 🇨🇳 Taiwan 12
+      - 🇨🇳 Taiwan 13
+      - 🇨🇳 Taiwan 14
+      - 🇨🇳 Taiwan 15
+      - 🇨🇳 Taiwan 16
+      - 🇨🇳 Taiwan 17
+      - 🇨🇳 Taiwan 18
+      - 🇨🇳 Taiwan 19
+      - 🇨🇳 Taiwan 20
       - DIRECT
   - name: 🔑 专用线路
     type: select
     proxies:
       - DIRECT
+
 
 
 
