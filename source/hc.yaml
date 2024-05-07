@@ -33,18 +33,18 @@ proxies:
   - {name: 🇭🇰 V327U-4x-BGP-HK-NF, server: ijmazhr5972b.nodelist.club, port: 1327, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇭🇰 V328U-4x-BGP-HK-NF, server: ijmazhr5972b.nodelist.club, port: 1328, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇭🇰 V329U-4x-BGP-HK-NF, server: ijmazhr5972b.nodelist.club, port: 1329, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V332U-1x-BGP-JP-NF, server: ijmazhr5972b.nodelist.club, port: 1332, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V333U-1x-BGP-JP-NF, server: ijmazhr5972b.nodelist.club, port: 1333, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V334U-1x-BGP-JP-NF, server: ijmazhr5972b.nodelist.club, port: 1334, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V335U-1x-BGP-JP-NF, server: ijmazhr5972b.nodelist.club, port: 1335, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V336U-2x-BGP-JP-NF, server: ijmazhr5972b.nodelist.club, port: 1336, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V337U-2x-BGP-JP-NF, server: ijmazhr5972b.nodelist.club, port: 1337, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V338U-2x-BGP-JP-NF, server: ijmazhr5972b.nodelist.club, port: 1338, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V339U-2x-BGP-JP-NF, server: ijmazhr5972b.nodelist.club, port: 1339, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V350U-1x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1350, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V351U-1x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1351, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V352U-1x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1352, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V353U-1x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1353, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇯🇵 V332U-1x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1332, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇯🇵 V333U-1x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1333, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇯🇵 V334U-1x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1334, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇯🇵 V335U-1x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1335, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇯🇵 V336U-2x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1336, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇯🇵 V337U-2x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1337, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇯🇵 V338U-2x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1338, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇯🇵 V339U-2x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1339, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇸🇬 V350U-1x-BGP-SG-NF, server: 1c7inixez0fr.nodelist.club, port: 1350, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇸🇬 V351U-1x-BGP-SG-NF, server: 1c7inixez0fr.nodelist.club, port: 1351, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇸🇬 V352U-1x-BGP-SG-NF, server: 1c7inixez0fr.nodelist.club, port: 1352, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇸🇬 V353U-1x-BGP-SG-NF, server: 1c7inixez0fr.nodelist.club, port: 1353, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇸🇬 V354U-2x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1354, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇸🇬 V355U-2x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1355, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇸🇬 V356U-2x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1356, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
@@ -61,9 +61,9 @@ proxies:
   - {name: 🇺🇸 V387U-2x-BGP-US-NF, server: u3ub1s2xt0.nodelist.club, port: 1387, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇺🇸 V388U-2x-BGP-US-NF, server: u3ub1s2xt0.nodelist.club, port: 1388, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇺🇸 V389U-2x-BGP-US-NF, server: u3ub1s2xt0.nodelist.club, port: 1389, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇬🇧 V393U-1x-BGP-UK, server: y8q88cgjsq.nodelist.club, port: 1393, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇩🇪 V394U-1x-BGP-DE, server: y8q88cgjsq.nodelist.club, port: 1394, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇷🇺 V395U-1x-BGP-RU, server: y8q88cgjsq.nodelist.club, port: 1395, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇬🇧 V393U-1x-BGP-UK, server: fece7m6rjo3r.nodelist.club, port: 1393, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇩🇪 V394U-1x-BGP-DE, server: fece7m6rjo3r.nodelist.club, port: 1394, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇷🇺 V395U-1x-BGP-RU, server: fece7m6rjo3r.nodelist.club, port: 1395, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇭🇰 V401U-1x-BGP-HK-NF, server: w8ttjdfs4ysw.nodelist.club, port: 1401, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇭🇰 V402U-1x-BGP-HK-NF, server: w8ttjdfs4ysw.nodelist.club, port: 1402, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇭🇰 V403U-1x-BGP-HK-NF, server: w8ttjdfs4ysw.nodelist.club, port: 1403, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
@@ -74,26 +74,26 @@ proxies:
   - {name: 🇭🇰 V408U-1x-BGP-HK-NF, server: w8ttjdfs4ysw.nodelist.club, port: 1408, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇭🇰 V409U-1x-BGP-HK-NF, server: w8ttjdfs4ysw.nodelist.club, port: 1409, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇭🇰 V410U-1x-BGP-HK-NF, server: w8ttjdfs4ysw.nodelist.club, port: 1410, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V420U-2x-BGP-HK-NF, server: n0d9sl5ifja0.nodelist.club, port: 1420, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V421U-2x-BGP-HK-NF, server: n0d9sl5ifja0.nodelist.club, port: 1421, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V422U-2x-BGP-HK-NF, server: n0d9sl5ifja0.nodelist.club, port: 1422, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V423U-2x-BGP-HK-NF, server: n0d9sl5ifja0.nodelist.club, port: 1423, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇭🇰 V420U-2x-BGP-HK-NF, server: wvfkeuwon2uq.nodelist.club, port: 1420, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇭🇰 V421U-2x-BGP-HK-NF, server: wvfkeuwon2uq.nodelist.club, port: 1421, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇭🇰 V422U-2x-BGP-HK-NF, server: wvfkeuwon2uq.nodelist.club, port: 1422, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇭🇰 V423U-2x-BGP-HK-NF, server: wvfkeuwon2uq.nodelist.club, port: 1423, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇭🇰 V426U-4x-BGP-HK-NF, server: ijmazhr5972b.nodelist.club, port: 1426, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇭🇰 V427U-4x-BGP-HK-NF, server: ijmazhr5972b.nodelist.club, port: 1427, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇭🇰 V428U-4x-BGP-HK-NF, server: ijmazhr5972b.nodelist.club, port: 1428, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇭🇰 V429U-4x-BGP-HK-NF, server: ijmazhr5972b.nodelist.club, port: 1429, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V432U-1x-BGP-JP-NF, server: ijmazhr5972b.nodelist.club, port: 1432, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V433U-1x-BGP-JP-NF, server: ijmazhr5972b.nodelist.club, port: 1433, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V434U-1x-BGP-JP-NF, server: ijmazhr5972b.nodelist.club, port: 1444, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V435U-1x-BGP-JP-NF, server: ijmazhr5972b.nodelist.club, port: 1435, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V436U-2x-BGP-JP-NF, server: ijmazhr5972b.nodelist.club, port: 1436, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V437U-2x-BGP-JP-NF, server: ijmazhr5972b.nodelist.club, port: 1437, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V438U-2x-BGP-JP-NF, server: ijmazhr5972b.nodelist.club, port: 1438, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V439U-2x-BGP-JP-NF, server: ijmazhr5972b.nodelist.club, port: 1439, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V450U-1x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1450, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V451U-1x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1451, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V452U-1x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1452, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V453U-1x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1453, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇯🇵 V432U-1x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1432, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇯🇵 V433U-1x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1433, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇯🇵 V434U-1x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1444, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇯🇵 V435U-1x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1435, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇯🇵 V436U-2x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1436, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇯🇵 V437U-2x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1437, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇯🇵 V438U-2x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1438, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇯🇵 V439U-2x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1439, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇸🇬 V450U-1x-BGP-SG-NF, server: 1c7inixez0fr.nodelist.club, port: 1450, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇸🇬 V451U-1x-BGP-SG-NF, server: 1c7inixez0fr.nodelist.club, port: 1451, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇸🇬 V452U-1x-BGP-SG-NF, server: 1c7inixez0fr.nodelist.club, port: 1452, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇸🇬 V453U-1x-BGP-SG-NF, server: 1c7inixez0fr.nodelist.club, port: 1453, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇸🇬 V454U-2x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1454, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇸🇬 V455U-2x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1455, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇸🇬 V456U-2x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1456, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
@@ -112,96 +112,137 @@ proxies:
   - {name: 🇺🇸 V487U-2x-BGP-US-NF, server: u3ub1s2xt0.nodelist.club, port: 1487, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇺🇸 V488U-2x-BGP-US-NF, server: u3ub1s2xt0.nodelist.club, port: 1488, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇺🇸 V489U-2x-BGP-US-NF, server: u3ub1s2xt0.nodelist.club, port: 1489, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🏳️‍🌈 应急续费节点-10x, server: ijmazhr5972b.nodelist.club, port: 1399, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: "🇬🇧 Traffic: 3.17 GB | 150 GB", server: pregzdata1.fc-aliyun.xyz, port: 10001, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: "🏳️‍🌈 Expire: 2024-08-04", server: pregzdata1.fc-aliyun.xyz, port: 10001, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇭🇰 香港实验性 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 10001, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇯🇵 日本实验性 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 10002, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇸🇬 新加坡实验性 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 10003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇺🇸 美国实验性 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 10004, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇭🇰 香港高级 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 12001, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇭🇰 香港高级 IEPL 中继 2, server: pregzdata1.fc-aliyun.xyz, port: 12002, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇭🇰 香港高级 IEPL 中继 3, server: pregzdata1.fc-aliyun.xyz, port: 12003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇯🇵 日本高级 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 12011, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇯🇵 日本高级 IEPL 中继 2, server: preshdata1.fc-aliyun.xyz, port: 12012, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇯🇵 日本高级 IEPL 中继 3, server: preshdata1.fc-aliyun.xyz, port: 12013, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇸🇬 新加坡高级 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 12031, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇸🇬 新加坡高级 IEPL 中继 2, server: pregzdata1.fc-aliyun.xyz, port: 12032, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇸🇬 新加坡高级 IEPL 中继 3, server: pregzdata1.fc-aliyun.xyz, port: 12033, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇹🇼 台湾高级 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 12041, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇹🇼 台湾高级 IEPL 中继 2, server: pregzdata1.fc-aliyun.xyz, port: 12042, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇹🇼 台湾高级 IEPL 中继 3, server: pregzdata1.fc-aliyun.xyz, port: 12043, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇺🇸 美国高级 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 12021, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇺🇸 美国高级 IEPL 中继 2, server: preshdata1.fc-aliyun.xyz, port: 12022, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇺🇸 美国高级 IEPL 中继 3, server: preshdata1.fc-aliyun.xyz, port: 12023, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇭🇰 香港标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11001, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇭🇰 香港标准 IEPL 中继 2, server: pregzdata1.fc-aliyun.xyz, port: 11002, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇭🇰 香港标准 IEPL 中继 3, server: pregzdata1.fc-aliyun.xyz, port: 11003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇭🇰 香港标准 IEPL 中继 4, server: pregzdata1.fc-aliyun.xyz, port: 11004, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇭🇰 香港标准 IEPL 中继 5, server: pregzdata1.fc-aliyun.xyz, port: 11005, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇭🇰 香港标准 IEPL 中继 6, server: pregzdata1.fc-aliyun.xyz, port: 11006, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇭🇰 香港标准 IEPL 中继 7, server: pregzdata1.fc-aliyun.xyz, port: 11007, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇭🇰 香港标准 IEPL 中继 8, server: pregzdata1.fc-aliyun.xyz, port: 11008, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇯🇵 日本标准 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 11011, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇯🇵 日本标准 IEPL 中继 2, server: preshdata1.fc-aliyun.xyz, port: 11012, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇯🇵 日本标准 IEPL 中继 3, server: preshdata1.fc-aliyun.xyz, port: 11013, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇯🇵 日本标准 IEPL 中继 4, server: preshdata1.fc-aliyun.xyz, port: 11014, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇯🇵 日本标准 IEPL 中继 5, server: preshdata1.fc-aliyun.xyz, port: 11015, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇯🇵 日本标准 IEPL 中继 6, server: preshdata1.fc-aliyun.xyz, port: 11016, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇯🇵 日本标准 IEPL 中继 7, server: preshdata1.fc-aliyun.xyz, port: 11017, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇯🇵 日本标准 IEPL 中继 8, server: preshdata1.fc-aliyun.xyz, port: 11018, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇸🇬 新加坡标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11031, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇸🇬 新加坡标准 IEPL 中继 2, server: pregzdata1.fc-aliyun.xyz, port: 11032, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇸🇬 新加坡标准 IEPL 中继 3, server: pregzdata1.fc-aliyun.xyz, port: 11033, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇸🇬 新加坡标准 IEPL 中继 4, server: pregzdata1.fc-aliyun.xyz, port: 11034, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇸🇬 新加坡标准 IEPL 中继 5, server: pregzdata1.fc-aliyun.xyz, port: 11035, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇸🇬 新加坡标准 IEPL 中继 6, server: pregzdata1.fc-aliyun.xyz, port: 11036, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇸🇬 新加坡标准 IEPL 中继 7, server: pregzdata1.fc-aliyun.xyz, port: 11037, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇸🇬 新加坡标准 IEPL 中继 8, server: pregzdata1.fc-aliyun.xyz, port: 11038, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇹🇼 台湾标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11041, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇹🇼 台湾标准 IEPL 中继 2, server: pregzdata1.fc-aliyun.xyz, port: 11042, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇹🇼 台湾标准 IEPL 中继 3, server: pregzdata1.fc-aliyun.xyz, port: 11043, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇺🇸 美国标准 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 11021, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇺🇸 美国标准 IEPL 中继 2, server: preshdata1.fc-aliyun.xyz, port: 11022, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇺🇸 美国标准 IEPL 中继 3, server: preshdata1.fc-aliyun.xyz, port: 11023, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇺🇸 美国标准 IEPL 中继 4, server: preshdata1.fc-aliyun.xyz, port: 11024, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇺🇸 美国标准 IEPL 中继 5, server: preshdata1.fc-aliyun.xyz, port: 11025, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇺🇸 美国标准 IEPL 中继 6, server: preshdata1.fc-aliyun.xyz, port: 11026, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇺🇸 美国标准 IEPL 中继 7, server: preshdata1.fc-aliyun.xyz, port: 11027, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇺🇸 美国标准 IEPL 中继 8, server: preshdata1.fc-aliyun.xyz, port: 11028, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇲🇩 摩尔多瓦标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11050, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇺🇦 乌克兰标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11051, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇮🇹 意大利标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11052, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇭🇺 匈牙利标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11053, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇪🇸 西班牙标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11054, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇹🇷 土耳其标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11055, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇩🇪 德国标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11056, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇩🇪 德国标准 IEPL 中继 2, server: prebjdata1.fc-aliyun.xyz, port: 11057, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇬🇧 英国标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11058, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇬🇧 英国标准 IEPL 中继 2, server: prebjdata1.fc-aliyun.xyz, port: 11059, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇳🇱 荷兰标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11060, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇳🇱 荷兰标准 IEPL 中继 2, server: prebjdata1.fc-aliyun.xyz, port: 11061, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇫🇷 法国标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11062, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇫🇷 法国标准 IEPL 中继 2, server: prebjdata1.fc-aliyun.xyz, port: 11063, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇨🇦 加拿大标准 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 11064, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇨🇦 加拿大标准 IEPL 中继 2, server: preshdata1.fc-aliyun.xyz, port: 11065, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇦🇷 阿根廷标准 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 11066, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇧🇷 巴西标准 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 11067, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇨🇱 智利标准 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 11068, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇦🇺 澳大利亚标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11069, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇳🇿 新西兰标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11070, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇰🇷 韩国标准 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 11071, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇰🇷 韩国标准 IEPL 中继 2, server: preshdata1.fc-aliyun.xyz, port: 11072, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇮🇩 印尼标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11073, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇹🇭 泰国标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11074, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇻🇳 越南标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11075, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇮🇳 印度标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11080, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇵🇰 巴基斯坦标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11081, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇮🇱 以色列标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11082, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇦🇪 阿联酋标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11083, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇵🇭 菲律宾标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11084, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇲🇾 马来西亚标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11085, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
-  - {name: 🇪🇬 埃及标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11086, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.oss-cn-hangzhou.aliyuncs.com}}
+  - {name: 🏳️‍🌈 应急续费节点-10x, server: 10xfree.nodelist.club, port: 1399, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇭🇰 Hong Kong 01, server: q8at0puf.klmdns.com, port: 15003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇭🇰 Hong Kong 02, server: q8at0puf.klmdns.com, port: 15006, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇭🇰 Hong Kong 03, server: q8at0puf.klmdns.com, port: 15009, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇭🇰 Hong Kong 04, server: q8at0puf.klmdns.com, port: 15013, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇭🇰 Hong Kong 05, server: q8at0puf.klmdns.com, port: 15016, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇭🇰 Hong Kong 06, server: q8at0puf.klmdns.com, port: 15019, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇭🇰 Hong Kong 07, server: q8at0puf.klmdns.com, port: 15023, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇭🇰 Hong Kong 08, server: q8at0puf.klmdns.com, port: 15026, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇭🇰 Hong Kong 09, server: q8at0puf.klmdns.com, port: 15029, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇭🇰 Hong Kong 10, server: q8at0puf.klmdns.com, port: 15033, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇸🇬 Singapore 01, server: q8at0puf.klmdns.com, port: 18803, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇸🇬 Singapore 02, server: q8at0puf.klmdns.com, port: 18806, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇸🇬 Singapore 03, server: q8at0puf.klmdns.com, port: 18809, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇸🇬 Singapore 04, server: q8at0puf.klmdns.com, port: 18813, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇸🇬 Singapore 05, server: q8at0puf.klmdns.com, port: 18816, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇯🇵 Japan 01, server: hwxi4weq.klmdns.com, port: 17003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇯🇵 Japan 02, server: hwxi4weq.klmdns.com, port: 17006, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇯🇵 Japan 03, server: hwxi4weq.klmdns.com, port: 17009, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇯🇵 Japan 04, server: hwxi4weq.klmdns.com, port: 17013, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇯🇵 Japan 05, server: hwxi4weq.klmdns.com, port: 17016, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇺🇸 United States 01, server: hwxi4weq.klmdns.com, port: 16003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇺🇸 United States 02, server: hwxi4weq.klmdns.com, port: 16006, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇺🇸 United States 03, server: hwxi4weq.klmdns.com, port: 16009, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇺🇸 United States 04, server: hwxi4weq.klmdns.com, port: 16013, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇺🇸 United States 05, server: hwxi4weq.klmdns.com, port: 16016, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇹🇼 Taiwan 01, server: q8at0puf.klmdns.com, port: 19003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇹🇼 Taiwan 02, server: q8at0puf.klmdns.com, port: 19006, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇹🇼 Taiwan 03, server: q8at0puf.klmdns.com, port: 19009, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇹🇼 Taiwan 04, server: q8at0puf.klmdns.com, port: 19013, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇹🇼 Taiwan 05, server: q8at0puf.klmdns.com, port: 19016, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇩🇪 Germany 01, server: q8at0puf.klmdns.com, port: 21003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇩🇪 Germany 02, server: q8at0puf.klmdns.com, port: 21006, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇩🇪 Germany 03, server: q8at0puf.klmdns.com, port: 21009, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇬🇧 United Kingdom 01, server: q8at0puf.klmdns.com, port: 22003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇬🇧 United Kingdom 02, server: q8at0puf.klmdns.com, port: 22006, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇬🇧 United Kingdom 03, server: q8at0puf.klmdns.com, port: 22009, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇰🇷 South Korea 01, server: hwxi4weq.klmdns.com, port: 24003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇫🇷 France 01, server: q8at0puf.klmdns.com, port: 25003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇳🇱 Netherlands 01, server: q8at0puf.klmdns.com, port: 26003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇮🇳 India 01, server: q8at0puf.klmdns.com, port: 27003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: Türkiye 01, server: q8at0puf.klmdns.com, port: 28003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: "🇬🇧 Traffic: 14.93 GB | 150 GB", server: pregzdata1.fc-aliyun.xyz, port: 10001, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: "🏳️‍🌈 Expire: 2024-07-05", server: pregzdata1.fc-aliyun.xyz, port: 10001, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇭🇰 香港实验性 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 10001, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇯🇵 日本实验性 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 10002, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇸🇬 新加坡实验性 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 10003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇺🇸 美国实验性 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 10004, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇭🇰 香港高级 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 12001, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇭🇰 香港高级 IEPL 中继 2, server: pregzdata1.fc-aliyun.xyz, port: 12002, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇭🇰 香港高级 IEPL 中继 3, server: pregzdata1.fc-aliyun.xyz, port: 12003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇯🇵 日本高级 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 12011, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇯🇵 日本高级 IEPL 中继 2, server: preshdata1.fc-aliyun.xyz, port: 12012, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇯🇵 日本高级 IEPL 中继 3, server: preshdata1.fc-aliyun.xyz, port: 12013, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇸🇬 新加坡高级 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 12031, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇸🇬 新加坡高级 IEPL 中继 2, server: pregzdata1.fc-aliyun.xyz, port: 12032, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇸🇬 新加坡高级 IEPL 中继 3, server: pregzdata1.fc-aliyun.xyz, port: 12033, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇹🇼 台湾高级 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 12041, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇹🇼 台湾高级 IEPL 中继 2, server: pregzdata1.fc-aliyun.xyz, port: 12042, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇹🇼 台湾高级 IEPL 中继 3, server: pregzdata1.fc-aliyun.xyz, port: 12043, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇺🇸 美国高级 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 12021, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇺🇸 美国高级 IEPL 中继 2, server: preshdata1.fc-aliyun.xyz, port: 12022, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇺🇸 美国高级 IEPL 中继 3, server: preshdata1.fc-aliyun.xyz, port: 12023, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇭🇰 香港标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11001, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇭🇰 香港标准 IEPL 中继 2, server: pregzdata1.fc-aliyun.xyz, port: 11002, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇭🇰 香港标准 IEPL 中继 3, server: pregzdata1.fc-aliyun.xyz, port: 11003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇭🇰 香港标准 IEPL 中继 4, server: pregzdata1.fc-aliyun.xyz, port: 11004, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇭🇰 香港标准 IEPL 中继 5, server: pregzdata1.fc-aliyun.xyz, port: 11005, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇭🇰 香港标准 IEPL 中继 6, server: pregzdata1.fc-aliyun.xyz, port: 11006, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇭🇰 香港标准 IEPL 中继 7, server: pregzdata1.fc-aliyun.xyz, port: 11007, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇭🇰 香港标准 IEPL 中继 8, server: pregzdata1.fc-aliyun.xyz, port: 11008, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇯🇵 日本标准 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 11011, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇯🇵 日本标准 IEPL 中继 2, server: preshdata1.fc-aliyun.xyz, port: 11012, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇯🇵 日本标准 IEPL 中继 3, server: preshdata1.fc-aliyun.xyz, port: 11013, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇯🇵 日本标准 IEPL 中继 4, server: preshdata1.fc-aliyun.xyz, port: 11014, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇯🇵 日本标准 IEPL 中继 5, server: preshdata1.fc-aliyun.xyz, port: 11015, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇯🇵 日本标准 IEPL 中继 6, server: preshdata1.fc-aliyun.xyz, port: 11016, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇯🇵 日本标准 IEPL 中继 7, server: preshdata1.fc-aliyun.xyz, port: 11017, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇯🇵 日本标准 IEPL 中继 8, server: preshdata1.fc-aliyun.xyz, port: 11018, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇸🇬 新加坡标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11031, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇸🇬 新加坡标准 IEPL 中继 2, server: pregzdata1.fc-aliyun.xyz, port: 11032, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇸🇬 新加坡标准 IEPL 中继 3, server: pregzdata1.fc-aliyun.xyz, port: 11033, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇸🇬 新加坡标准 IEPL 中继 4, server: pregzdata1.fc-aliyun.xyz, port: 11034, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇸🇬 新加坡标准 IEPL 中继 5, server: pregzdata1.fc-aliyun.xyz, port: 11035, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇸🇬 新加坡标准 IEPL 中继 6, server: pregzdata1.fc-aliyun.xyz, port: 11036, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇸🇬 新加坡标准 IEPL 中继 7, server: pregzdata1.fc-aliyun.xyz, port: 11037, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇸🇬 新加坡标准 IEPL 中继 8, server: pregzdata1.fc-aliyun.xyz, port: 11038, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇹🇼 台湾标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11041, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇹🇼 台湾标准 IEPL 中继 2, server: pregzdata1.fc-aliyun.xyz, port: 11042, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇹🇼 台湾标准 IEPL 中继 3, server: pregzdata1.fc-aliyun.xyz, port: 11043, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇺🇸 美国标准 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 11021, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇺🇸 美国标准 IEPL 中继 2, server: preshdata1.fc-aliyun.xyz, port: 11022, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇺🇸 美国标准 IEPL 中继 3, server: preshdata1.fc-aliyun.xyz, port: 11023, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇺🇸 美国标准 IEPL 中继 4, server: preshdata1.fc-aliyun.xyz, port: 11024, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇺🇸 美国标准 IEPL 中继 5, server: preshdata1.fc-aliyun.xyz, port: 11025, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇺🇸 美国标准 IEPL 中继 6, server: preshdata1.fc-aliyun.xyz, port: 11026, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇺🇸 美国标准 IEPL 中继 7, server: preshdata1.fc-aliyun.xyz, port: 11027, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇺🇸 美国标准 IEPL 中继 8, server: preshdata1.fc-aliyun.xyz, port: 11028, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇲🇩 摩尔多瓦标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11050, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇺🇦 乌克兰标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11051, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇮🇹 意大利标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11052, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇭🇺 匈牙利标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11053, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇪🇸 西班牙标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11054, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇹🇷 土耳其标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11055, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇩🇪 德国标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11056, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇩🇪 德国标准 IEPL 中继 2, server: prebjdata1.fc-aliyun.xyz, port: 11057, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇬🇧 英国标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11058, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇬🇧 英国标准 IEPL 中继 2, server: prebjdata1.fc-aliyun.xyz, port: 11059, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇳🇱 荷兰标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11060, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇳🇱 荷兰标准 IEPL 中继 2, server: prebjdata1.fc-aliyun.xyz, port: 11061, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇫🇷 法国标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11062, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇫🇷 法国标准 IEPL 中继 2, server: prebjdata1.fc-aliyun.xyz, port: 11063, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇨🇦 加拿大标准 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 11064, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇨🇦 加拿大标准 IEPL 中继 2, server: preshdata1.fc-aliyun.xyz, port: 11065, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇦🇷 阿根廷标准 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 11066, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇧🇷 巴西标准 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 11067, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇨🇱 智利标准 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 11068, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇦🇺 澳大利亚标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11069, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇳🇿 新西兰标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11070, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇰🇷 韩国标准 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 11071, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇰🇷 韩国标准 IEPL 中继 2, server: preshdata1.fc-aliyun.xyz, port: 11072, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇮🇩 印尼标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11073, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇹🇭 泰国标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11074, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇻🇳 越南标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11075, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇮🇳 印度标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11080, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇵🇰 巴基斯坦标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11081, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇮🇱 以色列标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11082, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇦🇪 阿联酋标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11083, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇵🇭 菲律宾标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11084, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇲🇾 马来西亚标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11085, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇪🇬 埃及标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11086, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
 proxy-groups:
   - name: 🚀 全局设置
     type: select
@@ -317,8 +358,49 @@ proxy-groups:
       - 🇺🇸 V488U-2x-BGP-US-NF
       - 🇺🇸 V489U-2x-BGP-US-NF
       - 🏳️‍🌈 应急续费节点-10x
-      - "🇬🇧 Traffic: 3.17 GB | 150 GB"
-      - "🏳️‍🌈 Expire: 2024-08-04"
+      - 🇭🇰 Hong Kong 01
+      - 🇭🇰 Hong Kong 02
+      - 🇭🇰 Hong Kong 03
+      - 🇭🇰 Hong Kong 04
+      - 🇭🇰 Hong Kong 05
+      - 🇭🇰 Hong Kong 06
+      - 🇭🇰 Hong Kong 07
+      - 🇭🇰 Hong Kong 08
+      - 🇭🇰 Hong Kong 09
+      - 🇭🇰 Hong Kong 10
+      - 🇸🇬 Singapore 01
+      - 🇸🇬 Singapore 02
+      - 🇸🇬 Singapore 03
+      - 🇸🇬 Singapore 04
+      - 🇸🇬 Singapore 05
+      - 🇯🇵 Japan 01
+      - 🇯🇵 Japan 02
+      - 🇯🇵 Japan 03
+      - 🇯🇵 Japan 04
+      - 🇯🇵 Japan 05
+      - 🇺🇸 United States 01
+      - 🇺🇸 United States 02
+      - 🇺🇸 United States 03
+      - 🇺🇸 United States 04
+      - 🇺🇸 United States 05
+      - 🇹🇼 Taiwan 01
+      - 🇹🇼 Taiwan 02
+      - 🇹🇼 Taiwan 03
+      - 🇹🇼 Taiwan 04
+      - 🇹🇼 Taiwan 05
+      - 🇩🇪 Germany 01
+      - 🇩🇪 Germany 02
+      - 🇩🇪 Germany 03
+      - 🇬🇧 United Kingdom 01
+      - 🇬🇧 United Kingdom 02
+      - 🇬🇧 United Kingdom 03
+      - 🇰🇷 South Korea 01
+      - 🇫🇷 France 01
+      - 🇳🇱 Netherlands 01
+      - 🇮🇳 India 01
+      - Türkiye 01
+      - "🇬🇧 Traffic: 14.93 GB | 150 GB"
+      - "🏳️‍🌈 Expire: 2024-07-05"
       - 🇭🇰 香港实验性 IEPL 中继 1
       - 🇯🇵 日本实验性 IEPL 中继 1
       - 🇸🇬 新加坡实验性 IEPL 中继 1
@@ -509,8 +591,49 @@ proxy-groups:
       - 🇺🇸 V488U-2x-BGP-US-NF
       - 🇺🇸 V489U-2x-BGP-US-NF
       - 🏳️‍🌈 应急续费节点-10x
-      - "🇬🇧 Traffic: 3.17 GB | 150 GB"
-      - "🏳️‍🌈 Expire: 2024-08-04"
+      - 🇭🇰 Hong Kong 01
+      - 🇭🇰 Hong Kong 02
+      - 🇭🇰 Hong Kong 03
+      - 🇭🇰 Hong Kong 04
+      - 🇭🇰 Hong Kong 05
+      - 🇭🇰 Hong Kong 06
+      - 🇭🇰 Hong Kong 07
+      - 🇭🇰 Hong Kong 08
+      - 🇭🇰 Hong Kong 09
+      - 🇭🇰 Hong Kong 10
+      - 🇸🇬 Singapore 01
+      - 🇸🇬 Singapore 02
+      - 🇸🇬 Singapore 03
+      - 🇸🇬 Singapore 04
+      - 🇸🇬 Singapore 05
+      - 🇯🇵 Japan 01
+      - 🇯🇵 Japan 02
+      - 🇯🇵 Japan 03
+      - 🇯🇵 Japan 04
+      - 🇯🇵 Japan 05
+      - 🇺🇸 United States 01
+      - 🇺🇸 United States 02
+      - 🇺🇸 United States 03
+      - 🇺🇸 United States 04
+      - 🇺🇸 United States 05
+      - 🇹🇼 Taiwan 01
+      - 🇹🇼 Taiwan 02
+      - 🇹🇼 Taiwan 03
+      - 🇹🇼 Taiwan 04
+      - 🇹🇼 Taiwan 05
+      - 🇩🇪 Germany 01
+      - 🇩🇪 Germany 02
+      - 🇩🇪 Germany 03
+      - 🇬🇧 United Kingdom 01
+      - 🇬🇧 United Kingdom 02
+      - 🇬🇧 United Kingdom 03
+      - 🇰🇷 South Korea 01
+      - 🇫🇷 France 01
+      - 🇳🇱 Netherlands 01
+      - 🇮🇳 India 01
+      - Türkiye 01
+      - "🇬🇧 Traffic: 14.93 GB | 150 GB"
+      - "🏳️‍🌈 Expire: 2024-07-05"
       - 🇭🇰 香港实验性 IEPL 中继 1
       - 🇯🇵 日本实验性 IEPL 中继 1
       - 🇸🇬 新加坡实验性 IEPL 中继 1
@@ -647,6 +770,20 @@ proxy-groups:
       - 🇰🇷 韩国节点
       - 🔑 专用线路
       - 🚀 手动选择
+      - DIRECT
+  - name: 💰 TradingView
+    type: select
+    proxies:
+      - 🚀 全局设置
+      - ♻️ 自动选择
+      - 🚀 手动选择
+      - 🇭🇰 香港节点
+      - 🇨🇳 台湾节点
+      - 🇸🇬 新加坡节点
+      - 🇯🇵 日本节点
+      - 🇺🇲 美国节点
+      - 🇰🇷 韩国节点
+      - 🔑 专用线路
       - DIRECT
   - name: 🎥 Netflix
     type: select
@@ -801,7 +938,10 @@ proxy-groups:
       - 🇰🇷 韩国节点
       - 🚀 手动选择
   - name: 🇭🇰 香港节点
-    type: select
+    type: url-test
+    url: http://www.apple.com/library/test/success.html
+    interval: 300
+    tolerance: 50
     proxies:
       - 🇭🇰 V301U-1x-BGP-HK-NF
       - 🇭🇰 V302U-1x-BGP-HK-NF
@@ -839,6 +979,16 @@ proxy-groups:
       - 🇭🇰 V427U-4x-BGP-HK-NF
       - 🇭🇰 V428U-4x-BGP-HK-NF
       - 🇭🇰 V429U-4x-BGP-HK-NF
+      - 🇭🇰 Hong Kong 01
+      - 🇭🇰 Hong Kong 02
+      - 🇭🇰 Hong Kong 03
+      - 🇭🇰 Hong Kong 04
+      - 🇭🇰 Hong Kong 05
+      - 🇭🇰 Hong Kong 06
+      - 🇭🇰 Hong Kong 07
+      - 🇭🇰 Hong Kong 08
+      - 🇭🇰 Hong Kong 09
+      - 🇭🇰 Hong Kong 10
       - 🇭🇰 香港实验性 IEPL 中继 1
       - 🇭🇰 香港高级 IEPL 中继 1
       - 🇭🇰 香港高级 IEPL 中继 2
@@ -852,7 +1002,10 @@ proxy-groups:
       - 🇭🇰 香港标准 IEPL 中继 7
       - 🇭🇰 香港标准 IEPL 中继 8
   - name: 🇯🇵 日本节点
-    type: select
+    type: url-test
+    url: http://www.apple.com/library/test/success.html
+    interval: 300
+    tolerance: 50
     proxies:
       - 🇯🇵 V332U-1x-BGP-JP-NF
       - 🇯🇵 V333U-1x-BGP-JP-NF
@@ -870,6 +1023,11 @@ proxy-groups:
       - 🇯🇵 V437U-2x-BGP-JP-NF
       - 🇯🇵 V438U-2x-BGP-JP-NF
       - 🇯🇵 V439U-2x-BGP-JP-NF
+      - 🇯🇵 Japan 01
+      - 🇯🇵 Japan 02
+      - 🇯🇵 Japan 03
+      - 🇯🇵 Japan 04
+      - 🇯🇵 Japan 05
       - 🇯🇵 日本实验性 IEPL 中继 1
       - 🇯🇵 日本高级 IEPL 中继 1
       - 🇯🇵 日本高级 IEPL 中继 2
@@ -883,7 +1041,10 @@ proxy-groups:
       - 🇯🇵 日本标准 IEPL 中继 7
       - 🇯🇵 日本标准 IEPL 中继 8
   - name: 🇺🇲 美国节点
-    type: select
+    type: url-test
+    url: http://www.apple.com/library/test/success.html
+    interval: 300
+    tolerance: 50
     proxies:
       - 🇺🇸 V380U-1x-BGP-US-NF
       - 🇺🇸 V381U-1x-BGP-US-NF
@@ -901,6 +1062,11 @@ proxy-groups:
       - 🇺🇸 V487U-2x-BGP-US-NF
       - 🇺🇸 V488U-2x-BGP-US-NF
       - 🇺🇸 V489U-2x-BGP-US-NF
+      - 🇺🇸 United States 01
+      - 🇺🇸 United States 02
+      - 🇺🇸 United States 03
+      - 🇺🇸 United States 04
+      - 🇺🇸 United States 05
       - 🇺🇸 美国实验性 IEPL 中继 1
       - 🇺🇸 美国高级 IEPL 中继 1
       - 🇺🇸 美国高级 IEPL 中继 2
@@ -914,7 +1080,10 @@ proxy-groups:
       - 🇺🇸 美国标准 IEPL 中继 7
       - 🇺🇸 美国标准 IEPL 中继 8
   - name: 🇸🇬 新加坡节点
-    type: select
+    type: url-test
+    url: http://www.apple.com/library/test/success.html
+    interval: 300
+    tolerance: 50
     proxies:
       - 🇸🇬 V350U-1x-BGP-SG-NF
       - 🇸🇬 V351U-1x-BGP-SG-NF
@@ -936,6 +1105,11 @@ proxy-groups:
       - 🇸🇬 V457U-2x-BGP-SG-NF
       - 🇸🇬 V458U-4x-BGP-SG-NF
       - 🇸🇬 V459U-4x-BGP-SG-NF
+      - 🇸🇬 Singapore 01
+      - 🇸🇬 Singapore 02
+      - 🇸🇬 Singapore 03
+      - 🇸🇬 Singapore 04
+      - 🇸🇬 Singapore 05
       - 🇸🇬 新加坡实验性 IEPL 中继 1
       - 🇸🇬 新加坡高级 IEPL 中继 1
       - 🇸🇬 新加坡高级 IEPL 中继 2
@@ -950,7 +1124,10 @@ proxy-groups:
       - 🇸🇬 新加坡标准 IEPL 中继 8
       - 🇳🇿 新西兰标准 IEPL 中继 1
   - name: 🇨🇳 台湾节点
-    type: select
+    type: url-test
+    url: http://www.apple.com/library/test/success.html
+    interval: 300
+    tolerance: 50
     proxies:
       - 🇹🇼 V370U-2x-BGP-TW-NF
       - 🇹🇼 V371U-2x-BGP-TW-NF
@@ -958,6 +1135,11 @@ proxy-groups:
       - 🇹🇼 V473U-2x-BGP-TW-NF
       - 🇹🇼 V474U-2x-BGP-TW-NF
       - 🇹🇼 V475U-2x-BGP-TW-NF
+      - 🇹🇼 Taiwan 01
+      - 🇹🇼 Taiwan 02
+      - 🇹🇼 Taiwan 03
+      - 🇹🇼 Taiwan 04
+      - 🇹🇼 Taiwan 05
       - 🇹🇼 台湾高级 IEPL 中继 1
       - 🇹🇼 台湾高级 IEPL 中继 2
       - 🇹🇼 台湾高级 IEPL 中继 3
@@ -965,12 +1147,19 @@ proxy-groups:
       - 🇹🇼 台湾标准 IEPL 中继 2
       - 🇹🇼 台湾标准 IEPL 中继 3
   - name: 🇰🇷 韩国节点
-    type: select
+    type: url-test
+    url: http://www.apple.com/library/test/success.html
+    interval: 300
+    tolerance: 50
     proxies:
+      - 🇰🇷 South Korea 01
       - 🇰🇷 韩国标准 IEPL 中继 1
       - 🇰🇷 韩国标准 IEPL 中继 2
   - name: 🎥 奈飞节点
-    type: select
+    type: url-test
+    url: http://www.apple.com/library/test/success.html
+    interval: 300
+    tolerance: 50
     proxies:
       - 🇭🇰 V301U-1x-BGP-HK-NF
       - 🇭🇰 V302U-1x-BGP-HK-NF
@@ -1067,7 +1256,10 @@ proxy-groups:
       - 🇺🇸 V488U-2x-BGP-US-NF
       - 🇺🇸 V489U-2x-BGP-US-NF
   - name: 🔑 专用线路
-    type: select
+    type: url-test
+    url: http://www.apple.com/library/test/success.html
+    interval: 300
+    tolerance: 50
     proxies:
       - 🇭🇰 香港实验性 IEPL 中继 1
       - 🇯🇵 日本实验性 IEPL 中继 1
@@ -2953,6 +3145,52 @@ rules:
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,🤖 ChatGPT
   - DOMAIN-SUFFIX,stripe.com,🤖 ChatGPT
   - DOMAIN-SUFFIX,sentry.io,🤖 ChatGPT
+  - DOMAIN-KEYWORD,tradingview,💰 TradingView
+  - DOMAIN-KEYWORD,3commas,💰 TradingView
+  - DOMAIN-KEYWORD,binance,💰 TradingView
+  - DOMAIN-KEYWORD,binancefuture,💰 TradingView
+  - IP-CIDR,192.18.0.0/17,💰 TradingView,no-resolve
+  - DOMAIN-SUFFIX,bitcointalk.org,💰 TradingView
+  - DOMAIN-SUFFIX,aex.com,💰 TradingView
+  - DOMAIN-SUFFIX,bibox.com,💰 TradingView
+  - DOMAIN-SUFFIX,bitfinex.com,💰 TradingView
+  - DOMAIN-SUFFIX,bithumb.com,💰 TradingView
+  - DOMAIN-SUFFIX,bitmex.com,💰 TradingView
+  - DOMAIN-SUFFIX,bitstamp.net,💰 TradingView
+  - DOMAIN-SUFFIX,bittrex.com,💰 TradingView
+  - DOMAIN-SUFFIX,bybit.com,💰 TradingView
+  - DOMAIN-SUFFIX,coinbase.com,💰 TradingView
+  - DOMAIN-SUFFIX,coincheck.com,💰 TradingView
+  - DOMAIN-SUFFIX,coinone.co.kr,💰 TradingView
+  - DOMAIN-SUFFIX,ftx.com,💰 TradingView
+  - DOMAIN-SUFFIX,gate.io,💰 TradingView
+  - DOMAIN-SUFFIX,gemini.com,💰 TradingView
+  - DOMAIN-SUFFIX,huobi.com,💰 TradingView
+  - DOMAIN-SUFFIX,korbit.co.kr,💰 TradingView
+  - DOMAIN-SUFFIX,kraken.com,💰 TradingView
+  - DOMAIN-SUFFIX,kucoin.com,💰 TradingView
+  - DOMAIN-SUFFIX,liquid.com,💰 TradingView
+  - DOMAIN-SUFFIX,poloniex.com,💰 TradingView
+  - DOMAIN-SUFFIX,sushi.com,💰 TradingView
+  - DOMAIN-SUFFIX,uniswap.org,💰 TradingView
+  - DOMAIN-SUFFIX,zb.com,💰 TradingView
+  - DOMAIN-SUFFIX,bnappzh.co,💰 TradingView
+  - DOMAIN-SUFFIX,bnappzh.com,💰 TradingView
+  - DOMAIN-SUFFIX,bnbstatic.com,💰 TradingView
+  - DOMAIN-SUFFIX,bntrace.com,💰 TradingView
+  - DOMAIN-SUFFIX,online-metrix.net,💰 TradingView
+  - DOMAIN-SUFFIX,okex.com,💰 TradingView
+  - DOMAIN-SUFFIX,okx.com,💰 TradingView
+  - DOMAIN-SUFFIX,aicoin.com,💰 TradingView
+  - DOMAIN-SUFFIX,aimoon.com,💰 TradingView
+  - DOMAIN-SUFFIX,coingecko.com,💰 TradingView
+  - DOMAIN-SUFFIX,coinmarketcap.com,💰 TradingView
+  - DOMAIN-SUFFIX,discord.gg,💰 TradingView
+  - DOMAIN-SUFFIX,discordapp.net,💰 TradingView
+  - DOMAIN-SUFFIX,discord.com,💰 TradingView
+  - DOMAIN-SUFFIX,discordapp.com,💰 TradingView
+  - DOMAIN-SUFFIX,discord.co,💰 TradingView
+  - DOMAIN-SUFFIX,discord.media,💰 TradingView
   - DOMAIN-SUFFIX,163yun.com,🎶 网易音乐
   - DOMAIN-SUFFIX,api.iplay.163.com,🎶 网易音乐
   - DOMAIN-SUFFIX,hz.netease.com,🎶 网易音乐
@@ -8564,7 +8802,6 @@ rules:
   - DOMAIN-SUFFIX,tparents.org,🚀 全局设置
   - DOMAIN-SUFFIX,tpi.org.tw,🚀 全局设置
   - DOMAIN-SUFFIX,tracfone.com,🚀 全局设置
-  - DOMAIN-SUFFIX,tradingview.com,🚀 全局设置
   - DOMAIN-SUFFIX,translate.goog,🚀 全局设置
   - DOMAIN-SUFFIX,transparency.org,🚀 全局设置
   - DOMAIN-SUFFIX,treemall.com.tw,🚀 全局设置
