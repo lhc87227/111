@@ -15,147 +15,6 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  - {name: 🇭🇰 V301U-1x-BGP-HK-NF, server: pl5bitzle7ah.nodelist.club, port: 1301, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V302U-1x-BGP-HK-NF, server: pl5bitzle7ah.nodelist.club, port: 1302, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V303U-1x-BGP-HK-NF, server: pl5bitzle7ah.nodelist.club, port: 1303, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V304U-1x-BGP-HK-NF, server: pl5bitzle7ah.nodelist.club, port: 1304, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V305U-1x-BGP-HK-NF, server: pl5bitzle7ah.nodelist.club, port: 1305, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V306U-1x-BGP-HK-NF, server: zzgyyfthl75r.nodelist.club, port: 1306, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V307U-1x-BGP-HK-NF, server: zzgyyfthl75r.nodelist.club, port: 1307, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V308U-1x-BGP-HK-NF, server: zzgyyfthl75r.nodelist.club, port: 1308, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V309U-1x-BGP-HK-NF, server: zzgyyfthl75r.nodelist.club, port: 1309, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V310U-1x-BGP-HK-NF, server: zzgyyfthl75r.nodelist.club, port: 1310, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V320U-2x-BGP-HK-NF, server: n0d9sl5ifja0.nodelist.club, port: 1320, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V321U-2x-BGP-HK-NF, server: n0d9sl5ifja0.nodelist.club, port: 1321, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V322U-2x-BGP-HK-NF, server: n0d9sl5ifja0.nodelist.club, port: 1322, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V323U-2x-BGP-HK-NF, server: n0d9sl5ifja0.nodelist.club, port: 1323, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V326U-4x-BGP-HK-NF, server: ijmazhr5972b.nodelist.club, port: 1326, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V327U-4x-BGP-HK-NF, server: ijmazhr5972b.nodelist.club, port: 1327, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V328U-4x-BGP-HK-NF, server: ijmazhr5972b.nodelist.club, port: 1328, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V329U-4x-BGP-HK-NF, server: ijmazhr5972b.nodelist.club, port: 1329, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V332U-1x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1332, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V333U-1x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1333, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V334U-1x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1334, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V335U-1x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1335, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V336U-2x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1336, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V337U-2x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1337, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V338U-2x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1338, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V339U-2x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1339, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V350U-1x-BGP-SG-NF, server: 1c7inixez0fr.nodelist.club, port: 1350, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V351U-1x-BGP-SG-NF, server: 1c7inixez0fr.nodelist.club, port: 1351, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V352U-1x-BGP-SG-NF, server: 1c7inixez0fr.nodelist.club, port: 1352, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V353U-1x-BGP-SG-NF, server: 1c7inixez0fr.nodelist.club, port: 1353, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V354U-2x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1354, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V355U-2x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1355, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V356U-2x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1356, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V357U-2x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1357, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V358U-4x-BGP-SG-NF, server: ijmazhr5972b.nodelist.club, port: 1358, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V359U-4x-BGP-SG-NF, server: ijmazhr5972b.nodelist.club, port: 1359, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇹🇼 V370U-2x-BGP-TW-NF, server: n0d9sl5ifja0.nodelist.club, port: 1370, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇹🇼 V371U-2x-BGP-TW-NF, server: n0d9sl5ifja0.nodelist.club, port: 1371, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇺🇸 V380U-1x-BGP-US-NF, server: y8q88cgjsq.nodelist.club, port: 1380, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇺🇸 V381U-1x-BGP-US-NF, server: y8q88cgjsq.nodelist.club, port: 1381, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇺🇸 V382U-1x-BGP-US-NF, server: y8q88cgjsq.nodelist.club, port: 1382, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇺🇸 V383U-1x-BGP-US-NF, server: y8q88cgjsq.nodelist.club, port: 1383, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇺🇸 V386U-2x-BGP-US-NF, server: u3ub1s2xt0.nodelist.club, port: 1386, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇺🇸 V387U-2x-BGP-US-NF, server: u3ub1s2xt0.nodelist.club, port: 1387, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇺🇸 V388U-2x-BGP-US-NF, server: u3ub1s2xt0.nodelist.club, port: 1388, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇺🇸 V389U-2x-BGP-US-NF, server: u3ub1s2xt0.nodelist.club, port: 1389, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇬🇧 V393U-1x-BGP-UK, server: fece7m6rjo3r.nodelist.club, port: 1393, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇩🇪 V394U-1x-BGP-DE, server: fece7m6rjo3r.nodelist.club, port: 1394, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇷🇺 V395U-1x-BGP-RU, server: fece7m6rjo3r.nodelist.club, port: 1395, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V401U-1x-BGP-HK-NF, server: w8ttjdfs4ysw.nodelist.club, port: 1401, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V402U-1x-BGP-HK-NF, server: w8ttjdfs4ysw.nodelist.club, port: 1402, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V403U-1x-BGP-HK-NF, server: w8ttjdfs4ysw.nodelist.club, port: 1403, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V404U-1x-BGP-HK-NF, server: w8ttjdfs4ysw.nodelist.club, port: 1404, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V405U-1x-BGP-HK-NF, server: w8ttjdfs4ysw.nodelist.club, port: 1405, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V406U-1x-BGP-HK-NF, server: w8ttjdfs4ysw.nodelist.club, port: 1406, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V407U-1x-BGP-HK-NF, server: w8ttjdfs4ysw.nodelist.club, port: 1407, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V408U-1x-BGP-HK-NF, server: w8ttjdfs4ysw.nodelist.club, port: 1408, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V409U-1x-BGP-HK-NF, server: w8ttjdfs4ysw.nodelist.club, port: 1409, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V410U-1x-BGP-HK-NF, server: w8ttjdfs4ysw.nodelist.club, port: 1410, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V420U-2x-BGP-HK-NF, server: wvfkeuwon2uq.nodelist.club, port: 1420, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V421U-2x-BGP-HK-NF, server: wvfkeuwon2uq.nodelist.club, port: 1421, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V422U-2x-BGP-HK-NF, server: wvfkeuwon2uq.nodelist.club, port: 1422, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V423U-2x-BGP-HK-NF, server: wvfkeuwon2uq.nodelist.club, port: 1423, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V426U-4x-BGP-HK-NF, server: ijmazhr5972b.nodelist.club, port: 1426, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V427U-4x-BGP-HK-NF, server: ijmazhr5972b.nodelist.club, port: 1427, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V428U-4x-BGP-HK-NF, server: ijmazhr5972b.nodelist.club, port: 1428, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 V429U-4x-BGP-HK-NF, server: ijmazhr5972b.nodelist.club, port: 1429, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V432U-1x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1432, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V433U-1x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1433, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V434U-1x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1444, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V435U-1x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1435, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V436U-2x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1436, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V437U-2x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1437, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V438U-2x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1438, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇯🇵 V439U-2x-BGP-JP-NF, server: fece7m6rjo3r.nodelist.club, port: 1439, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V450U-1x-BGP-SG-NF, server: 1c7inixez0fr.nodelist.club, port: 1450, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V451U-1x-BGP-SG-NF, server: 1c7inixez0fr.nodelist.club, port: 1451, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V452U-1x-BGP-SG-NF, server: 1c7inixez0fr.nodelist.club, port: 1452, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V453U-1x-BGP-SG-NF, server: 1c7inixez0fr.nodelist.club, port: 1453, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V454U-2x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1454, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V455U-2x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1455, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V456U-2x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1456, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V457U-2x-BGP-SG-NF, server: op3gf9zhfgnx.nodelist.club, port: 1457, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V458U-4x-BGP-SG-NF, server: ijmazhr5972b.nodelist.club, port: 1458, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇸🇬 V459U-4x-BGP-SG-NF, server: ijmazhr5972b.nodelist.club, port: 1459, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇹🇼 V472U-2x-BGP-TW-NF, server: n0d9sl5ifja0.nodelist.club, port: 1472, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇹🇼 V473U-2x-BGP-TW-NF, server: n0d9sl5ifja0.nodelist.club, port: 1473, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇹🇼 V474U-2x-BGP-TW-NF, server: n0d9sl5ifja0.nodelist.club, port: 1474, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇹🇼 V475U-2x-BGP-TW-NF, server: n0d9sl5ifja0.nodelist.club, port: 1475, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇺🇸 V480U-1x-BGP-US-NF, server: y8q88cgjsq.nodelist.club, port: 1480, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇺🇸 V481U-1x-BGP-US-NF, server: y8q88cgjsq.nodelist.club, port: 1481, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇺🇸 V482U-1x-BGP-US-NF, server: y8q88cgjsq.nodelist.club, port: 1482, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇺🇸 V483U-1x-BGP-US-NF, server: y8q88cgjsq.nodelist.club, port: 1483, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇺🇸 V486U-2x-BGP-US-NF, server: u3ub1s2xt0.nodelist.club, port: 1486, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇺🇸 V487U-2x-BGP-US-NF, server: u3ub1s2xt0.nodelist.club, port: 1487, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇺🇸 V488U-2x-BGP-US-NF, server: u3ub1s2xt0.nodelist.club, port: 1488, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇺🇸 V489U-2x-BGP-US-NF, server: u3ub1s2xt0.nodelist.club, port: 1489, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🏳️‍🌈 应急续费节点-10x, server: 10xfree.nodelist.club, port: 1399, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 Hong Kong 01, server: q8at0puf.klmdns.com, port: 15003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇭🇰 Hong Kong 02, server: q8at0puf.klmdns.com, port: 15006, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇭🇰 Hong Kong 03, server: q8at0puf.klmdns.com, port: 15009, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇭🇰 Hong Kong 04, server: q8at0puf.klmdns.com, port: 15013, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇭🇰 Hong Kong 05, server: q8at0puf.klmdns.com, port: 15016, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇭🇰 Hong Kong 06, server: q8at0puf.klmdns.com, port: 15019, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇭🇰 Hong Kong 07, server: q8at0puf.klmdns.com, port: 15023, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇭🇰 Hong Kong 08, server: q8at0puf.klmdns.com, port: 15026, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇭🇰 Hong Kong 09, server: q8at0puf.klmdns.com, port: 15029, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇭🇰 Hong Kong 10, server: q8at0puf.klmdns.com, port: 15033, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇸🇬 Singapore 01, server: q8at0puf.klmdns.com, port: 18803, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇸🇬 Singapore 02, server: q8at0puf.klmdns.com, port: 18806, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇸🇬 Singapore 03, server: q8at0puf.klmdns.com, port: 18809, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇸🇬 Singapore 04, server: q8at0puf.klmdns.com, port: 18813, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇸🇬 Singapore 05, server: q8at0puf.klmdns.com, port: 18816, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇯🇵 Japan 01, server: hwxi4weq.klmdns.com, port: 17003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇯🇵 Japan 02, server: hwxi4weq.klmdns.com, port: 17006, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇯🇵 Japan 03, server: hwxi4weq.klmdns.com, port: 17009, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇯🇵 Japan 04, server: hwxi4weq.klmdns.com, port: 17013, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇯🇵 Japan 05, server: hwxi4weq.klmdns.com, port: 17016, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇺🇸 United States 01, server: hwxi4weq.klmdns.com, port: 16003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇺🇸 United States 02, server: hwxi4weq.klmdns.com, port: 16006, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇺🇸 United States 03, server: hwxi4weq.klmdns.com, port: 16009, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇺🇸 United States 04, server: hwxi4weq.klmdns.com, port: 16013, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇺🇸 United States 05, server: hwxi4weq.klmdns.com, port: 16016, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇹🇼 Taiwan 01, server: q8at0puf.klmdns.com, port: 19003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇹🇼 Taiwan 02, server: q8at0puf.klmdns.com, port: 19006, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇹🇼 Taiwan 03, server: q8at0puf.klmdns.com, port: 19009, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇹🇼 Taiwan 04, server: q8at0puf.klmdns.com, port: 19013, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇹🇼 Taiwan 05, server: q8at0puf.klmdns.com, port: 19016, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇩🇪 Germany 01, server: q8at0puf.klmdns.com, port: 21003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇩🇪 Germany 02, server: q8at0puf.klmdns.com, port: 21006, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇩🇪 Germany 03, server: q8at0puf.klmdns.com, port: 21009, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇬🇧 United Kingdom 01, server: q8at0puf.klmdns.com, port: 22003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇬🇧 United Kingdom 02, server: q8at0puf.klmdns.com, port: 22006, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇬🇧 United Kingdom 03, server: q8at0puf.klmdns.com, port: 22009, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇰🇷 South Korea 01, server: hwxi4weq.klmdns.com, port: 24003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇫🇷 France 01, server: q8at0puf.klmdns.com, port: 25003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇳🇱 Netherlands 01, server: q8at0puf.klmdns.com, port: 26003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: 🇮🇳 India 01, server: q8at0puf.klmdns.com, port: 27003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: Türkiye 01, server: q8at0puf.klmdns.com, port: 28003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
-  - {name: "🇬🇧 Traffic: 14.93 GB | 150 GB", server: pregzdata1.fc-aliyun.xyz, port: 10001, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
-  - {name: "🏳️‍🌈 Expire: 2024-07-05", server: pregzdata1.fc-aliyun.xyz, port: 10001, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
   - {name: 🇭🇰 香港实验性 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 10001, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
   - {name: 🇯🇵 日本实验性 IEPL 中继 1, server: preshdata1.fc-aliyun.xyz, port: 10002, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
   - {name: 🇸🇬 新加坡实验性 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 10003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
@@ -243,6 +102,181 @@ proxies:
   - {name: 🇵🇭 菲律宾标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11084, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
   - {name: 🇲🇾 马来西亚标准 IEPL 中继 1, server: pregzdata1.fc-aliyun.xyz, port: 11085, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
   - {name: 🇪🇬 埃及标准 IEPL 中继 1, server: prebjdata1.fc-aliyun.xyz, port: 11086, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 3af48f6143.m.ctrip.com}}
+  - {name: 🇭🇰 Hong Kong 01, server: q8at0puf.klmdns.com, port: 15003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇭🇰 Hong Kong 02, server: q8at0puf.klmdns.com, port: 15006, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇭🇰 Hong Kong 03, server: q8at0puf.klmdns.com, port: 15009, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇭🇰 Hong Kong 04, server: q8at0puf.klmdns.com, port: 15013, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇭🇰 Hong Kong 05, server: q8at0puf.klmdns.com, port: 15016, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇭🇰 Hong Kong 06, server: q8at0puf.klmdns.com, port: 15019, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇭🇰 Hong Kong 07, server: q8at0puf.klmdns.com, port: 15023, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇭🇰 Hong Kong 08, server: q8at0puf.klmdns.com, port: 15026, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇭🇰 Hong Kong 09, server: q8at0puf.klmdns.com, port: 15029, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇭🇰 Hong Kong 10, server: q8at0puf.klmdns.com, port: 15033, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇸🇬 Singapore 01, server: q8at0puf.klmdns.com, port: 18803, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇸🇬 Singapore 02, server: q8at0puf.klmdns.com, port: 18806, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇸🇬 Singapore 03, server: q8at0puf.klmdns.com, port: 18809, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇸🇬 Singapore 04, server: q8at0puf.klmdns.com, port: 18813, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇸🇬 Singapore 05, server: q8at0puf.klmdns.com, port: 18816, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇯🇵 Japan 01, server: hwxi4weq.klmdns.com, port: 17003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇯🇵 Japan 02, server: hwxi4weq.klmdns.com, port: 17006, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇯🇵 Japan 03, server: hwxi4weq.klmdns.com, port: 17009, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇯🇵 Japan 04, server: hwxi4weq.klmdns.com, port: 17013, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇯🇵 Japan 05, server: hwxi4weq.klmdns.com, port: 17016, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇺🇸 United States 01, server: hwxi4weq.klmdns.com, port: 16003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇺🇸 United States 02, server: hwxi4weq.klmdns.com, port: 16006, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇺🇸 United States 03, server: hwxi4weq.klmdns.com, port: 16009, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇺🇸 United States 04, server: hwxi4weq.klmdns.com, port: 16013, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇺🇸 United States 05, server: hwxi4weq.klmdns.com, port: 16016, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇹🇼 Taiwan 01, server: q8at0puf.klmdns.com, port: 19003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇹🇼 Taiwan 02, server: q8at0puf.klmdns.com, port: 19006, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇹🇼 Taiwan 03, server: q8at0puf.klmdns.com, port: 19009, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇹🇼 Taiwan 04, server: q8at0puf.klmdns.com, port: 19013, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: 🇹🇼 Taiwan 05, server: q8at0puf.klmdns.com, port: 19016, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: dUhQw1X-W0y7vuohbJ_kA, tfo: false}
+  - {name: "🇭🇰 日用 专线 香港 [0.2]", server: bepgzbgp01.114837322.xyz, port: 14391, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: "🇸🇬 日用 专线 狮城 [0.2]", server: bepgzbgp01.114837322.xyz, port: 14392, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: "🇯🇵 日用 专线 日本 [0.2]", server: bepshbgp01.114837322.xyz, port: 14393, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: "🇺🇸 日用 专线 美国 [0.2]", server: bepshbgp01.114837322.xyz, port: 14394, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇭🇰 高级 专线 香港 01, server: bepgzbgp01.114837322.xyz, port: 14401, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇭🇰 高级 专线 香港 02, server: bepgzbgp01.114837322.xyz, port: 14402, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇭🇰 高级 专线 香港 03, server: bepgzbgp01.114837322.xyz, port: 14403, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇭🇰 高级 专线 香港 04, server: bepgzbgp01.114837322.xyz, port: 14404, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇭🇰 高级 专线 香港 05, server: bepgzbgp01.114837322.xyz, port: 14405, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇭🇰 高级 专线 香港 06, server: bepgzbgp01.114837322.xyz, port: 14406, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇭🇰 高级 专线 香港 07, server: bepgzbgp01.114837322.xyz, port: 14407, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇭🇰 高级 专线 香港 08, server: bepgzbgp01.114837322.xyz, port: 14408, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇸🇬 高级 专线 狮城 01, server: bepgzbgp01.114837322.xyz, port: 14411, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇸🇬 高级 专线 狮城 02, server: bepgzbgp01.114837322.xyz, port: 14412, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇸🇬 高级 专线 狮城 03, server: bepgzbgp01.114837322.xyz, port: 14413, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇸🇬 高级 专线 狮城 04, server: bepgzbgp01.114837322.xyz, port: 14414, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇸🇬 高级 专线 狮城 05, server: bepgzbgp01.114837322.xyz, port: 14415, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇺🇸 高级 专线 美国 01, server: bepshbgp01.114837322.xyz, port: 14431, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇺🇸 高级 专线 美国 02, server: bepshbgp01.114837322.xyz, port: 14432, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇺🇸 高级 专线 美国 03, server: bepshbgp01.114837322.xyz, port: 14433, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇺🇸 高级 专线 美国 04, server: bepshbgp01.114837322.xyz, port: 14434, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇺🇸 高级 专线 美国 05, server: bepshbgp01.114837322.xyz, port: 14435, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇺🇸 高级 专线 美国 06, server: bepshbgp01.114837322.xyz, port: 14436, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇺🇸 高级 专线 美国 07, server: bepshbgp01.114837322.xyz, port: 14437, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇺🇸 高级 专线 美国 08, server: bepshbgp01.114837322.xyz, port: 14438, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇺🇸 高级 专线 美国 09, server: bepshbgp01.114837322.xyz, port: 14439, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇺🇸 高级 专线 美国 10, server: bepshbgp01.114837322.xyz, port: 14440, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇰🇷 高级 专线 韩国 01, server: bepshbgp01.114837322.xyz, port: 14441, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇰🇷 高级 专线 韩国 02, server: bepshbgp01.114837322.xyz, port: 14442, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇹🇼 高级 专线 台湾 01, server: bepgzbgp01.114837322.xyz, port: 14451, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇹🇼 高级 专线 台湾 02, server: bepgzbgp01.114837322.xyz, port: 14452, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇯🇵 高级 专线 日本 01, server: bepshbgp01.114837322.xyz, port: 14421, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇯🇵 高级 专线 日本 02, server: bepshbgp01.114837322.xyz, port: 14422, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇯🇵 高级 专线 日本 03, server: bepshbgp01.114837322.xyz, port: 14423, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇯🇵 高级 专线 日本 04, server: bepshbgp01.114837322.xyz, port: 14424, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇯🇵 高级 专线 日本 05, server: bepshbgp01.114837322.xyz, port: 14425, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇯🇵 高级 专线 日本 06, server: bepshbgp01.114837322.xyz, port: 14426, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇯🇵 高级 专线 日本 07, server: bepshbgp01.114837322.xyz, port: 14427, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇯🇵 高级 专线 日本 08, server: bepshbgp01.114837322.xyz, port: 14428, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇭🇰 标准 专线 香港 01, server: bepgzbgp01.114837322.xyz, port: 14301, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇭🇰 标准 专线 香港 02, server: bepgzbgp01.114837322.xyz, port: 14302, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇭🇰 标准 专线 香港 03, server: bepgzbgp01.114837322.xyz, port: 14303, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇸🇬 标准 专线 狮城 01, server: bepgzbgp01.114837322.xyz, port: 14311, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇸🇬 标准 专线 狮城 02, server: bepgzbgp01.114837322.xyz, port: 14312, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇸🇬 标准 专线 狮城 03, server: bepgzbgp01.114837322.xyz, port: 14313, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇺🇸 标准 专线 美国 01, server: bepshbgp01.114837322.xyz, port: 14331, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇺🇸 标准 专线 美国 02, server: bepshbgp01.114837322.xyz, port: 14332, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇺🇸 标准 专线 美国 03, server: bepshbgp01.114837322.xyz, port: 14333, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇺🇸 标准 专线 美国 04, server: bepshbgp01.114837322.xyz, port: 14334, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇺🇸 标准 专线 美国 05, server: bepshbgp01.114837322.xyz, port: 14335, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇺🇸 标准 专线 美国 06, server: bepshbgp01.114837322.xyz, port: 14336, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇰🇷 标准 专线 韩国 01, server: bepshbgp01.114837322.xyz, port: 14341, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇯🇵 标准 专线 日本 01, server: bepshbgp01.114837322.xyz, port: 14321, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇯🇵 标准 专线 日本 02, server: bepshbgp01.114837322.xyz, port: 14322, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇯🇵 标准 专线 日本 03, server: bepshbgp01.114837322.xyz, port: 14323, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇯🇵 标准 专线 日本 04, server: bepshbgp01.114837322.xyz, port: 14324, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇹🇼 标准 专线 台湾 01, server: bepgzbgp01.114837322.xyz, port: 14351, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇬🇧 特殊 专线 伦敦 01, server: bepbjbgp01.114837322.xyz, port: 14501, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇬🇧 特殊 专线 伦敦 02, server: bepbjbgp01.114837322.xyz, port: 14502, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇩🇪 特殊 专线 德国 01, server: bepbjbgp01.114837322.xyz, port: 14500, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇩🇪 特殊 专线 德国 02, server: bepbjbgp01.114837322.xyz, port: 14507, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇧🇷 特殊 专线 巴西 01, server: bepshbgp01.114837322.xyz, port: 14505, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇧🇷 特殊 专线 巴西 02, server: bepshbgp01.114837322.xyz, port: 14512, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇨🇦 特殊 专线 加拿大 01, server: bepshbgp01.114837322.xyz, port: 14506, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇨🇦 特殊 专线 加拿大 02, server: bepshbgp01.114837322.xyz, port: 14508, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇹🇷 特殊 专线 土耳其 01, server: bepbjbgp01.114837322.xyz, port: 14498, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇹🇷 特殊 专线 土耳其 02, server: bepbjbgp01.114837322.xyz, port: 14518, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇹🇭 特殊 专线 泰国, server: bepgzbgp01.114837322.xyz, port: 14461, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇻🇳 特殊 专线 越南, server: bepgzbgp01.114837322.xyz, port: 14462, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇮🇳 特殊 专线 印度, server: bepgzbgp01.114837322.xyz, port: 14494, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇦🇺 特殊 专线 悉尼, server: bepgzbgp01.114837322.xyz, port: 14499, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇦🇪 特殊 专线 迪拜, server: bepgzbgp01.114837322.xyz, port: 14503, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇫🇷 特殊 专线 法国, server: bepbjbgp01.114837322.xyz, port: 14504, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇳🇱 特殊 专线 荷兰, server: bepbjbgp01.114837322.xyz, port: 14513, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇮🇩 特殊 专线 印尼, server: bepgzbgp01.114837322.xyz, port: 14514, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇿🇦 特殊 专线 南非, server: bepgzbgp01.114837322.xyz, port: 14515, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇪🇬 特殊 专线 埃及, server: bepbjbgp01.114837322.xyz, port: 14520, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇵🇭 特殊 专线 菲律宾, server: bepgzbgp01.114837322.xyz, port: 14491, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇮🇹 特殊 专线 意大利, server: bepbjbgp01.114837322.xyz, port: 14493, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇪🇸 特殊 专线 西班牙, server: bepbjbgp01.114837322.xyz, port: 14492, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇭🇺 特殊 专线 匈牙利, server: bepbjbgp01.114837322.xyz, port: 14496, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇮🇱 特殊 专线 以色列, server: bepbjbgp01.114837322.xyz, port: 14509, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇺🇦 特殊 专线 乌克兰, server: bepbjbgp01.114837322.xyz, port: 14511, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇷🇺 特殊 专线 俄罗斯, server: bepbjbgp01.114837322.xyz, port: 14495, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇲🇾 特殊 专线 马来西亚, server: bepgzbgp01.114837322.xyz, port: 14519, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇳🇬 特殊 专线 尼日利亚, server: bepgzbgp01.114837322.xyz, port: 14510, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇵🇰 特殊 专线 巴基斯坦, server: bepgzbgp01.114837322.xyz, port: 14516, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇲🇩 特殊 专线 摩尔多瓦, server: bepbjbgp01.114837322.xyz, port: 14517, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇦🇷 购物 专线 阿根廷, server: bepshbgp01.114837322.xyz, port: 14497, client-fingerprint: chrome, type: trojan, password: ED3CD348-0F76-CF49-6145-A937216820B0, sni: mpvideo.qpic.cn, skip-cert-verify: false}
+  - {name: 🇭🇰 香港 01, server: 2c3ca66.aqmixt.xyz, port: 18300, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 02, server: 2c3ca66.aqmixt.xyz, port: 18305, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 03, server: 2c3ca66.aqmixt.xyz, port: 18310, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 04, server: 2c3ca66.aqmixt.xyz, port: 18315, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 05, server: 5ce629a.trqjrp.xyz, port: 18320, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 06, server: 5ce629a.trqjrp.xyz, port: 18325, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 07, server: 5ce629a.trqjrp.xyz, port: 18330, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 08, server: 5ce629a.trqjrp.xyz, port: 18335, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 09, server: 5ce629a.trqjrp.xyz, port: 18340, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 10, server: 2c3ca66.aqmixt.xyz, port: 18345, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 11, server: 2c3ca66.aqmixt.xyz, port: 18350, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 12, server: 2c3ca66.aqmixt.xyz, port: 18400, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 13, server: 2c3ca66.aqmixt.xyz, port: 18405, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 14, server: 2c3ca66.aqmixt.xyz, port: 18410, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 15, server: 2c3ca66.aqmixt.xyz, port: 18415, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 16, server: 2c3ca66.aqmixt.xyz, port: 18420, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 17, server: 5ce629a.trqjrp.xyz, port: 18425, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 18, server: 5ce629a.trqjrp.xyz, port: 18430, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 19, server: 5ce629a.trqjrp.xyz, port: 18435, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 20, server: 5ce629a.trqjrp.xyz, port: 18440, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇭🇰 香港 21, server: 5ce629a.trqjrp.xyz, port: 18445, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇺🇸 美国 01, server: 83ac9bf.btlsmi.xyz, port: 18100, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇺🇸 美国 02, server: 83ac9bf.btlsmi.xyz, port: 18105, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇺🇸 美国 03, server: 83ac9bf.btlsmi.xyz, port: 18110, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇺🇸 美国 04, server: 83ac9bf.btlsmi.xyz, port: 18115, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇺🇸 美国 05, server: 83ac9bf.btlsmi.xyz, port: 18120, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇺🇸 美国 06, server: e02d87f.hlnvpy.xyz, port: 18125, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇺🇸 美国 07, server: e02d87f.hlnvpy.xyz, port: 18130, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇺🇸 美国 08, server: e02d87f.hlnvpy.xyz, port: 18135, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇺🇸 美国 09, server: e02d87f.hlnvpy.xyz, port: 18140, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇺🇸 美国 10, server: e02d87f.hlnvpy.xyz, port: 18145, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇺🇸 美国 11, server: e02d87f.hlnvpy.xyz, port: 18150, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇺🇸 美国 12, server: 83ac9bf.btlsmi.xyz, port: 18155, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇺🇸 美国 13, server: 83ac9bf.btlsmi.xyz, port: 18160, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇯🇵 日本 01, server: 83ac9bf.btlsmi.xyz, port: 18002, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇯🇵 日本 02, server: 83ac9bf.btlsmi.xyz, port: 18005, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇯🇵 日本 03, server: 83ac9bf.btlsmi.xyz, port: 18010, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇯🇵 日本 04, server: 83ac9bf.btlsmi.xyz, port: 18015, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇯🇵 日本 05, server: e02d87f.hlnvpy.xyz, port: 18020, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇯🇵 日本 06, server: e02d87f.hlnvpy.xyz, port: 18025, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇯🇵 日本 07, server: e02d87f.hlnvpy.xyz, port: 18030, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇯🇵 日本 08, server: e02d87f.hlnvpy.xyz, port: 18035, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇹🇼 台湾 01, server: 2c3ca66.aqmixt.xyz, port: 18355, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇹🇼 台湾 02, server: 2c3ca66.aqmixt.xyz, port: 18360, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇹🇼 台湾 03, server: 5ce629a.trqjrp.xyz, port: 18365, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇹🇼 台湾 04, server: 5ce629a.trqjrp.xyz, port: 18370, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇹🇼 台湾 05, server: 2c3ca66.aqmixt.xyz, port: 18375, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇹🇼 台湾 06, server: 2c3ca66.aqmixt.xyz, port: 18356, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇹🇼 台湾 07, server: 2c3ca66.aqmixt.xyz, port: 18361, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇹🇼 台湾 08, server: 5ce629a.trqjrp.xyz, port: 18366, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇹🇼 台湾 09, server: 5ce629a.trqjrp.xyz, port: 18371, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇹🇼 台湾 10, server: 5ce629a.trqjrp.xyz, port: 18376, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇸🇬 新加坡 01, server: 2c3ca66.aqmixt.xyz, port: 18380, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇸🇬 新加坡 02, server: 2c3ca66.aqmixt.xyz, port: 18385, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇸🇬 新加坡 03, server: 5ce629a.trqjrp.xyz, port: 18390, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
+  - {name: 🇸🇬 新加坡 04, server: 5ce629a.trqjrp.xyz, port: 18395, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 415c68914eb815c2, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: z6w6ZY6b7q.microsoft.com}}
 proxy-groups:
   - name: 🚀 全局设置
     type: select
@@ -260,147 +294,6 @@ proxy-groups:
   - name: 🚀 手动选择
     type: select
     proxies:
-      - 🇭🇰 V301U-1x-BGP-HK-NF
-      - 🇭🇰 V302U-1x-BGP-HK-NF
-      - 🇭🇰 V303U-1x-BGP-HK-NF
-      - 🇭🇰 V304U-1x-BGP-HK-NF
-      - 🇭🇰 V305U-1x-BGP-HK-NF
-      - 🇭🇰 V306U-1x-BGP-HK-NF
-      - 🇭🇰 V307U-1x-BGP-HK-NF
-      - 🇭🇰 V308U-1x-BGP-HK-NF
-      - 🇭🇰 V309U-1x-BGP-HK-NF
-      - 🇭🇰 V310U-1x-BGP-HK-NF
-      - 🇭🇰 V320U-2x-BGP-HK-NF
-      - 🇭🇰 V321U-2x-BGP-HK-NF
-      - 🇭🇰 V322U-2x-BGP-HK-NF
-      - 🇭🇰 V323U-2x-BGP-HK-NF
-      - 🇭🇰 V326U-4x-BGP-HK-NF
-      - 🇭🇰 V327U-4x-BGP-HK-NF
-      - 🇭🇰 V328U-4x-BGP-HK-NF
-      - 🇭🇰 V329U-4x-BGP-HK-NF
-      - 🇯🇵 V332U-1x-BGP-JP-NF
-      - 🇯🇵 V333U-1x-BGP-JP-NF
-      - 🇯🇵 V334U-1x-BGP-JP-NF
-      - 🇯🇵 V335U-1x-BGP-JP-NF
-      - 🇯🇵 V336U-2x-BGP-JP-NF
-      - 🇯🇵 V337U-2x-BGP-JP-NF
-      - 🇯🇵 V338U-2x-BGP-JP-NF
-      - 🇯🇵 V339U-2x-BGP-JP-NF
-      - 🇸🇬 V350U-1x-BGP-SG-NF
-      - 🇸🇬 V351U-1x-BGP-SG-NF
-      - 🇸🇬 V352U-1x-BGP-SG-NF
-      - 🇸🇬 V353U-1x-BGP-SG-NF
-      - 🇸🇬 V354U-2x-BGP-SG-NF
-      - 🇸🇬 V355U-2x-BGP-SG-NF
-      - 🇸🇬 V356U-2x-BGP-SG-NF
-      - 🇸🇬 V357U-2x-BGP-SG-NF
-      - 🇸🇬 V358U-4x-BGP-SG-NF
-      - 🇸🇬 V359U-4x-BGP-SG-NF
-      - 🇹🇼 V370U-2x-BGP-TW-NF
-      - 🇹🇼 V371U-2x-BGP-TW-NF
-      - 🇺🇸 V380U-1x-BGP-US-NF
-      - 🇺🇸 V381U-1x-BGP-US-NF
-      - 🇺🇸 V382U-1x-BGP-US-NF
-      - 🇺🇸 V383U-1x-BGP-US-NF
-      - 🇺🇸 V386U-2x-BGP-US-NF
-      - 🇺🇸 V387U-2x-BGP-US-NF
-      - 🇺🇸 V388U-2x-BGP-US-NF
-      - 🇺🇸 V389U-2x-BGP-US-NF
-      - 🇬🇧 V393U-1x-BGP-UK
-      - 🇩🇪 V394U-1x-BGP-DE
-      - 🇷🇺 V395U-1x-BGP-RU
-      - 🇭🇰 V401U-1x-BGP-HK-NF
-      - 🇭🇰 V402U-1x-BGP-HK-NF
-      - 🇭🇰 V403U-1x-BGP-HK-NF
-      - 🇭🇰 V404U-1x-BGP-HK-NF
-      - 🇭🇰 V405U-1x-BGP-HK-NF
-      - 🇭🇰 V406U-1x-BGP-HK-NF
-      - 🇭🇰 V407U-1x-BGP-HK-NF
-      - 🇭🇰 V408U-1x-BGP-HK-NF
-      - 🇭🇰 V409U-1x-BGP-HK-NF
-      - 🇭🇰 V410U-1x-BGP-HK-NF
-      - 🇭🇰 V420U-2x-BGP-HK-NF
-      - 🇭🇰 V421U-2x-BGP-HK-NF
-      - 🇭🇰 V422U-2x-BGP-HK-NF
-      - 🇭🇰 V423U-2x-BGP-HK-NF
-      - 🇭🇰 V426U-4x-BGP-HK-NF
-      - 🇭🇰 V427U-4x-BGP-HK-NF
-      - 🇭🇰 V428U-4x-BGP-HK-NF
-      - 🇭🇰 V429U-4x-BGP-HK-NF
-      - 🇯🇵 V432U-1x-BGP-JP-NF
-      - 🇯🇵 V433U-1x-BGP-JP-NF
-      - 🇯🇵 V434U-1x-BGP-JP-NF
-      - 🇯🇵 V435U-1x-BGP-JP-NF
-      - 🇯🇵 V436U-2x-BGP-JP-NF
-      - 🇯🇵 V437U-2x-BGP-JP-NF
-      - 🇯🇵 V438U-2x-BGP-JP-NF
-      - 🇯🇵 V439U-2x-BGP-JP-NF
-      - 🇸🇬 V450U-1x-BGP-SG-NF
-      - 🇸🇬 V451U-1x-BGP-SG-NF
-      - 🇸🇬 V452U-1x-BGP-SG-NF
-      - 🇸🇬 V453U-1x-BGP-SG-NF
-      - 🇸🇬 V454U-2x-BGP-SG-NF
-      - 🇸🇬 V455U-2x-BGP-SG-NF
-      - 🇸🇬 V456U-2x-BGP-SG-NF
-      - 🇸🇬 V457U-2x-BGP-SG-NF
-      - 🇸🇬 V458U-4x-BGP-SG-NF
-      - 🇸🇬 V459U-4x-BGP-SG-NF
-      - 🇹🇼 V472U-2x-BGP-TW-NF
-      - 🇹🇼 V473U-2x-BGP-TW-NF
-      - 🇹🇼 V474U-2x-BGP-TW-NF
-      - 🇹🇼 V475U-2x-BGP-TW-NF
-      - 🇺🇸 V480U-1x-BGP-US-NF
-      - 🇺🇸 V481U-1x-BGP-US-NF
-      - 🇺🇸 V482U-1x-BGP-US-NF
-      - 🇺🇸 V483U-1x-BGP-US-NF
-      - 🇺🇸 V486U-2x-BGP-US-NF
-      - 🇺🇸 V487U-2x-BGP-US-NF
-      - 🇺🇸 V488U-2x-BGP-US-NF
-      - 🇺🇸 V489U-2x-BGP-US-NF
-      - 🏳️‍🌈 应急续费节点-10x
-      - 🇭🇰 Hong Kong 01
-      - 🇭🇰 Hong Kong 02
-      - 🇭🇰 Hong Kong 03
-      - 🇭🇰 Hong Kong 04
-      - 🇭🇰 Hong Kong 05
-      - 🇭🇰 Hong Kong 06
-      - 🇭🇰 Hong Kong 07
-      - 🇭🇰 Hong Kong 08
-      - 🇭🇰 Hong Kong 09
-      - 🇭🇰 Hong Kong 10
-      - 🇸🇬 Singapore 01
-      - 🇸🇬 Singapore 02
-      - 🇸🇬 Singapore 03
-      - 🇸🇬 Singapore 04
-      - 🇸🇬 Singapore 05
-      - 🇯🇵 Japan 01
-      - 🇯🇵 Japan 02
-      - 🇯🇵 Japan 03
-      - 🇯🇵 Japan 04
-      - 🇯🇵 Japan 05
-      - 🇺🇸 United States 01
-      - 🇺🇸 United States 02
-      - 🇺🇸 United States 03
-      - 🇺🇸 United States 04
-      - 🇺🇸 United States 05
-      - 🇹🇼 Taiwan 01
-      - 🇹🇼 Taiwan 02
-      - 🇹🇼 Taiwan 03
-      - 🇹🇼 Taiwan 04
-      - 🇹🇼 Taiwan 05
-      - 🇩🇪 Germany 01
-      - 🇩🇪 Germany 02
-      - 🇩🇪 Germany 03
-      - 🇬🇧 United Kingdom 01
-      - 🇬🇧 United Kingdom 02
-      - 🇬🇧 United Kingdom 03
-      - 🇰🇷 South Korea 01
-      - 🇫🇷 France 01
-      - 🇳🇱 Netherlands 01
-      - 🇮🇳 India 01
-      - Türkiye 01
-      - "🇬🇧 Traffic: 14.93 GB | 150 GB"
-      - "🏳️‍🌈 Expire: 2024-07-05"
       - 🇭🇰 香港实验性 IEPL 中继 1
       - 🇯🇵 日本实验性 IEPL 中继 1
       - 🇸🇬 新加坡实验性 IEPL 中继 1
@@ -488,152 +381,186 @@ proxy-groups:
       - 🇵🇭 菲律宾标准 IEPL 中继 1
       - 🇲🇾 马来西亚标准 IEPL 中继 1
       - 🇪🇬 埃及标准 IEPL 中继 1
+      - 🇭🇰 Hong Kong 01
+      - 🇭🇰 Hong Kong 02
+      - 🇭🇰 Hong Kong 03
+      - 🇭🇰 Hong Kong 04
+      - 🇭🇰 Hong Kong 05
+      - 🇭🇰 Hong Kong 06
+      - 🇭🇰 Hong Kong 07
+      - 🇭🇰 Hong Kong 08
+      - 🇭🇰 Hong Kong 09
+      - 🇭🇰 Hong Kong 10
+      - 🇸🇬 Singapore 01
+      - 🇸🇬 Singapore 02
+      - 🇸🇬 Singapore 03
+      - 🇸🇬 Singapore 04
+      - 🇸🇬 Singapore 05
+      - 🇯🇵 Japan 01
+      - 🇯🇵 Japan 02
+      - 🇯🇵 Japan 03
+      - 🇯🇵 Japan 04
+      - 🇯🇵 Japan 05
+      - 🇺🇸 United States 01
+      - 🇺🇸 United States 02
+      - 🇺🇸 United States 03
+      - 🇺🇸 United States 04
+      - 🇺🇸 United States 05
+      - 🇹🇼 Taiwan 01
+      - 🇹🇼 Taiwan 02
+      - 🇹🇼 Taiwan 03
+      - 🇹🇼 Taiwan 04
+      - 🇹🇼 Taiwan 05
+      - 🇭🇰 日用 专线 香港 [0.2]
+      - 🇸🇬 日用 专线 狮城 [0.2]
+      - 🇯🇵 日用 专线 日本 [0.2]
+      - 🇺🇸 日用 专线 美国 [0.2]
+      - 🇭🇰 高级 专线 香港 01
+      - 🇭🇰 高级 专线 香港 02
+      - 🇭🇰 高级 专线 香港 03
+      - 🇭🇰 高级 专线 香港 04
+      - 🇭🇰 高级 专线 香港 05
+      - 🇭🇰 高级 专线 香港 06
+      - 🇭🇰 高级 专线 香港 07
+      - 🇭🇰 高级 专线 香港 08
+      - 🇸🇬 高级 专线 狮城 01
+      - 🇸🇬 高级 专线 狮城 02
+      - 🇸🇬 高级 专线 狮城 03
+      - 🇸🇬 高级 专线 狮城 04
+      - 🇸🇬 高级 专线 狮城 05
+      - 🇺🇸 高级 专线 美国 01
+      - 🇺🇸 高级 专线 美国 02
+      - 🇺🇸 高级 专线 美国 03
+      - 🇺🇸 高级 专线 美国 04
+      - 🇺🇸 高级 专线 美国 05
+      - 🇺🇸 高级 专线 美国 06
+      - 🇺🇸 高级 专线 美国 07
+      - 🇺🇸 高级 专线 美国 08
+      - 🇺🇸 高级 专线 美国 09
+      - 🇺🇸 高级 专线 美国 10
+      - 🇰🇷 高级 专线 韩国 01
+      - 🇰🇷 高级 专线 韩国 02
+      - 🇹🇼 高级 专线 台湾 01
+      - 🇹🇼 高级 专线 台湾 02
+      - 🇯🇵 高级 专线 日本 01
+      - 🇯🇵 高级 专线 日本 02
+      - 🇯🇵 高级 专线 日本 03
+      - 🇯🇵 高级 专线 日本 04
+      - 🇯🇵 高级 专线 日本 05
+      - 🇯🇵 高级 专线 日本 06
+      - 🇯🇵 高级 专线 日本 07
+      - 🇯🇵 高级 专线 日本 08
+      - 🇭🇰 标准 专线 香港 01
+      - 🇭🇰 标准 专线 香港 02
+      - 🇭🇰 标准 专线 香港 03
+      - 🇸🇬 标准 专线 狮城 01
+      - 🇸🇬 标准 专线 狮城 02
+      - 🇸🇬 标准 专线 狮城 03
+      - 🇺🇸 标准 专线 美国 01
+      - 🇺🇸 标准 专线 美国 02
+      - 🇺🇸 标准 专线 美国 03
+      - 🇺🇸 标准 专线 美国 04
+      - 🇺🇸 标准 专线 美国 05
+      - 🇺🇸 标准 专线 美国 06
+      - 🇰🇷 标准 专线 韩国 01
+      - 🇯🇵 标准 专线 日本 01
+      - 🇯🇵 标准 专线 日本 02
+      - 🇯🇵 标准 专线 日本 03
+      - 🇯🇵 标准 专线 日本 04
+      - 🇹🇼 标准 专线 台湾 01
+      - 🇬🇧 特殊 专线 伦敦 01
+      - 🇬🇧 特殊 专线 伦敦 02
+      - 🇩🇪 特殊 专线 德国 01
+      - 🇩🇪 特殊 专线 德国 02
+      - 🇧🇷 特殊 专线 巴西 01
+      - 🇧🇷 特殊 专线 巴西 02
+      - 🇨🇦 特殊 专线 加拿大 01
+      - 🇨🇦 特殊 专线 加拿大 02
+      - 🇹🇷 特殊 专线 土耳其 01
+      - 🇹🇷 特殊 专线 土耳其 02
+      - 🇹🇭 特殊 专线 泰国
+      - 🇻🇳 特殊 专线 越南
+      - 🇮🇳 特殊 专线 印度
+      - 🇦🇺 特殊 专线 悉尼
+      - 🇦🇪 特殊 专线 迪拜
+      - 🇫🇷 特殊 专线 法国
+      - 🇳🇱 特殊 专线 荷兰
+      - 🇮🇩 特殊 专线 印尼
+      - 🇿🇦 特殊 专线 南非
+      - 🇪🇬 特殊 专线 埃及
+      - 🇵🇭 特殊 专线 菲律宾
+      - 🇮🇹 特殊 专线 意大利
+      - 🇪🇸 特殊 专线 西班牙
+      - 🇭🇺 特殊 专线 匈牙利
+      - 🇮🇱 特殊 专线 以色列
+      - 🇺🇦 特殊 专线 乌克兰
+      - 🇷🇺 特殊 专线 俄罗斯
+      - 🇲🇾 特殊 专线 马来西亚
+      - 🇳🇬 特殊 专线 尼日利亚
+      - 🇵🇰 特殊 专线 巴基斯坦
+      - 🇲🇩 特殊 专线 摩尔多瓦
+      - 🇦🇷 购物 专线 阿根廷
+      - 🇭🇰 香港 01
+      - 🇭🇰 香港 02
+      - 🇭🇰 香港 03
+      - 🇭🇰 香港 04
+      - 🇭🇰 香港 05
+      - 🇭🇰 香港 06
+      - 🇭🇰 香港 07
+      - 🇭🇰 香港 08
+      - 🇭🇰 香港 09
+      - 🇭🇰 香港 10
+      - 🇭🇰 香港 11
+      - 🇭🇰 香港 12
+      - 🇭🇰 香港 13
+      - 🇭🇰 香港 14
+      - 🇭🇰 香港 15
+      - 🇭🇰 香港 16
+      - 🇭🇰 香港 17
+      - 🇭🇰 香港 18
+      - 🇭🇰 香港 19
+      - 🇭🇰 香港 20
+      - 🇭🇰 香港 21
+      - 🇺🇸 美国 01
+      - 🇺🇸 美国 02
+      - 🇺🇸 美国 03
+      - 🇺🇸 美国 04
+      - 🇺🇸 美国 05
+      - 🇺🇸 美国 06
+      - 🇺🇸 美国 07
+      - 🇺🇸 美国 08
+      - 🇺🇸 美国 09
+      - 🇺🇸 美国 10
+      - 🇺🇸 美国 11
+      - 🇺🇸 美国 12
+      - 🇺🇸 美国 13
+      - 🇯🇵 日本 01
+      - 🇯🇵 日本 02
+      - 🇯🇵 日本 03
+      - 🇯🇵 日本 04
+      - 🇯🇵 日本 05
+      - 🇯🇵 日本 06
+      - 🇯🇵 日本 07
+      - 🇯🇵 日本 08
+      - 🇹🇼 台湾 01
+      - 🇹🇼 台湾 02
+      - 🇹🇼 台湾 03
+      - 🇹🇼 台湾 04
+      - 🇹🇼 台湾 05
+      - 🇹🇼 台湾 06
+      - 🇹🇼 台湾 07
+      - 🇹🇼 台湾 08
+      - 🇹🇼 台湾 09
+      - 🇹🇼 台湾 10
+      - 🇸🇬 新加坡 01
+      - 🇸🇬 新加坡 02
+      - 🇸🇬 新加坡 03
+      - 🇸🇬 新加坡 04
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🇭🇰 V301U-1x-BGP-HK-NF
-      - 🇭🇰 V302U-1x-BGP-HK-NF
-      - 🇭🇰 V303U-1x-BGP-HK-NF
-      - 🇭🇰 V304U-1x-BGP-HK-NF
-      - 🇭🇰 V305U-1x-BGP-HK-NF
-      - 🇭🇰 V306U-1x-BGP-HK-NF
-      - 🇭🇰 V307U-1x-BGP-HK-NF
-      - 🇭🇰 V308U-1x-BGP-HK-NF
-      - 🇭🇰 V309U-1x-BGP-HK-NF
-      - 🇭🇰 V310U-1x-BGP-HK-NF
-      - 🇭🇰 V320U-2x-BGP-HK-NF
-      - 🇭🇰 V321U-2x-BGP-HK-NF
-      - 🇭🇰 V322U-2x-BGP-HK-NF
-      - 🇭🇰 V323U-2x-BGP-HK-NF
-      - 🇭🇰 V326U-4x-BGP-HK-NF
-      - 🇭🇰 V327U-4x-BGP-HK-NF
-      - 🇭🇰 V328U-4x-BGP-HK-NF
-      - 🇭🇰 V329U-4x-BGP-HK-NF
-      - 🇯🇵 V332U-1x-BGP-JP-NF
-      - 🇯🇵 V333U-1x-BGP-JP-NF
-      - 🇯🇵 V334U-1x-BGP-JP-NF
-      - 🇯🇵 V335U-1x-BGP-JP-NF
-      - 🇯🇵 V336U-2x-BGP-JP-NF
-      - 🇯🇵 V337U-2x-BGP-JP-NF
-      - 🇯🇵 V338U-2x-BGP-JP-NF
-      - 🇯🇵 V339U-2x-BGP-JP-NF
-      - 🇸🇬 V350U-1x-BGP-SG-NF
-      - 🇸🇬 V351U-1x-BGP-SG-NF
-      - 🇸🇬 V352U-1x-BGP-SG-NF
-      - 🇸🇬 V353U-1x-BGP-SG-NF
-      - 🇸🇬 V354U-2x-BGP-SG-NF
-      - 🇸🇬 V355U-2x-BGP-SG-NF
-      - 🇸🇬 V356U-2x-BGP-SG-NF
-      - 🇸🇬 V357U-2x-BGP-SG-NF
-      - 🇸🇬 V358U-4x-BGP-SG-NF
-      - 🇸🇬 V359U-4x-BGP-SG-NF
-      - 🇹🇼 V370U-2x-BGP-TW-NF
-      - 🇹🇼 V371U-2x-BGP-TW-NF
-      - 🇺🇸 V380U-1x-BGP-US-NF
-      - 🇺🇸 V381U-1x-BGP-US-NF
-      - 🇺🇸 V382U-1x-BGP-US-NF
-      - 🇺🇸 V383U-1x-BGP-US-NF
-      - 🇺🇸 V386U-2x-BGP-US-NF
-      - 🇺🇸 V387U-2x-BGP-US-NF
-      - 🇺🇸 V388U-2x-BGP-US-NF
-      - 🇺🇸 V389U-2x-BGP-US-NF
-      - 🇬🇧 V393U-1x-BGP-UK
-      - 🇩🇪 V394U-1x-BGP-DE
-      - 🇷🇺 V395U-1x-BGP-RU
-      - 🇭🇰 V401U-1x-BGP-HK-NF
-      - 🇭🇰 V402U-1x-BGP-HK-NF
-      - 🇭🇰 V403U-1x-BGP-HK-NF
-      - 🇭🇰 V404U-1x-BGP-HK-NF
-      - 🇭🇰 V405U-1x-BGP-HK-NF
-      - 🇭🇰 V406U-1x-BGP-HK-NF
-      - 🇭🇰 V407U-1x-BGP-HK-NF
-      - 🇭🇰 V408U-1x-BGP-HK-NF
-      - 🇭🇰 V409U-1x-BGP-HK-NF
-      - 🇭🇰 V410U-1x-BGP-HK-NF
-      - 🇭🇰 V420U-2x-BGP-HK-NF
-      - 🇭🇰 V421U-2x-BGP-HK-NF
-      - 🇭🇰 V422U-2x-BGP-HK-NF
-      - 🇭🇰 V423U-2x-BGP-HK-NF
-      - 🇭🇰 V426U-4x-BGP-HK-NF
-      - 🇭🇰 V427U-4x-BGP-HK-NF
-      - 🇭🇰 V428U-4x-BGP-HK-NF
-      - 🇭🇰 V429U-4x-BGP-HK-NF
-      - 🇯🇵 V432U-1x-BGP-JP-NF
-      - 🇯🇵 V433U-1x-BGP-JP-NF
-      - 🇯🇵 V434U-1x-BGP-JP-NF
-      - 🇯🇵 V435U-1x-BGP-JP-NF
-      - 🇯🇵 V436U-2x-BGP-JP-NF
-      - 🇯🇵 V437U-2x-BGP-JP-NF
-      - 🇯🇵 V438U-2x-BGP-JP-NF
-      - 🇯🇵 V439U-2x-BGP-JP-NF
-      - 🇸🇬 V450U-1x-BGP-SG-NF
-      - 🇸🇬 V451U-1x-BGP-SG-NF
-      - 🇸🇬 V452U-1x-BGP-SG-NF
-      - 🇸🇬 V453U-1x-BGP-SG-NF
-      - 🇸🇬 V454U-2x-BGP-SG-NF
-      - 🇸🇬 V455U-2x-BGP-SG-NF
-      - 🇸🇬 V456U-2x-BGP-SG-NF
-      - 🇸🇬 V457U-2x-BGP-SG-NF
-      - 🇸🇬 V458U-4x-BGP-SG-NF
-      - 🇸🇬 V459U-4x-BGP-SG-NF
-      - 🇹🇼 V472U-2x-BGP-TW-NF
-      - 🇹🇼 V473U-2x-BGP-TW-NF
-      - 🇹🇼 V474U-2x-BGP-TW-NF
-      - 🇹🇼 V475U-2x-BGP-TW-NF
-      - 🇺🇸 V480U-1x-BGP-US-NF
-      - 🇺🇸 V481U-1x-BGP-US-NF
-      - 🇺🇸 V482U-1x-BGP-US-NF
-      - 🇺🇸 V483U-1x-BGP-US-NF
-      - 🇺🇸 V486U-2x-BGP-US-NF
-      - 🇺🇸 V487U-2x-BGP-US-NF
-      - 🇺🇸 V488U-2x-BGP-US-NF
-      - 🇺🇸 V489U-2x-BGP-US-NF
-      - 🏳️‍🌈 应急续费节点-10x
-      - 🇭🇰 Hong Kong 01
-      - 🇭🇰 Hong Kong 02
-      - 🇭🇰 Hong Kong 03
-      - 🇭🇰 Hong Kong 04
-      - 🇭🇰 Hong Kong 05
-      - 🇭🇰 Hong Kong 06
-      - 🇭🇰 Hong Kong 07
-      - 🇭🇰 Hong Kong 08
-      - 🇭🇰 Hong Kong 09
-      - 🇭🇰 Hong Kong 10
-      - 🇸🇬 Singapore 01
-      - 🇸🇬 Singapore 02
-      - 🇸🇬 Singapore 03
-      - 🇸🇬 Singapore 04
-      - 🇸🇬 Singapore 05
-      - 🇯🇵 Japan 01
-      - 🇯🇵 Japan 02
-      - 🇯🇵 Japan 03
-      - 🇯🇵 Japan 04
-      - 🇯🇵 Japan 05
-      - 🇺🇸 United States 01
-      - 🇺🇸 United States 02
-      - 🇺🇸 United States 03
-      - 🇺🇸 United States 04
-      - 🇺🇸 United States 05
-      - 🇹🇼 Taiwan 01
-      - 🇹🇼 Taiwan 02
-      - 🇹🇼 Taiwan 03
-      - 🇹🇼 Taiwan 04
-      - 🇹🇼 Taiwan 05
-      - 🇩🇪 Germany 01
-      - 🇩🇪 Germany 02
-      - 🇩🇪 Germany 03
-      - 🇬🇧 United Kingdom 01
-      - 🇬🇧 United Kingdom 02
-      - 🇬🇧 United Kingdom 03
-      - 🇰🇷 South Korea 01
-      - 🇫🇷 France 01
-      - 🇳🇱 Netherlands 01
-      - 🇮🇳 India 01
-      - Türkiye 01
-      - "🇬🇧 Traffic: 14.93 GB | 150 GB"
-      - "🏳️‍🌈 Expire: 2024-07-05"
       - 🇭🇰 香港实验性 IEPL 中继 1
       - 🇯🇵 日本实验性 IEPL 中继 1
       - 🇸🇬 新加坡实验性 IEPL 中继 1
@@ -721,6 +648,181 @@ proxy-groups:
       - 🇵🇭 菲律宾标准 IEPL 中继 1
       - 🇲🇾 马来西亚标准 IEPL 中继 1
       - 🇪🇬 埃及标准 IEPL 中继 1
+      - 🇭🇰 Hong Kong 01
+      - 🇭🇰 Hong Kong 02
+      - 🇭🇰 Hong Kong 03
+      - 🇭🇰 Hong Kong 04
+      - 🇭🇰 Hong Kong 05
+      - 🇭🇰 Hong Kong 06
+      - 🇭🇰 Hong Kong 07
+      - 🇭🇰 Hong Kong 08
+      - 🇭🇰 Hong Kong 09
+      - 🇭🇰 Hong Kong 10
+      - 🇸🇬 Singapore 01
+      - 🇸🇬 Singapore 02
+      - 🇸🇬 Singapore 03
+      - 🇸🇬 Singapore 04
+      - 🇸🇬 Singapore 05
+      - 🇯🇵 Japan 01
+      - 🇯🇵 Japan 02
+      - 🇯🇵 Japan 03
+      - 🇯🇵 Japan 04
+      - 🇯🇵 Japan 05
+      - 🇺🇸 United States 01
+      - 🇺🇸 United States 02
+      - 🇺🇸 United States 03
+      - 🇺🇸 United States 04
+      - 🇺🇸 United States 05
+      - 🇹🇼 Taiwan 01
+      - 🇹🇼 Taiwan 02
+      - 🇹🇼 Taiwan 03
+      - 🇹🇼 Taiwan 04
+      - 🇹🇼 Taiwan 05
+      - 🇭🇰 日用 专线 香港 [0.2]
+      - 🇸🇬 日用 专线 狮城 [0.2]
+      - 🇯🇵 日用 专线 日本 [0.2]
+      - 🇺🇸 日用 专线 美国 [0.2]
+      - 🇭🇰 高级 专线 香港 01
+      - 🇭🇰 高级 专线 香港 02
+      - 🇭🇰 高级 专线 香港 03
+      - 🇭🇰 高级 专线 香港 04
+      - 🇭🇰 高级 专线 香港 05
+      - 🇭🇰 高级 专线 香港 06
+      - 🇭🇰 高级 专线 香港 07
+      - 🇭🇰 高级 专线 香港 08
+      - 🇸🇬 高级 专线 狮城 01
+      - 🇸🇬 高级 专线 狮城 02
+      - 🇸🇬 高级 专线 狮城 03
+      - 🇸🇬 高级 专线 狮城 04
+      - 🇸🇬 高级 专线 狮城 05
+      - 🇺🇸 高级 专线 美国 01
+      - 🇺🇸 高级 专线 美国 02
+      - 🇺🇸 高级 专线 美国 03
+      - 🇺🇸 高级 专线 美国 04
+      - 🇺🇸 高级 专线 美国 05
+      - 🇺🇸 高级 专线 美国 06
+      - 🇺🇸 高级 专线 美国 07
+      - 🇺🇸 高级 专线 美国 08
+      - 🇺🇸 高级 专线 美国 09
+      - 🇺🇸 高级 专线 美国 10
+      - 🇰🇷 高级 专线 韩国 01
+      - 🇰🇷 高级 专线 韩国 02
+      - 🇹🇼 高级 专线 台湾 01
+      - 🇹🇼 高级 专线 台湾 02
+      - 🇯🇵 高级 专线 日本 01
+      - 🇯🇵 高级 专线 日本 02
+      - 🇯🇵 高级 专线 日本 03
+      - 🇯🇵 高级 专线 日本 04
+      - 🇯🇵 高级 专线 日本 05
+      - 🇯🇵 高级 专线 日本 06
+      - 🇯🇵 高级 专线 日本 07
+      - 🇯🇵 高级 专线 日本 08
+      - 🇭🇰 标准 专线 香港 01
+      - 🇭🇰 标准 专线 香港 02
+      - 🇭🇰 标准 专线 香港 03
+      - 🇸🇬 标准 专线 狮城 01
+      - 🇸🇬 标准 专线 狮城 02
+      - 🇸🇬 标准 专线 狮城 03
+      - 🇺🇸 标准 专线 美国 01
+      - 🇺🇸 标准 专线 美国 02
+      - 🇺🇸 标准 专线 美国 03
+      - 🇺🇸 标准 专线 美国 04
+      - 🇺🇸 标准 专线 美国 05
+      - 🇺🇸 标准 专线 美国 06
+      - 🇰🇷 标准 专线 韩国 01
+      - 🇯🇵 标准 专线 日本 01
+      - 🇯🇵 标准 专线 日本 02
+      - 🇯🇵 标准 专线 日本 03
+      - 🇯🇵 标准 专线 日本 04
+      - 🇹🇼 标准 专线 台湾 01
+      - 🇬🇧 特殊 专线 伦敦 01
+      - 🇬🇧 特殊 专线 伦敦 02
+      - 🇩🇪 特殊 专线 德国 01
+      - 🇩🇪 特殊 专线 德国 02
+      - 🇧🇷 特殊 专线 巴西 01
+      - 🇧🇷 特殊 专线 巴西 02
+      - 🇨🇦 特殊 专线 加拿大 01
+      - 🇨🇦 特殊 专线 加拿大 02
+      - 🇹🇷 特殊 专线 土耳其 01
+      - 🇹🇷 特殊 专线 土耳其 02
+      - 🇹🇭 特殊 专线 泰国
+      - 🇻🇳 特殊 专线 越南
+      - 🇮🇳 特殊 专线 印度
+      - 🇦🇺 特殊 专线 悉尼
+      - 🇦🇪 特殊 专线 迪拜
+      - 🇫🇷 特殊 专线 法国
+      - 🇳🇱 特殊 专线 荷兰
+      - 🇮🇩 特殊 专线 印尼
+      - 🇿🇦 特殊 专线 南非
+      - 🇪🇬 特殊 专线 埃及
+      - 🇵🇭 特殊 专线 菲律宾
+      - 🇮🇹 特殊 专线 意大利
+      - 🇪🇸 特殊 专线 西班牙
+      - 🇭🇺 特殊 专线 匈牙利
+      - 🇮🇱 特殊 专线 以色列
+      - 🇺🇦 特殊 专线 乌克兰
+      - 🇷🇺 特殊 专线 俄罗斯
+      - 🇲🇾 特殊 专线 马来西亚
+      - 🇳🇬 特殊 专线 尼日利亚
+      - 🇵🇰 特殊 专线 巴基斯坦
+      - 🇲🇩 特殊 专线 摩尔多瓦
+      - 🇦🇷 购物 专线 阿根廷
+      - 🇭🇰 香港 01
+      - 🇭🇰 香港 02
+      - 🇭🇰 香港 03
+      - 🇭🇰 香港 04
+      - 🇭🇰 香港 05
+      - 🇭🇰 香港 06
+      - 🇭🇰 香港 07
+      - 🇭🇰 香港 08
+      - 🇭🇰 香港 09
+      - 🇭🇰 香港 10
+      - 🇭🇰 香港 11
+      - 🇭🇰 香港 12
+      - 🇭🇰 香港 13
+      - 🇭🇰 香港 14
+      - 🇭🇰 香港 15
+      - 🇭🇰 香港 16
+      - 🇭🇰 香港 17
+      - 🇭🇰 香港 18
+      - 🇭🇰 香港 19
+      - 🇭🇰 香港 20
+      - 🇭🇰 香港 21
+      - 🇺🇸 美国 01
+      - 🇺🇸 美国 02
+      - 🇺🇸 美国 03
+      - 🇺🇸 美国 04
+      - 🇺🇸 美国 05
+      - 🇺🇸 美国 06
+      - 🇺🇸 美国 07
+      - 🇺🇸 美国 08
+      - 🇺🇸 美国 09
+      - 🇺🇸 美国 10
+      - 🇺🇸 美国 11
+      - 🇺🇸 美国 12
+      - 🇺🇸 美国 13
+      - 🇯🇵 日本 01
+      - 🇯🇵 日本 02
+      - 🇯🇵 日本 03
+      - 🇯🇵 日本 04
+      - 🇯🇵 日本 05
+      - 🇯🇵 日本 06
+      - 🇯🇵 日本 07
+      - 🇯🇵 日本 08
+      - 🇹🇼 台湾 01
+      - 🇹🇼 台湾 02
+      - 🇹🇼 台湾 03
+      - 🇹🇼 台湾 04
+      - 🇹🇼 台湾 05
+      - 🇹🇼 台湾 06
+      - 🇹🇼 台湾 07
+      - 🇹🇼 台湾 08
+      - 🇹🇼 台湾 09
+      - 🇹🇼 台湾 10
+      - 🇸🇬 新加坡 01
+      - 🇸🇬 新加坡 02
+      - 🇸🇬 新加坡 03
+      - 🇸🇬 新加坡 04
   - name: 🎯 国内网络
     type: select
     proxies:
@@ -943,42 +1045,18 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇭🇰 V301U-1x-BGP-HK-NF
-      - 🇭🇰 V302U-1x-BGP-HK-NF
-      - 🇭🇰 V303U-1x-BGP-HK-NF
-      - 🇭🇰 V304U-1x-BGP-HK-NF
-      - 🇭🇰 V305U-1x-BGP-HK-NF
-      - 🇭🇰 V306U-1x-BGP-HK-NF
-      - 🇭🇰 V307U-1x-BGP-HK-NF
-      - 🇭🇰 V308U-1x-BGP-HK-NF
-      - 🇭🇰 V309U-1x-BGP-HK-NF
-      - 🇭🇰 V310U-1x-BGP-HK-NF
-      - 🇭🇰 V320U-2x-BGP-HK-NF
-      - 🇭🇰 V321U-2x-BGP-HK-NF
-      - 🇭🇰 V322U-2x-BGP-HK-NF
-      - 🇭🇰 V323U-2x-BGP-HK-NF
-      - 🇭🇰 V326U-4x-BGP-HK-NF
-      - 🇭🇰 V327U-4x-BGP-HK-NF
-      - 🇭🇰 V328U-4x-BGP-HK-NF
-      - 🇭🇰 V329U-4x-BGP-HK-NF
-      - 🇭🇰 V401U-1x-BGP-HK-NF
-      - 🇭🇰 V402U-1x-BGP-HK-NF
-      - 🇭🇰 V403U-1x-BGP-HK-NF
-      - 🇭🇰 V404U-1x-BGP-HK-NF
-      - 🇭🇰 V405U-1x-BGP-HK-NF
-      - 🇭🇰 V406U-1x-BGP-HK-NF
-      - 🇭🇰 V407U-1x-BGP-HK-NF
-      - 🇭🇰 V408U-1x-BGP-HK-NF
-      - 🇭🇰 V409U-1x-BGP-HK-NF
-      - 🇭🇰 V410U-1x-BGP-HK-NF
-      - 🇭🇰 V420U-2x-BGP-HK-NF
-      - 🇭🇰 V421U-2x-BGP-HK-NF
-      - 🇭🇰 V422U-2x-BGP-HK-NF
-      - 🇭🇰 V423U-2x-BGP-HK-NF
-      - 🇭🇰 V426U-4x-BGP-HK-NF
-      - 🇭🇰 V427U-4x-BGP-HK-NF
-      - 🇭🇰 V428U-4x-BGP-HK-NF
-      - 🇭🇰 V429U-4x-BGP-HK-NF
+      - 🇭🇰 香港实验性 IEPL 中继 1
+      - 🇭🇰 香港高级 IEPL 中继 1
+      - 🇭🇰 香港高级 IEPL 中继 2
+      - 🇭🇰 香港高级 IEPL 中继 3
+      - 🇭🇰 香港标准 IEPL 中继 1
+      - 🇭🇰 香港标准 IEPL 中继 2
+      - 🇭🇰 香港标准 IEPL 中继 3
+      - 🇭🇰 香港标准 IEPL 中继 4
+      - 🇭🇰 香港标准 IEPL 中继 5
+      - 🇭🇰 香港标准 IEPL 中继 6
+      - 🇭🇰 香港标准 IEPL 中继 7
+      - 🇭🇰 香港标准 IEPL 中继 8
       - 🇭🇰 Hong Kong 01
       - 🇭🇰 Hong Kong 02
       - 🇭🇰 Hong Kong 03
@@ -989,45 +1067,45 @@ proxy-groups:
       - 🇭🇰 Hong Kong 08
       - 🇭🇰 Hong Kong 09
       - 🇭🇰 Hong Kong 10
-      - 🇭🇰 香港实验性 IEPL 中继 1
-      - 🇭🇰 香港高级 IEPL 中继 1
-      - 🇭🇰 香港高级 IEPL 中继 2
-      - 🇭🇰 香港高级 IEPL 中继 3
-      - 🇭🇰 香港标准 IEPL 中继 1
-      - 🇭🇰 香港标准 IEPL 中继 2
-      - 🇭🇰 香港标准 IEPL 中继 3
-      - 🇭🇰 香港标准 IEPL 中继 4
-      - 🇭🇰 香港标准 IEPL 中继 5
-      - 🇭🇰 香港标准 IEPL 中继 6
-      - 🇭🇰 香港标准 IEPL 中继 7
-      - 🇭🇰 香港标准 IEPL 中继 8
+      - 🇭🇰 日用 专线 香港 [0.2]
+      - 🇭🇰 高级 专线 香港 01
+      - 🇭🇰 高级 专线 香港 02
+      - 🇭🇰 高级 专线 香港 03
+      - 🇭🇰 高级 专线 香港 04
+      - 🇭🇰 高级 专线 香港 05
+      - 🇭🇰 高级 专线 香港 06
+      - 🇭🇰 高级 专线 香港 07
+      - 🇭🇰 高级 专线 香港 08
+      - 🇭🇰 标准 专线 香港 01
+      - 🇭🇰 标准 专线 香港 02
+      - 🇭🇰 标准 专线 香港 03
+      - 🇭🇰 香港 01
+      - 🇭🇰 香港 02
+      - 🇭🇰 香港 03
+      - 🇭🇰 香港 04
+      - 🇭🇰 香港 05
+      - 🇭🇰 香港 06
+      - 🇭🇰 香港 07
+      - 🇭🇰 香港 08
+      - 🇭🇰 香港 09
+      - 🇭🇰 香港 10
+      - 🇭🇰 香港 11
+      - 🇭🇰 香港 12
+      - 🇭🇰 香港 13
+      - 🇭🇰 香港 14
+      - 🇭🇰 香港 15
+      - 🇭🇰 香港 16
+      - 🇭🇰 香港 17
+      - 🇭🇰 香港 18
+      - 🇭🇰 香港 19
+      - 🇭🇰 香港 20
+      - 🇭🇰 香港 21
   - name: 🇯🇵 日本节点
     type: url-test
     url: http://www.apple.com/library/test/success.html
     interval: 300
     tolerance: 50
     proxies:
-      - 🇯🇵 V332U-1x-BGP-JP-NF
-      - 🇯🇵 V333U-1x-BGP-JP-NF
-      - 🇯🇵 V334U-1x-BGP-JP-NF
-      - 🇯🇵 V335U-1x-BGP-JP-NF
-      - 🇯🇵 V336U-2x-BGP-JP-NF
-      - 🇯🇵 V337U-2x-BGP-JP-NF
-      - 🇯🇵 V338U-2x-BGP-JP-NF
-      - 🇯🇵 V339U-2x-BGP-JP-NF
-      - 🇯🇵 V432U-1x-BGP-JP-NF
-      - 🇯🇵 V433U-1x-BGP-JP-NF
-      - 🇯🇵 V434U-1x-BGP-JP-NF
-      - 🇯🇵 V435U-1x-BGP-JP-NF
-      - 🇯🇵 V436U-2x-BGP-JP-NF
-      - 🇯🇵 V437U-2x-BGP-JP-NF
-      - 🇯🇵 V438U-2x-BGP-JP-NF
-      - 🇯🇵 V439U-2x-BGP-JP-NF
-      - 🇯🇵 Japan 01
-      - 🇯🇵 Japan 02
-      - 🇯🇵 Japan 03
-      - 🇯🇵 Japan 04
-      - 🇯🇵 Japan 05
       - 🇯🇵 日本实验性 IEPL 中继 1
       - 🇯🇵 日本高级 IEPL 中继 1
       - 🇯🇵 日本高级 IEPL 中继 2
@@ -1040,33 +1118,42 @@ proxy-groups:
       - 🇯🇵 日本标准 IEPL 中继 6
       - 🇯🇵 日本标准 IEPL 中继 7
       - 🇯🇵 日本标准 IEPL 中继 8
+      - 🇯🇵 Japan 01
+      - 🇯🇵 Japan 02
+      - 🇯🇵 Japan 03
+      - 🇯🇵 Japan 04
+      - 🇯🇵 Japan 05
+      - 🇭🇰 日用 专线 香港 [0.2]
+      - 🇸🇬 日用 专线 狮城 [0.2]
+      - 🇯🇵 日用 专线 日本 [0.2]
+      - 🇺🇸 日用 专线 美国 [0.2]
+      - 🇯🇵 高级 专线 日本 01
+      - 🇯🇵 高级 专线 日本 02
+      - 🇯🇵 高级 专线 日本 03
+      - 🇯🇵 高级 专线 日本 04
+      - 🇯🇵 高级 专线 日本 05
+      - 🇯🇵 高级 专线 日本 06
+      - 🇯🇵 高级 专线 日本 07
+      - 🇯🇵 高级 专线 日本 08
+      - 🇯🇵 标准 专线 日本 01
+      - 🇯🇵 标准 专线 日本 02
+      - 🇯🇵 标准 专线 日本 03
+      - 🇯🇵 标准 专线 日本 04
+      - 🇳🇬 特殊 专线 尼日利亚
+      - 🇯🇵 日本 01
+      - 🇯🇵 日本 02
+      - 🇯🇵 日本 03
+      - 🇯🇵 日本 04
+      - 🇯🇵 日本 05
+      - 🇯🇵 日本 06
+      - 🇯🇵 日本 07
+      - 🇯🇵 日本 08
   - name: 🇺🇲 美国节点
     type: url-test
     url: http://www.apple.com/library/test/success.html
     interval: 300
     tolerance: 50
     proxies:
-      - 🇺🇸 V380U-1x-BGP-US-NF
-      - 🇺🇸 V381U-1x-BGP-US-NF
-      - 🇺🇸 V382U-1x-BGP-US-NF
-      - 🇺🇸 V383U-1x-BGP-US-NF
-      - 🇺🇸 V386U-2x-BGP-US-NF
-      - 🇺🇸 V387U-2x-BGP-US-NF
-      - 🇺🇸 V388U-2x-BGP-US-NF
-      - 🇺🇸 V389U-2x-BGP-US-NF
-      - 🇺🇸 V480U-1x-BGP-US-NF
-      - 🇺🇸 V481U-1x-BGP-US-NF
-      - 🇺🇸 V482U-1x-BGP-US-NF
-      - 🇺🇸 V483U-1x-BGP-US-NF
-      - 🇺🇸 V486U-2x-BGP-US-NF
-      - 🇺🇸 V487U-2x-BGP-US-NF
-      - 🇺🇸 V488U-2x-BGP-US-NF
-      - 🇺🇸 V489U-2x-BGP-US-NF
-      - 🇺🇸 United States 01
-      - 🇺🇸 United States 02
-      - 🇺🇸 United States 03
-      - 🇺🇸 United States 04
-      - 🇺🇸 United States 05
       - 🇺🇸 美国实验性 IEPL 中继 1
       - 🇺🇸 美国高级 IEPL 中继 1
       - 🇺🇸 美国高级 IEPL 中继 2
@@ -1079,37 +1166,47 @@ proxy-groups:
       - 🇺🇸 美国标准 IEPL 中继 6
       - 🇺🇸 美国标准 IEPL 中继 7
       - 🇺🇸 美国标准 IEPL 中继 8
+      - 🇺🇸 United States 01
+      - 🇺🇸 United States 02
+      - 🇺🇸 United States 03
+      - 🇺🇸 United States 04
+      - 🇺🇸 United States 05
+      - 🇺🇸 日用 专线 美国 [0.2]
+      - 🇺🇸 高级 专线 美国 01
+      - 🇺🇸 高级 专线 美国 02
+      - 🇺🇸 高级 专线 美国 03
+      - 🇺🇸 高级 专线 美国 04
+      - 🇺🇸 高级 专线 美国 05
+      - 🇺🇸 高级 专线 美国 06
+      - 🇺🇸 高级 专线 美国 07
+      - 🇺🇸 高级 专线 美国 08
+      - 🇺🇸 高级 专线 美国 09
+      - 🇺🇸 高级 专线 美国 10
+      - 🇺🇸 标准 专线 美国 01
+      - 🇺🇸 标准 专线 美国 02
+      - 🇺🇸 标准 专线 美国 03
+      - 🇺🇸 标准 专线 美国 04
+      - 🇺🇸 标准 专线 美国 05
+      - 🇺🇸 标准 专线 美国 06
+      - 🇺🇸 美国 01
+      - 🇺🇸 美国 02
+      - 🇺🇸 美国 03
+      - 🇺🇸 美国 04
+      - 🇺🇸 美国 05
+      - 🇺🇸 美国 06
+      - 🇺🇸 美国 07
+      - 🇺🇸 美国 08
+      - 🇺🇸 美国 09
+      - 🇺🇸 美国 10
+      - 🇺🇸 美国 11
+      - 🇺🇸 美国 12
+      - 🇺🇸 美国 13
   - name: 🇸🇬 新加坡节点
     type: url-test
     url: http://www.apple.com/library/test/success.html
     interval: 300
     tolerance: 50
     proxies:
-      - 🇸🇬 V350U-1x-BGP-SG-NF
-      - 🇸🇬 V351U-1x-BGP-SG-NF
-      - 🇸🇬 V352U-1x-BGP-SG-NF
-      - 🇸🇬 V353U-1x-BGP-SG-NF
-      - 🇸🇬 V354U-2x-BGP-SG-NF
-      - 🇸🇬 V355U-2x-BGP-SG-NF
-      - 🇸🇬 V356U-2x-BGP-SG-NF
-      - 🇸🇬 V357U-2x-BGP-SG-NF
-      - 🇸🇬 V358U-4x-BGP-SG-NF
-      - 🇸🇬 V359U-4x-BGP-SG-NF
-      - 🇸🇬 V450U-1x-BGP-SG-NF
-      - 🇸🇬 V451U-1x-BGP-SG-NF
-      - 🇸🇬 V452U-1x-BGP-SG-NF
-      - 🇸🇬 V453U-1x-BGP-SG-NF
-      - 🇸🇬 V454U-2x-BGP-SG-NF
-      - 🇸🇬 V455U-2x-BGP-SG-NF
-      - 🇸🇬 V456U-2x-BGP-SG-NF
-      - 🇸🇬 V457U-2x-BGP-SG-NF
-      - 🇸🇬 V458U-4x-BGP-SG-NF
-      - 🇸🇬 V459U-4x-BGP-SG-NF
-      - 🇸🇬 Singapore 01
-      - 🇸🇬 Singapore 02
-      - 🇸🇬 Singapore 03
-      - 🇸🇬 Singapore 04
-      - 🇸🇬 Singapore 05
       - 🇸🇬 新加坡实验性 IEPL 中继 1
       - 🇸🇬 新加坡高级 IEPL 中继 1
       - 🇸🇬 新加坡高级 IEPL 中继 2
@@ -1123,138 +1220,126 @@ proxy-groups:
       - 🇸🇬 新加坡标准 IEPL 中继 7
       - 🇸🇬 新加坡标准 IEPL 中继 8
       - 🇳🇿 新西兰标准 IEPL 中继 1
+      - 🇸🇬 Singapore 01
+      - 🇸🇬 Singapore 02
+      - 🇸🇬 Singapore 03
+      - 🇸🇬 Singapore 04
+      - 🇸🇬 Singapore 05
+      - 🇸🇬 日用 专线 狮城 [0.2]
+      - 🇸🇬 高级 专线 狮城 01
+      - 🇸🇬 高级 专线 狮城 02
+      - 🇸🇬 高级 专线 狮城 03
+      - 🇸🇬 高级 专线 狮城 04
+      - 🇸🇬 高级 专线 狮城 05
+      - 🇸🇬 标准 专线 狮城 01
+      - 🇸🇬 标准 专线 狮城 02
+      - 🇸🇬 标准 专线 狮城 03
+      - 🇸🇬 新加坡 01
+      - 🇸🇬 新加坡 02
+      - 🇸🇬 新加坡 03
+      - 🇸🇬 新加坡 04
   - name: 🇨🇳 台湾节点
     type: url-test
     url: http://www.apple.com/library/test/success.html
     interval: 300
     tolerance: 50
     proxies:
-      - 🇹🇼 V370U-2x-BGP-TW-NF
-      - 🇹🇼 V371U-2x-BGP-TW-NF
-      - 🇹🇼 V472U-2x-BGP-TW-NF
-      - 🇹🇼 V473U-2x-BGP-TW-NF
-      - 🇹🇼 V474U-2x-BGP-TW-NF
-      - 🇹🇼 V475U-2x-BGP-TW-NF
-      - 🇹🇼 Taiwan 01
-      - 🇹🇼 Taiwan 02
-      - 🇹🇼 Taiwan 03
-      - 🇹🇼 Taiwan 04
-      - 🇹🇼 Taiwan 05
       - 🇹🇼 台湾高级 IEPL 中继 1
       - 🇹🇼 台湾高级 IEPL 中继 2
       - 🇹🇼 台湾高级 IEPL 中继 3
       - 🇹🇼 台湾标准 IEPL 中继 1
       - 🇹🇼 台湾标准 IEPL 中继 2
       - 🇹🇼 台湾标准 IEPL 中继 3
+      - 🇹🇼 Taiwan 01
+      - 🇹🇼 Taiwan 02
+      - 🇹🇼 Taiwan 03
+      - 🇹🇼 Taiwan 04
+      - 🇹🇼 Taiwan 05
+      - 🇹🇼 高级 专线 台湾 01
+      - 🇹🇼 高级 专线 台湾 02
+      - 🇹🇼 标准 专线 台湾 01
+      - 🇹🇼 台湾 01
+      - 🇹🇼 台湾 02
+      - 🇹🇼 台湾 03
+      - 🇹🇼 台湾 04
+      - 🇹🇼 台湾 05
+      - 🇹🇼 台湾 06
+      - 🇹🇼 台湾 07
+      - 🇹🇼 台湾 08
+      - 🇹🇼 台湾 09
+      - 🇹🇼 台湾 10
   - name: 🇰🇷 韩国节点
     type: url-test
     url: http://www.apple.com/library/test/success.html
     interval: 300
     tolerance: 50
     proxies:
-      - 🇰🇷 South Korea 01
       - 🇰🇷 韩国标准 IEPL 中继 1
       - 🇰🇷 韩国标准 IEPL 中继 2
+      - 🇰🇷 高级 专线 韩国 01
+      - 🇰🇷 高级 专线 韩国 02
+      - 🇰🇷 标准 专线 韩国 01
   - name: 🎥 奈飞节点
     type: url-test
     url: http://www.apple.com/library/test/success.html
     interval: 300
     tolerance: 50
     proxies:
-      - 🇭🇰 V301U-1x-BGP-HK-NF
-      - 🇭🇰 V302U-1x-BGP-HK-NF
-      - 🇭🇰 V303U-1x-BGP-HK-NF
-      - 🇭🇰 V304U-1x-BGP-HK-NF
-      - 🇭🇰 V305U-1x-BGP-HK-NF
-      - 🇭🇰 V306U-1x-BGP-HK-NF
-      - 🇭🇰 V307U-1x-BGP-HK-NF
-      - 🇭🇰 V308U-1x-BGP-HK-NF
-      - 🇭🇰 V309U-1x-BGP-HK-NF
-      - 🇭🇰 V310U-1x-BGP-HK-NF
-      - 🇭🇰 V320U-2x-BGP-HK-NF
-      - 🇭🇰 V321U-2x-BGP-HK-NF
-      - 🇭🇰 V322U-2x-BGP-HK-NF
-      - 🇭🇰 V323U-2x-BGP-HK-NF
-      - 🇭🇰 V326U-4x-BGP-HK-NF
-      - 🇭🇰 V327U-4x-BGP-HK-NF
-      - 🇭🇰 V328U-4x-BGP-HK-NF
-      - 🇭🇰 V329U-4x-BGP-HK-NF
-      - 🇯🇵 V332U-1x-BGP-JP-NF
-      - 🇯🇵 V333U-1x-BGP-JP-NF
-      - 🇯🇵 V334U-1x-BGP-JP-NF
-      - 🇯🇵 V335U-1x-BGP-JP-NF
-      - 🇯🇵 V336U-2x-BGP-JP-NF
-      - 🇯🇵 V337U-2x-BGP-JP-NF
-      - 🇯🇵 V338U-2x-BGP-JP-NF
-      - 🇯🇵 V339U-2x-BGP-JP-NF
-      - 🇸🇬 V350U-1x-BGP-SG-NF
-      - 🇸🇬 V351U-1x-BGP-SG-NF
-      - 🇸🇬 V352U-1x-BGP-SG-NF
-      - 🇸🇬 V353U-1x-BGP-SG-NF
-      - 🇸🇬 V354U-2x-BGP-SG-NF
-      - 🇸🇬 V355U-2x-BGP-SG-NF
-      - 🇸🇬 V356U-2x-BGP-SG-NF
-      - 🇸🇬 V357U-2x-BGP-SG-NF
-      - 🇸🇬 V358U-4x-BGP-SG-NF
-      - 🇸🇬 V359U-4x-BGP-SG-NF
-      - 🇹🇼 V370U-2x-BGP-TW-NF
-      - 🇹🇼 V371U-2x-BGP-TW-NF
-      - 🇺🇸 V380U-1x-BGP-US-NF
-      - 🇺🇸 V381U-1x-BGP-US-NF
-      - 🇺🇸 V382U-1x-BGP-US-NF
-      - 🇺🇸 V383U-1x-BGP-US-NF
-      - 🇺🇸 V386U-2x-BGP-US-NF
-      - 🇺🇸 V387U-2x-BGP-US-NF
-      - 🇺🇸 V388U-2x-BGP-US-NF
-      - 🇺🇸 V389U-2x-BGP-US-NF
-      - 🇭🇰 V401U-1x-BGP-HK-NF
-      - 🇭🇰 V402U-1x-BGP-HK-NF
-      - 🇭🇰 V403U-1x-BGP-HK-NF
-      - 🇭🇰 V404U-1x-BGP-HK-NF
-      - 🇭🇰 V405U-1x-BGP-HK-NF
-      - 🇭🇰 V406U-1x-BGP-HK-NF
-      - 🇭🇰 V407U-1x-BGP-HK-NF
-      - 🇭🇰 V408U-1x-BGP-HK-NF
-      - 🇭🇰 V409U-1x-BGP-HK-NF
-      - 🇭🇰 V410U-1x-BGP-HK-NF
-      - 🇭🇰 V420U-2x-BGP-HK-NF
-      - 🇭🇰 V421U-2x-BGP-HK-NF
-      - 🇭🇰 V422U-2x-BGP-HK-NF
-      - 🇭🇰 V423U-2x-BGP-HK-NF
-      - 🇭🇰 V426U-4x-BGP-HK-NF
-      - 🇭🇰 V427U-4x-BGP-HK-NF
-      - 🇭🇰 V428U-4x-BGP-HK-NF
-      - 🇭🇰 V429U-4x-BGP-HK-NF
-      - 🇯🇵 V432U-1x-BGP-JP-NF
-      - 🇯🇵 V433U-1x-BGP-JP-NF
-      - 🇯🇵 V434U-1x-BGP-JP-NF
-      - 🇯🇵 V435U-1x-BGP-JP-NF
-      - 🇯🇵 V436U-2x-BGP-JP-NF
-      - 🇯🇵 V437U-2x-BGP-JP-NF
-      - 🇯🇵 V438U-2x-BGP-JP-NF
-      - 🇯🇵 V439U-2x-BGP-JP-NF
-      - 🇸🇬 V450U-1x-BGP-SG-NF
-      - 🇸🇬 V451U-1x-BGP-SG-NF
-      - 🇸🇬 V452U-1x-BGP-SG-NF
-      - 🇸🇬 V453U-1x-BGP-SG-NF
-      - 🇸🇬 V454U-2x-BGP-SG-NF
-      - 🇸🇬 V455U-2x-BGP-SG-NF
-      - 🇸🇬 V456U-2x-BGP-SG-NF
-      - 🇸🇬 V457U-2x-BGP-SG-NF
-      - 🇸🇬 V458U-4x-BGP-SG-NF
-      - 🇸🇬 V459U-4x-BGP-SG-NF
-      - 🇹🇼 V472U-2x-BGP-TW-NF
-      - 🇹🇼 V473U-2x-BGP-TW-NF
-      - 🇹🇼 V474U-2x-BGP-TW-NF
-      - 🇹🇼 V475U-2x-BGP-TW-NF
-      - 🇺🇸 V480U-1x-BGP-US-NF
-      - 🇺🇸 V481U-1x-BGP-US-NF
-      - 🇺🇸 V482U-1x-BGP-US-NF
-      - 🇺🇸 V483U-1x-BGP-US-NF
-      - 🇺🇸 V486U-2x-BGP-US-NF
-      - 🇺🇸 V487U-2x-BGP-US-NF
-      - 🇺🇸 V488U-2x-BGP-US-NF
-      - 🇺🇸 V489U-2x-BGP-US-NF
+      - 🇭🇰 香港实验性 IEPL 中继 1
+      - 🇭🇰 香港高级 IEPL 中继 1
+      - 🇭🇰 香港高级 IEPL 中继 2
+      - 🇭🇰 香港高级 IEPL 中继 3
+      - 🇭🇰 香港标准 IEPL 中继 1
+      - 🇭🇰 香港标准 IEPL 中继 2
+      - 🇭🇰 香港标准 IEPL 中继 3
+      - 🇭🇰 香港标准 IEPL 中继 4
+      - 🇭🇰 香港标准 IEPL 中继 5
+      - 🇭🇰 香港标准 IEPL 中继 6
+      - 🇭🇰 香港标准 IEPL 中继 7
+      - 🇭🇰 香港标准 IEPL 中继 8
+      - 🇭🇰 Hong Kong 01
+      - 🇭🇰 Hong Kong 02
+      - 🇭🇰 Hong Kong 03
+      - 🇭🇰 Hong Kong 04
+      - 🇭🇰 Hong Kong 05
+      - 🇭🇰 Hong Kong 06
+      - 🇭🇰 Hong Kong 07
+      - 🇭🇰 Hong Kong 08
+      - 🇭🇰 Hong Kong 09
+      - 🇭🇰 Hong Kong 10
+      - 🇭🇰 日用 专线 香港 [0.2]
+      - 🇭🇰 高级 专线 香港 01
+      - 🇭🇰 高级 专线 香港 02
+      - 🇭🇰 高级 专线 香港 03
+      - 🇭🇰 高级 专线 香港 04
+      - 🇭🇰 高级 专线 香港 05
+      - 🇭🇰 高级 专线 香港 06
+      - 🇭🇰 高级 专线 香港 07
+      - 🇭🇰 高级 专线 香港 08
+      - 🇭🇰 标准 专线 香港 01
+      - 🇭🇰 标准 专线 香港 02
+      - 🇭🇰 标准 专线 香港 03
+      - 🇭🇰 香港 01
+      - 🇭🇰 香港 02
+      - 🇭🇰 香港 03
+      - 🇭🇰 香港 04
+      - 🇭🇰 香港 05
+      - 🇭🇰 香港 06
+      - 🇭🇰 香港 07
+      - 🇭🇰 香港 08
+      - 🇭🇰 香港 09
+      - 🇭🇰 香港 10
+      - 🇭🇰 香港 11
+      - 🇭🇰 香港 12
+      - 🇭🇰 香港 13
+      - 🇭🇰 香港 14
+      - 🇭🇰 香港 15
+      - 🇭🇰 香港 16
+      - 🇭🇰 香港 17
+      - 🇭🇰 香港 18
+      - 🇭🇰 香港 19
+      - 🇭🇰 香港 20
+      - 🇭🇰 香港 21
   - name: 🔑 专用线路
     type: url-test
     url: http://www.apple.com/library/test/success.html
@@ -1262,24 +1347,9 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇭🇰 香港实验性 IEPL 中继 1
-      - 🇯🇵 日本实验性 IEPL 中继 1
-      - 🇸🇬 新加坡实验性 IEPL 中继 1
-      - 🇺🇸 美国实验性 IEPL 中继 1
       - 🇭🇰 香港高级 IEPL 中继 1
       - 🇭🇰 香港高级 IEPL 中继 2
       - 🇭🇰 香港高级 IEPL 中继 3
-      - 🇯🇵 日本高级 IEPL 中继 1
-      - 🇯🇵 日本高级 IEPL 中继 2
-      - 🇯🇵 日本高级 IEPL 中继 3
-      - 🇸🇬 新加坡高级 IEPL 中继 1
-      - 🇸🇬 新加坡高级 IEPL 中继 2
-      - 🇸🇬 新加坡高级 IEPL 中继 3
-      - 🇹🇼 台湾高级 IEPL 中继 1
-      - 🇹🇼 台湾高级 IEPL 中继 2
-      - 🇹🇼 台湾高级 IEPL 中继 3
-      - 🇺🇸 美国高级 IEPL 中继 1
-      - 🇺🇸 美国高级 IEPL 中继 2
-      - 🇺🇸 美国高级 IEPL 中继 3
       - 🇭🇰 香港标准 IEPL 中继 1
       - 🇭🇰 香港标准 IEPL 中继 2
       - 🇭🇰 香港标准 IEPL 中继 3
@@ -1288,66 +1358,49 @@ proxy-groups:
       - 🇭🇰 香港标准 IEPL 中继 6
       - 🇭🇰 香港标准 IEPL 中继 7
       - 🇭🇰 香港标准 IEPL 中继 8
-      - 🇯🇵 日本标准 IEPL 中继 1
-      - 🇯🇵 日本标准 IEPL 中继 2
-      - 🇯🇵 日本标准 IEPL 中继 3
-      - 🇯🇵 日本标准 IEPL 中继 4
-      - 🇯🇵 日本标准 IEPL 中继 5
-      - 🇯🇵 日本标准 IEPL 中继 6
-      - 🇯🇵 日本标准 IEPL 中继 7
-      - 🇯🇵 日本标准 IEPL 中继 8
-      - 🇸🇬 新加坡标准 IEPL 中继 1
-      - 🇸🇬 新加坡标准 IEPL 中继 2
-      - 🇸🇬 新加坡标准 IEPL 中继 3
-      - 🇸🇬 新加坡标准 IEPL 中继 4
-      - 🇸🇬 新加坡标准 IEPL 中继 5
-      - 🇸🇬 新加坡标准 IEPL 中继 6
-      - 🇸🇬 新加坡标准 IEPL 中继 7
-      - 🇸🇬 新加坡标准 IEPL 中继 8
-      - 🇹🇼 台湾标准 IEPL 中继 1
-      - 🇹🇼 台湾标准 IEPL 中继 2
-      - 🇹🇼 台湾标准 IEPL 中继 3
-      - 🇺🇸 美国标准 IEPL 中继 1
-      - 🇺🇸 美国标准 IEPL 中继 2
-      - 🇺🇸 美国标准 IEPL 中继 3
-      - 🇺🇸 美国标准 IEPL 中继 4
-      - 🇺🇸 美国标准 IEPL 中继 5
-      - 🇺🇸 美国标准 IEPL 中继 6
-      - 🇺🇸 美国标准 IEPL 中继 7
-      - 🇺🇸 美国标准 IEPL 中继 8
-      - 🇲🇩 摩尔多瓦标准 IEPL 中继 1
-      - 🇺🇦 乌克兰标准 IEPL 中继 1
-      - 🇮🇹 意大利标准 IEPL 中继 1
-      - 🇭🇺 匈牙利标准 IEPL 中继 1
-      - 🇪🇸 西班牙标准 IEPL 中继 1
-      - 🇹🇷 土耳其标准 IEPL 中继 1
-      - 🇩🇪 德国标准 IEPL 中继 1
-      - 🇩🇪 德国标准 IEPL 中继 2
-      - 🇬🇧 英国标准 IEPL 中继 1
-      - 🇬🇧 英国标准 IEPL 中继 2
-      - 🇳🇱 荷兰标准 IEPL 中继 1
-      - 🇳🇱 荷兰标准 IEPL 中继 2
-      - 🇫🇷 法国标准 IEPL 中继 1
-      - 🇫🇷 法国标准 IEPL 中继 2
-      - 🇨🇦 加拿大标准 IEPL 中继 1
-      - 🇨🇦 加拿大标准 IEPL 中继 2
-      - 🇦🇷 阿根廷标准 IEPL 中继 1
-      - 🇧🇷 巴西标准 IEPL 中继 1
-      - 🇨🇱 智利标准 IEPL 中继 1
-      - 🇦🇺 澳大利亚标准 IEPL 中继 1
-      - 🇳🇿 新西兰标准 IEPL 中继 1
-      - 🇰🇷 韩国标准 IEPL 中继 1
-      - 🇰🇷 韩国标准 IEPL 中继 2
-      - 🇮🇩 印尼标准 IEPL 中继 1
-      - 🇹🇭 泰国标准 IEPL 中继 1
-      - 🇻🇳 越南标准 IEPL 中继 1
-      - 🇮🇳 印度标准 IEPL 中继 1
-      - 🇵🇰 巴基斯坦标准 IEPL 中继 1
-      - 🇮🇱 以色列标准 IEPL 中继 1
-      - 🇦🇪 阿联酋标准 IEPL 中继 1
-      - 🇵🇭 菲律宾标准 IEPL 中继 1
-      - 🇲🇾 马来西亚标准 IEPL 中继 1
-      - 🇪🇬 埃及标准 IEPL 中继 1
+      - 🇭🇰 Hong Kong 01
+      - 🇭🇰 Hong Kong 02
+      - 🇭🇰 Hong Kong 03
+      - 🇭🇰 Hong Kong 04
+      - 🇭🇰 Hong Kong 05
+      - 🇭🇰 Hong Kong 06
+      - 🇭🇰 Hong Kong 07
+      - 🇭🇰 Hong Kong 08
+      - 🇭🇰 Hong Kong 09
+      - 🇭🇰 Hong Kong 10
+      - 🇭🇰 日用 专线 香港 [0.2]
+      - 🇭🇰 高级 专线 香港 01
+      - 🇭🇰 高级 专线 香港 02
+      - 🇭🇰 高级 专线 香港 03
+      - 🇭🇰 高级 专线 香港 04
+      - 🇭🇰 高级 专线 香港 05
+      - 🇭🇰 高级 专线 香港 06
+      - 🇭🇰 高级 专线 香港 07
+      - 🇭🇰 高级 专线 香港 08
+      - 🇭🇰 标准 专线 香港 01
+      - 🇭🇰 标准 专线 香港 02
+      - 🇭🇰 标准 专线 香港 03
+      - 🇭🇰 香港 01
+      - 🇭🇰 香港 02
+      - 🇭🇰 香港 03
+      - 🇭🇰 香港 04
+      - 🇭🇰 香港 05
+      - 🇭🇰 香港 06
+      - 🇭🇰 香港 07
+      - 🇭🇰 香港 08
+      - 🇭🇰 香港 09
+      - 🇭🇰 香港 10
+      - 🇭🇰 香港 11
+      - 🇭🇰 香港 12
+      - 🇭🇰 香港 13
+      - 🇭🇰 香港 14
+      - 🇭🇰 香港 15
+      - 🇭🇰 香港 16
+      - 🇭🇰 香港 17
+      - 🇭🇰 香港 18
+      - 🇭🇰 香港 19
+      - 🇭🇰 香港 20
+      - 🇭🇰 香港 21
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 国内网络
   - DOMAIN-SUFFIX,ip6-localhost,🎯 国内网络
