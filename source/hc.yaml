@@ -1,3 +1,19 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: :9090
+dns:
+  enabled: true
+  nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+  fallback:
+    - 8.8.8.8
+    - 8.8.4.4
+    - tls://1.0.0.1:853
+    - tls://dns.google:853
 proxies:
   - {name: 🇭🇰 香港 01, server: 552fd69.qfbwcd.xyz, port: 18300, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 32e736dac5e240c6, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 8tZ3rOd9f4.microsoft.com}}
   - {name: 🇭🇰 香港 02, server: 552fd69.qfbwcd.xyz, port: 18305, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 32e736dac5e240c6, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: 8tZ3rOd9f4.microsoft.com}}
@@ -17339,166 +17355,3 @@ rules:
   - DOMAIN-SUFFIX,tsu.cx,🐼 つつ
   - MATCH,🐟 其他网站
 
-
-
-
-port: 3333
-socks-port: 23456
-redir-port: 23457
-allow-lan: true
-mode: Rule
-log-level: error
-external-controller: 192.168.50.1:9990
-experimental:
-  ignore-resolve-fail: true
-external-ui: dashboard
-external-ui-name: metacubexd
-secret: "clash"
-profile:
-  store-selected: true
-  store-fake-ip: true
-ipv6: false
-
-hosts:
-  services.googleapis.cn: 74.125.193.94
-  time.android.com: 203.107.6.88
-  ipv6.msftconnecttest.com: 2a01:111:2003::52 #勿删
-  www.msftconnecttest.com: 13.107.4.52 #勿删
-  
-routing-mark: 255
-
-dns:
-  enable: true
-  ipv6: false
-  default-nameserver:
-    - 223.5.5.5
-    - 8.8.8.8
-  listen: :23453
-  enhanced-mode: fake-ip
-  fake-ip-range: 198.18.0.1/16 
-  fake-ip-filter:
-    - '*.lan'
-    - '*.linksys.com'
-    - '*.linksyssmartwifi.com'
-    # Apple
-    - 'swscan.apple.com'
-    - 'mesu.apple.com'
-    - 'swquery.apple.com'
-    - 'swdownload.apple.com'
-    - 'swcdn.apple.com'
-    - 'swdist.apple.com'
-    # Microsoft Service
-    - '*.msftconnecttest.com'
-    - '*.msftncsi.com'
-    - 'xbox.*.microsoft.com'
-    - 'xbox.*.*.microsoft.com'
-    - '+.xboxlive.com'
-    #  NTP Service
-    - 'time.*.com'
-    - 'time.*.gov'
-    - 'time.*.edu.cn'
-    - 'time.*.apple.com'
-    - 'time1.*.com'
-    - 'time2.*.com'
-    - 'time3.*.com'
-    - 'time4.*.com'
-    - 'time5.*.com'
-    - 'time6.*.com'
-    - 'time7.*.com'
-    - 'ntp.*.com'
-    - 'ntp.*.com'
-    - 'ntp1.*.com'
-    - 'ntp2.*.com'
-    - 'ntp3.*.com'
-    - 'ntp4.*.com'
-    - 'ntp5.*.com'
-    - 'ntp6.*.com'
-    - 'ntp7.*.com'
-    - '*.time.edu.cn'
-    - '*.ntp.org.cn'
-    - '+.pool.ntp.org'
-    - 'time1.cloud.tencent.com'
-    # Google
-    - 'lens.l.google.com'
-    # Music Service
-    - '+.music.163.com'
-    - '+.126.net'
-    - 'musicapi.taihe.com'
-    - 'music.taihe.com'
-    - 'songsearch.kugou.com'
-    - 'trackercdn.kugou.com'
-    - '*.kuwo.cn'
-    - 'api-jooxtt.sanook.com'
-    - 'api.joox.com'
-    - 'joox.com'
-    - '+.y.qq.com'
-    - '+.music.tc.qq.com'
-    - 'aqqmusic.tc.qq.com'
-    - '+.stream.qqmusic.qq.com'
-    - '+.xiami.com'
-    - '+.music.migu.cn'
-    # Game Service
-    - '+.stun.*.*'
-    - '+.stun.*.*.*'
-    - '+.stun.*.*.*.*'
-    - '+.stun.*.*.*.*.*'
-    - '+.srv.nintendo.net'
-    - '*.n.n.srv.nintendo.net'
-    - '+.stun.playstation.net'
-    - '+.battlenet.com.cn'
-    - '+.wotgame.cn'
-    - '+.wggames.cn'
-    - '+.wowsgame.cn'
-    - '+.wargaming.net'
-    - '*.square-enix.com'
-    - '*.finalfantasyxiv.com'
-    - '*.ffxiv.com'
-    - '*.ff14.sdo.com'
-    - 'ff.dorado.sdo.com'
-    # Other
-    - 'localhost.ptlogin2.qq.com'
-    - 'localhost.sec.qq.com'
-    - 'proxy.golang.org'
-    - '+.qq.com'
-    - '+.baidu.com'
-    - '+.163.com'
-    - '+.126.net'
-    - '+.taobao.com'
-    - '+.jd.com'
-    - '+.tmall.com'
-    - '*.mcdn.bilivideo.cn'
-    - '+.nvidia.com'
-    - '+.nvidia.cn'
-    - '+.nvgs.nvidia.com'
-    - '+.nvgs.nvidia.cn'
-    - 'shark007.net'
-  nameserver:
-    - 119.29.29.29
-    - 223.5.5.5
-    - 180.76.76.76
-    
-tproxy: true
-tproxy-port: 23458
-
-sniffer:
-  enable: true
-  force-dns-mapping: false
-  parse-pure-ip: true
-  override-destination: true
-  sniff:
-    TLS:
-      ports: [443, 8443]
-    
-    HTTP:   
-      ports: [80, 8080-8880]
-      override-destination: false
-  force-domain:
-    - +.v2ex.com
-    
-  skip-domain:
-    - 'Mijia Cloud'
-    - 'dlg.io.mi.com'
-    - '+.apple.com'
-
-
-tcp-concurrent: true
