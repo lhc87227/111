@@ -800,7 +800,6 @@ proxy-groups:
       - 🇭🇰 香港-IEPL-Basic专线-08
       - 🇭🇰 香港-IEPL-Basic专线-09
       - 🇭🇰 香港-IEPL-Basic专线-10
-      - DIRECT
   - name: 🇭🇰 香港节点
     type: url-test
     url: http://www.apple.com/library/test/success.html
