@@ -170,6 +170,16 @@ proxies:
   - {name: 🇺🇸 V487U-2x-BGP-US-NF, server: n0d9sl5ifja0.nodelist.club, port: 1487, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇺🇸 V488U-2x-BGP-US-NF, server: n0d9sl5ifja0.nodelist.club, port: 1488, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇺🇸 V489U-2x-BGP-US-NF, server: n0d9sl5ifja0.nodelist.club, port: 1489, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
+  - {name: 🇭🇰 香港-IEPL-Basic专线-01, server: hk1.network-cdn-gw.cc, port: 47759, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇭🇰 香港-IEPL-Basic专线-02, server: hk2.network-cdn-gw.cc, port: 47790, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇭🇰 香港-IEPL-Basic专线-03, server: hk13.network-cdn-gw.cc, port: 47757, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇭🇰 香港-IEPL-Basic专线-04, server: hk14.network-cdn-gw.cc, port: 47758, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇭🇰 香港-IEPL-Basic专线-05, server: hk15.network-cdn-gw.cc, port: 47705, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇭🇰 香港-IEPL-Basic专线-06, server: hk16.network-cdn-gw.cc, port: 47706, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇭🇰 香港-IEPL-Basic专线-07, server: hk17.network-cdn-gw.cc, port: 47707, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇭🇰 香港-IEPL-Basic专线-08, server: hk18.network-cdn-gw.cc, port: 47708, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇭🇰 香港-IEPL-Basic专线-09, server: hk09.network-cdn-gw.cc, port: 47709, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇭🇰 香港-IEPL-Basic专线-10, server: hk11.network-cdn-gw.cc, port: 47711, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
 proxy-groups:
   - name: 🚀 全局设置
     type: select
@@ -342,6 +352,16 @@ proxy-groups:
       - 🇺🇸 V487U-2x-BGP-US-NF
       - 🇺🇸 V488U-2x-BGP-US-NF
       - 🇺🇸 V489U-2x-BGP-US-NF
+      - 🇭🇰 香港-IEPL-Basic专线-01
+      - 🇭🇰 香港-IEPL-Basic专线-02
+      - 🇭🇰 香港-IEPL-Basic专线-03
+      - 🇭🇰 香港-IEPL-Basic专线-04
+      - 🇭🇰 香港-IEPL-Basic专线-05
+      - 🇭🇰 香港-IEPL-Basic专线-06
+      - 🇭🇰 香港-IEPL-Basic专线-07
+      - 🇭🇰 香港-IEPL-Basic专线-08
+      - 🇭🇰 香港-IEPL-Basic专线-09
+      - 🇭🇰 香港-IEPL-Basic专线-10
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -502,6 +522,16 @@ proxy-groups:
       - 🇺🇸 V487U-2x-BGP-US-NF
       - 🇺🇸 V488U-2x-BGP-US-NF
       - 🇺🇸 V489U-2x-BGP-US-NF
+      - 🇭🇰 香港-IEPL-Basic专线-01
+      - 🇭🇰 香港-IEPL-Basic专线-02
+      - 🇭🇰 香港-IEPL-Basic专线-03
+      - 🇭🇰 香港-IEPL-Basic专线-04
+      - 🇭🇰 香港-IEPL-Basic专线-05
+      - 🇭🇰 香港-IEPL-Basic专线-06
+      - 🇭🇰 香港-IEPL-Basic专线-07
+      - 🇭🇰 香港-IEPL-Basic专线-08
+      - 🇭🇰 香港-IEPL-Basic专线-09
+      - 🇭🇰 香港-IEPL-Basic专线-10
   - name: 🎯 国内网络
     type: select
     proxies:
@@ -760,6 +790,17 @@ proxy-groups:
       - 🇭🇰 V427U-4x-BGP-HK-NF
       - 🇭🇰 V428U-4x-BGP-HK-NF
       - 🇭🇰 V429U-4x-BGP-HK-NF
+      - 🇭🇰 香港-IEPL-Basic专线-01
+      - 🇭🇰 香港-IEPL-Basic专线-02
+      - 🇭🇰 香港-IEPL-Basic专线-03
+      - 🇭🇰 香港-IEPL-Basic专线-04
+      - 🇭🇰 香港-IEPL-Basic专线-05
+      - 🇭🇰 香港-IEPL-Basic专线-06
+      - 🇭🇰 香港-IEPL-Basic专线-07
+      - 🇭🇰 香港-IEPL-Basic专线-08
+      - 🇭🇰 香港-IEPL-Basic专线-09
+      - 🇭🇰 香港-IEPL-Basic专线-10
+      - DIRECT
   - name: 🇭🇰 香港节点
     type: url-test
     url: http://www.apple.com/library/test/success.html
