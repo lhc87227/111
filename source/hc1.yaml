@@ -693,6 +693,18 @@ proxy-groups:
       - 🔑 专用线路
       - 🚀 手动选择
       - DIRECT
+  - name: 🐯 Tiger
+    type: select
+    proxies:
+      - 🚀 全局设置
+      - 🇸🇬 新加坡节点
+      - DIRECT
+  - name: 📱 T-mobile
+    type: select
+    proxies:
+      - 🚀 全局设置
+      - 🇺🇲 美国节点
+      - DIRECT
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -2997,6 +3009,8 @@ rules:
   - DOMAIN-SUFFIX,stream3.misakaf.org,❤️ Emby公益服
   - DOMAIN-SUFFIX,emby2.misakaf.org,❤️ Emby公益服
   - DOMAIN-KEYWORD,misakaf,❤️ Emby公益服
+  - DOMAIN-KEYWORD,itigerup,🐯 Tiger
+  - DOMAIN-KEYWORD,t-mobile,📱 T-mobile
   - DOMAIN-SUFFIX,163yun.com,🎶 网易音乐
   - DOMAIN-SUFFIX,api.iplay.163.com,🎶 网易音乐
   - DOMAIN-SUFFIX,hz.netease.com,🎶 网易音乐
