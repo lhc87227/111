@@ -2630,7 +2630,6 @@ rules:
   - DOMAIN-SUFFIX,ad.unimhk.com,🍃 应用净化
   - DOMAIN-SUFFIX,adadmin.house365.com,🍃 应用净化
   - DOMAIN-SUFFIX,adhome.1fangchan.com,🍃 应用净化
-  - DOMAIN-SUFFIX,adm.10jqka.com.cn,🍃 应用净化
   - DOMAIN-SUFFIX,ads.csdn.net,🍃 应用净化
   - DOMAIN-SUFFIX,ads.feedly.com,🍃 应用净化
   - DOMAIN-SUFFIX,ads.genieessp.com,🍃 应用净化
@@ -2664,7 +2663,6 @@ rules:
   - DOMAIN-SUFFIX,dol.tianyaui.cn,🍃 应用净化
   - DOMAIN-SUFFIX,dw.xcar.com.cn,🍃 应用净化
   - DOMAIN-SUFFIX,e.nexac.com,🍃 应用净化
-  - DOMAIN-SUFFIX,eq.10jqka.com.cn,🍃 应用净化
   - DOMAIN-SUFFIX,exp.17wo.cn,🍃 应用净化
   - DOMAIN-SUFFIX,game.51yund.com,🍃 应用净化
   - DOMAIN-SUFFIX,ganjituiguang.ganji.com,🍃 应用净化
@@ -2681,7 +2679,6 @@ rules:
   - DOMAIN-SUFFIX,mobileads.msn.com,🍃 应用净化
   - DOMAIN-SUFFIX,n.cosbot.cn,🍃 应用净化
   - DOMAIN-SUFFIX,newton-api.ele.me,🍃 应用净化
-  - DOMAIN-SUFFIX,ozone.10jqka.com.cn,🍃 应用净化
   - DOMAIN-SUFFIX,pdl.gionee.com,🍃 应用净化
   - DOMAIN-SUFFIX,pica-juicy.picacomic.com,🍃 应用净化
   - DOMAIN-SUFFIX,pixel.wp.com,🍃 应用净化
@@ -2694,7 +2691,6 @@ rules:
   - DOMAIN-SUFFIX,res.gwifi.com.cn,🍃 应用净化
   - DOMAIN-SUFFIX,ssp.kssws.ks-cdn.com,🍃 应用净化
   - DOMAIN-SUFFIX,sta.ganji.com,🍃 应用净化
-  - DOMAIN-SUFFIX,stat.10jqka.com.cn,🍃 应用净化
   - DOMAIN-SUFFIX,stat.it168.com,🍃 应用净化
   - DOMAIN-SUFFIX,stats.chinaz.com,🍃 应用净化
   - DOMAIN-SUFFIX,stats.developingperspective.com,🍃 应用净化
@@ -2702,7 +2698,6 @@ rules:
   - DOMAIN-SUFFIX,tracker.yhd.com,🍃 应用净化
   - DOMAIN-SUFFIX,tralog.ganji.com,🍃 应用净化
   - DOMAIN-SUFFIX,up.qingdaonews.com,🍃 应用净化
-  - DOMAIN-SUFFIX,vaserviece.10jqka.com.cn,🍃 应用净化
   - DOMAIN,alt1-mtalk.google.com,📢 谷歌FCM
   - DOMAIN,alt2-mtalk.google.com,📢 谷歌FCM
   - DOMAIN,alt3-mtalk.google.com,📢 谷歌FCM
@@ -17400,6 +17395,10 @@ rules:
   - IP-CIDR,101.199.196.0/22,🎯 国内网络,no-resolve
   - DOMAIN-SUFFIX,smtp,🎯 国内网络
   - DOMAIN-KEYWORD,aria2,🎯 国内网络
+  - DOMAIN-KEYWORD,10jqka,🎯 国内网络
+  - DOMAIN-KEYWORD,hexin,🎯 国内网络
+  - DOMAIN-KEYWORD,ipify,🎯 国内网络
+  - DOMAIN-KEYWORD,icanhazip,🎯 国内网络
   - GEOIP,CN,🎯 国内网络
   - DOMAIN-SUFFIX,tsutsu.cloud,🐼 つつ
   - DOMAIN-SUFFIX,seto.top,🐼 つつ
