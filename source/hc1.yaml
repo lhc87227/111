@@ -2765,7 +2765,6 @@ rules:
   - DOMAIN-SUFFIX,ocsp.pki.goog,🎯 国内网络
   - DOMAIN-SUFFIX,recaptcha.net,🎯 国内网络
   - DOMAIN-SUFFIX,safebrowsing-cache.google.com,🎯 国内网络
-  - DOMAIN-SUFFIX,settings.crashlytics.com,🎯 国内网络
   - DOMAIN-SUFFIX,ssl-google-analytics.l.google.com,🎯 国内网络
   - DOMAIN-SUFFIX,toolbarqueries.google.com,🎯 国内网络
   - DOMAIN-SUFFIX,tools.google.com,🎯 国内网络
@@ -2797,7 +2796,6 @@ rules:
   - DOMAIN-SUFFIX,apple.news,🍎 苹果服务
   - DOMAIN-SUFFIX,appstore.com,🍎 苹果服务
   - DOMAIN-SUFFIX,cdn-apple.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,crashlytics.com,🍎 苹果服务
   - DOMAIN-SUFFIX,icloud-content.com,🍎 苹果服务
   - DOMAIN-SUFFIX,icloud.com,🍎 苹果服务
   - DOMAIN-SUFFIX,icloud.com.cn,🍎 苹果服务
@@ -3014,6 +3012,11 @@ rules:
   - DOMAIN-KEYWORD,itiger,🐯 Tiger
   - DOMAIN-KEYWORD,tigersecurities,🐯 Tiger
   - DOMAIN-KEYWORD,bybit,🪙 Bybit
+  - DOMAIN-SUFFIX,firebase-settings.crashlytics.com,🪙 Bybit
+  - DOMAIN-SUFFIX,appsflyersdk.com,🪙 Bybit
+  - DOMAIN-SUFFIX,geevisit.com,🪙 Bybit
+  - DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de,🪙 Bybit
+  - DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com,🪙 Bybit
   - DOMAIN-KEYWORD,t-mobile,📱 T-mobile
   - DOMAIN-SUFFIX,163yun.com,🎶 网易音乐
   - DOMAIN-SUFFIX,api.iplay.163.com,🎶 网易音乐
