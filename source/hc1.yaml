@@ -180,6 +180,7 @@ proxies:
   - {name: 🇭🇰 香港-IEPL-Basic专线-08, server: hk18.network-cdn-gw.cc, port: 47708, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
   - {name: 🇭🇰 香港-IEPL-Basic专线-09, server: hk09.network-cdn-gw.cc, port: 47709, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
   - {name: 🇭🇰 香港-IEPL-Basic专线-10, server: hk11.network-cdn-gw.cc, port: 47711, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇩🇪 德国bit, server: dg.nio.fun, port: 15569, client-fingerprint: chrome, type: vmess, uuid: fe648a21-32fd-462a-dcc6-8fa0e893ef36, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /fe648a21, headers: {Host: dg.nio.fun}}}
 proxy-groups:
   - name: 🚀 全局设置
     type: select
@@ -362,6 +363,7 @@ proxy-groups:
       - 🇭🇰 香港-IEPL-Basic专线-08
       - 🇭🇰 香港-IEPL-Basic专线-09
       - 🇭🇰 香港-IEPL-Basic专线-10
+      - 🇩🇪 德国bit
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -532,6 +534,7 @@ proxy-groups:
       - 🇭🇰 香港-IEPL-Basic专线-08
       - 🇭🇰 香港-IEPL-Basic专线-09
       - 🇭🇰 香港-IEPL-Basic专线-10
+      - 🇩🇪 德国bit
   - name: 🎯 国内网络
     type: select
     proxies:
@@ -698,6 +701,12 @@ proxy-groups:
     proxies:
       - 🚀 全局设置
       - 🇸🇬 新加坡节点
+      - DIRECT
+  - name: 🪙 Bybit
+    type: select
+    proxies:
+      - 🚀 全局设置
+      - 🇩🇪 德国bit
       - DIRECT
   - name: 📱 T-mobile
     type: select
@@ -3004,6 +3013,7 @@ rules:
   - DOMAIN-KEYWORD,itigerup,🐯 Tiger
   - DOMAIN-KEYWORD,itiger,🐯 Tiger
   - DOMAIN-KEYWORD,tigersecurities,🐯 Tiger
+  - DOMAIN-KEYWORD,bybit,🪙 Bybit
   - DOMAIN-KEYWORD,t-mobile,📱 T-mobile
   - DOMAIN-SUFFIX,163yun.com,🎶 网易音乐
   - DOMAIN-SUFFIX,api.iplay.163.com,🎶 网易音乐
