@@ -3012,6 +3012,7 @@ rules:
   - DOMAIN-KEYWORD,itiger,🐯 Tiger
   - DOMAIN-KEYWORD,tigersecurities,🐯 Tiger
   - DOMAIN-KEYWORD,bybit,🪙 Bybit
+  - DOMAIN-KEYWORD,wise,🪙 Bybit
   - DOMAIN-SUFFIX,firebase-settings.crashlytics.com,🪙 Bybit
   - DOMAIN-SUFFIX,appsflyersdk.com,🪙 Bybit
   - DOMAIN-SUFFIX,geevisit.com,🪙 Bybit
