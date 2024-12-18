@@ -180,7 +180,7 @@ proxies:
   - {name: 🇭🇰 香港-IEPL-Basic专线-08, server: hk18.network-cdn-gw.cc, port: 47708, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
   - {name: 🇭🇰 香港-IEPL-Basic专线-09, server: hk09.network-cdn-gw.cc, port: 47709, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
   - {name: 🇭🇰 香港-IEPL-Basic专线-10, server: hk11.network-cdn-gw.cc, port: 47711, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
-  - {name: 🇩🇪 德国bit, server: dg.nio.fun, port: 15569, client-fingerprint: chrome, type: vmess, uuid: fe648a21-32fd-462a-dcc6-8fa0e893ef36, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /fe648a21, headers: {Host: dg.nio.fun}}}
+  - {name: 🇩🇪 德国bit, server: 154.94.6.69, port: 37022, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: Pu6NxwiZtT05ds1h3M8EE0wPsRdEgZPh5bftOVYvcPjQ, tfo: false}
 proxy-groups:
   - name: 🚀 全局设置
     type: select
