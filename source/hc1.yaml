@@ -170,7 +170,7 @@ proxies:
   - {name: 🇺🇸 V487U-2x-BGP-US-NF, server: n0d9sl5ifja0.nodelist.club, port: 1487, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇺🇸 V488U-2x-BGP-US-NF, server: n0d9sl5ifja0.nodelist.club, port: 1488, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
   - {name: 🇺🇸 V489U-2x-BGP-US-NF, server: n0d9sl5ifja0.nodelist.club, port: 1489, client-fingerprint: chrome, type: ssr, cipher: chacha20-ietf, password: MAYING, protocol: auth_aes128_md5, obfs: plain, protocol-param: 11939:kissLi99, obfs-param: ""}
-  - {name: 🇭🇰 香港-IEPL-Basic专线-01, server: hk1.network-cdn-gw.cc, port: 47759, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇭🇰 香港-IEPL-Basic专线-01, server: hk1.network-cdn-gw.cc, port: 47789, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
   - {name: 🇭🇰 香港-IEPL-Basic专线-02, server: hk2.network-cdn-gw.cc, port: 47790, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
   - {name: 🇭🇰 香港-IEPL-Basic专线-03, server: hk13.network-cdn-gw.cc, port: 47757, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
   - {name: 🇭🇰 香港-IEPL-Basic专线-04, server: hk14.network-cdn-gw.cc, port: 47758, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
@@ -180,6 +180,18 @@ proxies:
   - {name: 🇭🇰 香港-IEPL-Basic专线-08, server: hk18.network-cdn-gw.cc, port: 47708, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
   - {name: 🇭🇰 香港-IEPL-Basic专线-09, server: hk09.network-cdn-gw.cc, port: 47709, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
   - {name: 🇭🇰 香港-IEPL-Basic专线-10, server: hk11.network-cdn-gw.cc, port: 47711, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇺🇸 美国-IEPL-Basic-01|gpt|专用线路, server: us06.network-cdn-gw.cc, port: 43111, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇺🇸 美国-IEPL-Basic-02|gpt|专用线路, server: us07.network-cdn-gw.cc, port: 43211, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇺🇸 美国-IEPL-Basic-03|gpt|专用线路, server: us08.network-cdn-gw.cc, port: 43212, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇺🇸 美国-IEPL-Basic-04|gpt|专用线路, server: us9.network-cdn-gw.cc, port: 43213, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇺🇸 美国-IEPL-Basic-05|gpt|专用线路, server: us10.network-cdn-gw.cc, port: 43215, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇰🇷 韩国-IEPL-Basic专线-|X2|, server: kr03.network-cdn-gw.cc, port: 41115, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇻🇳 越南-IEPL-Basic专线-01, server: vn01.network-cdn-gw.cc, port: 20001, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇬🇧 英国-IEPL-Basic专线-01, server: uks1.network-cdn-gw.cc, port: 10014, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇯🇵 日本-IEPL-Basic专线-01|gpt|专用线路, server: jp01.network-cdn-gw.cc, port: 48801, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇯🇵 日本-IEPL-Basic专线-02|gpt|专用线路, server: jp2.network-cdn-gw.cc, port: 48802, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇹🇼 台湾-IEPL-Basic专线-01, server: tw1.network-cdn-gw.cc, port: 46601, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
+  - {name: 🇸🇬 新加坡-IEPL-Basic专线-01, server: sgp01.network-cdn-gw.cc, port: 45506, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 116d4582-c76e-4308-bc90-8773eb999f7e, tfo: false}
   - {name: 🇩🇪 德国bit, server: 154.94.6.69, port: 37022, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: Pu6NxwiZtT05ds1h3M8EE0wPsRdEgZPh5bftOVYvcPjQ, tfo: false}
 proxy-groups:
   - name: 🚀 全局设置
@@ -363,6 +375,18 @@ proxy-groups:
       - 🇭🇰 香港-IEPL-Basic专线-08
       - 🇭🇰 香港-IEPL-Basic专线-09
       - 🇭🇰 香港-IEPL-Basic专线-10
+      - 🇺🇸 美国-IEPL-Basic-01|gpt|专用线路
+      - 🇺🇸 美国-IEPL-Basic-02|gpt|专用线路
+      - 🇺🇸 美国-IEPL-Basic-03|gpt|专用线路
+      - 🇺🇸 美国-IEPL-Basic-04|gpt|专用线路
+      - 🇺🇸 美国-IEPL-Basic-05|gpt|专用线路
+      - 🇰🇷 韩国-IEPL-Basic专线-|X2|
+      - 🇻🇳 越南-IEPL-Basic专线-01
+      - 🇬🇧 英国-IEPL-Basic专线-01
+      - 🇯🇵 日本-IEPL-Basic专线-01|gpt|专用线路
+      - 🇯🇵 日本-IEPL-Basic专线-02|gpt|专用线路
+      - 🇹🇼 台湾-IEPL-Basic专线-01
+      - 🇸🇬 新加坡-IEPL-Basic专线-01
       - 🇩🇪 德国bit
   - name: ♻️ 自动选择
     type: url-test
@@ -534,6 +558,18 @@ proxy-groups:
       - 🇭🇰 香港-IEPL-Basic专线-08
       - 🇭🇰 香港-IEPL-Basic专线-09
       - 🇭🇰 香港-IEPL-Basic专线-10
+      - 🇺🇸 美国-IEPL-Basic-01|gpt|专用线路
+      - 🇺🇸 美国-IEPL-Basic-02|gpt|专用线路
+      - 🇺🇸 美国-IEPL-Basic-03|gpt|专用线路
+      - 🇺🇸 美国-IEPL-Basic-04|gpt|专用线路
+      - 🇺🇸 美国-IEPL-Basic-05|gpt|专用线路
+      - 🇰🇷 韩国-IEPL-Basic专线-|X2|
+      - 🇻🇳 越南-IEPL-Basic专线-01
+      - 🇬🇧 英国-IEPL-Basic专线-01
+      - 🇯🇵 日本-IEPL-Basic专线-01|gpt|专用线路
+      - 🇯🇵 日本-IEPL-Basic专线-02|gpt|专用线路
+      - 🇹🇼 台湾-IEPL-Basic专线-01
+      - 🇸🇬 新加坡-IEPL-Basic专线-01
       - 🇩🇪 德国bit
   - name: 🎯 国内网络
     type: select
@@ -821,6 +857,18 @@ proxy-groups:
       - 🇭🇰 香港-IEPL-Basic专线-08
       - 🇭🇰 香港-IEPL-Basic专线-09
       - 🇭🇰 香港-IEPL-Basic专线-10
+      - 🇺🇸 美国-IEPL-Basic-01|gpt|专用线路
+      - 🇺🇸 美国-IEPL-Basic-02|gpt|专用线路
+      - 🇺🇸 美国-IEPL-Basic-03|gpt|专用线路
+      - 🇺🇸 美国-IEPL-Basic-04|gpt|专用线路
+      - 🇺🇸 美国-IEPL-Basic-05|gpt|专用线路
+      - 🇰🇷 韩国-IEPL-Basic专线-|X2|
+      - 🇻🇳 越南-IEPL-Basic专线-01
+      - 🇬🇧 英国-IEPL-Basic专线-01
+      - 🇯🇵 日本-IEPL-Basic专线-01|gpt|专用线路
+      - 🇯🇵 日本-IEPL-Basic专线-02|gpt|专用线路
+      - 🇹🇼 台湾-IEPL-Basic专线-01
+      - 🇸🇬 新加坡-IEPL-Basic专线-01
   - name: 🇭🇰 香港节点
     type: url-test
     url: http://www.apple.com/library/test/success.html
